@@ -2,7 +2,7 @@
   "kod": "tr",
   "ad": "Türkçe",
   "yon": "ltr",
-  "baslik": "Muslimly: Namaz ve Kur'an",
+  "baslik": "Muslimly: Namaz Vakti & Kur'an",
   "metaAciklama": "Namaz vakitleri, 3B namaz öğretimi, Kur'an okuma, kıble, zikirmatik. Hesap yok, reklam yok, veri toplamaz.",
   "nav": {
     "tanitim": "Tanıtım",
@@ -30,7 +30,7 @@
     {
       "ikon": "📖",
       "h3": "Kur'an",
-      "p": "114 sûre, sayfa sayfa okuma, okunuş, beş kâriden ayet ayet dinleme, yer imi ve hatim planı."
+      "p": "114 sûre, sayfa sayfa okuma, okunuş, yer imi, âyete not ve hatim planı."
     },
     {
       "ikon": "🕋",
@@ -58,7 +58,7 @@
     "maddeler": [
       "Hesap, giriş ya da sunucu yok.",
       "Reklam, analitik ve izleme yok.",
-      "İlerlemen ve ayarların yalnız cihazında durur.",
+      "İlerlemen ve ayarların cihazında durur; istersen kendi iCloud hesabınla eşitlenir (bize ulaşmaz).",
       "Konumun vakit ve kıble için cihazda kullanılır; yakın cami aramasında yalnız yaklaşık 1 km'ye yuvarlanmış hâli gönderilir."
     ],
     "tamMetin": "Gizlilik politikasının tamamı"
@@ -117,8 +117,8 @@
   },
   "gizlilik": {
     "h1": "Gizlilik Politikası",
-    "tarih": "Yürürlük tarihi: 30 Eylül 2026",
-    "giris": "Bu politika, iOS için Muslimly: Namaz ve Kur'an uygulamasının (“Muslimly”) hangi bilgileri nasıl kullandığını açıklar. Kısaca: Muslimly'nin bir sunucusu yoktur ve senden kişisel veri toplamaz. Bazı özellikler çalışmak için aşağıda tek tek yazılı üçüncü taraf hizmetlere istek gönderir.",
+    "tarih": "Yürürlük tarihi: 7 Ekim 2026",
+    "giris": "Bu politika, iOS için Muslimly: Namaz Vakti & Kur'an uygulamasının (“Muslimly”) hangi bilgileri nasıl kullandığını açıklar. Kısaca: Muslimly'nin bir sunucusu yoktur ve senden kişisel veri toplamaz. Bazı özellikler çalışmak için aşağıda tek tek yazılı üçüncü taraf hizmetlere istek gönderir.",
     "bolumler": [
       {
         "h2": "Hesap yok",
@@ -138,6 +138,13 @@
           "İsteğe bağlı olarak yazdığın ad, seçtiğin şehir, ayarların, namaz ve görev ilerlemen, Kur'an okuma ilerlemen ve yer imlerin yalnız cihazında saklanır. Bu veriler, açıksa iPhone'unun iCloud yedeğine de dahil olur; bu yedek Apple hesabına aittir ve Muslimly tarafından okunamaz. İndirdiğin ayet sesleri de cihazında durur, ancak yeniden indirilebildikleri için yedeğe alınmaz; iOS yer açmak için bunları silebilir, gerektiğinde yeniden indirilir. Ana ekran widget'ını açarsan, widget'ın gösterebilmesi için kısa bir özet (sıradaki vakit, günün görevleri) yine cihazındaki ortak alana yazılır.",
           "İlk açılışta seçtiğin profil (çocuk, yetişkin erkek ya da yetişkin kadın; çocuksa kız ya da erkek) ve mezhep de yalnız cihazında saklanır; namaz anlatımı, figür ve ikindi vaktinin hesabı için kullanılır, hiçbir yere gönderilmez.",
           "Uygulamayı sildiğinde cihazdaki bütün Muslimly verileri de silinir."
+        ]
+      },
+      {
+        "h2": "iCloud ile eşitleme (isteğe bağlı)",
+        "p": [
+          "Ayarlar'da “iCloud ile eşitle” seçeneğini açarsan (varsayılan kapalıdır) ilerlemen ve ayarların, Apple'ın iCloud anahtar-değer deposu aracılığıyla kendi iCloud hesabına yazılır ve aynı hesaptaki diğer cihazlarınla eşitlenir. Bu veri Apple hesabında durur; Muslimly'nin sunucusu olmadığı için bize ulaşmaz ve biz göremeyiz. Bu hizmet Apple'ın gizlilik politikasına tabidir.",
+          "Özel gün modu bilgisi, satın alma durumu, widget izni ve uygulama ikonu seçimi iCloud'a yazılmaz; yalnız cihazında kalır. Seçeneği kapattığında eşitleme durur."
         ]
       },
       {
@@ -161,9 +168,21 @@
         ]
       },
       {
+        "h2": "Kamera",
+        "p": [
+          "“Kamerada kıble” ekranını açarsan kamera görüntüsü yalnız ekranda, kıble okunun arkasında gösterilir. Görüntü kaydedilmez, işlenmez ve cihazından çıkmaz. Kamera iznini vermezsen pusula ve harita ile kıbleyi yine bulabilirsin."
+        ]
+      },
+      {
         "h2": "Kur'an ve dua sesleri",
         "p": [
           "Sesler uygulamanın içinde gelir; çalmak için hiçbir hizmete istek gönderilmez. Önceki sürümlerin internetten cihaza indirdiği ayet sesleri, uygulama güncellendikten sonraki ilk açılışta cihazdan silinir."
+        ]
+      },
+      {
+        "h2": "Sesli okuma",
+        "p": [
+          "Türkçe metinlerin sesli okunması ve Ayarlar'dan açılabilen Arapça sesli okuma (yapay ses; tilâvet değildir, varsayılan kapalıdır) iPhone'unun kendi konuşma sesleriyle, cihazında yapılır. Okunan metin hiçbir hizmete gönderilmez."
         ]
       },
       {
@@ -184,6 +203,12 @@
         "h2": "Bildirimler",
         "p": [
           "Vakit bildirimleri ve hatırlatmalar cihazında yerel olarak planlanır. Uzaktan (push) bildirim kullanılmaz; bildirim için hiçbir sunucuya kayıt yapılmaz."
+        ]
+      },
+      {
+        "h2": "Widget, Canlı Etkinlik, Siri ve Odak",
+        "p": [
+          "Ana ekran ve kilit ekranı widget'ları, kilit ekranındaki vakit geri sayımı (Canlı Etkinlik), Siri kısayolları ve Odak filtresi cihazında çalışır; vakit bilgisini uygulamanın cihazdaki ortak alanından okur. Bunlar için hiçbir sunucuya istek gönderilmez."
         ]
       },
       {
