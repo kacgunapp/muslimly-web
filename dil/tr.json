@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Gizlilik Politikası",
-    "tarih": "Yürürlük tarihi: 17 Ekim 2026",
+    "tarih": "Yürürlük tarihi: 1.0.1 sürümünün yayın tarihi (taslak)",
     "giris": "Bu politika, iOS için Muslimly: Namaz Vakti & Kur'an uygulamasının (“Muslimly”) hangi bilgileri nasıl kullandığını açıklar. Kısaca: Muslimly'nin bir sunucusu yoktur ve senden kişisel veri toplamaz. Bazı özellikler çalışmak için aşağıda tek tek yazılı üçüncü taraf hizmetlere istek gönderir.",
     "bolumler": [
       {
@@ -127,9 +127,11 @@
         ]
       },
       {
-        "h2": "Reklam, analitik ve izleme yok",
+        "h2": "Reklam yok; çökme raporu ve anonim kullanım ölçümü",
         "p": [
-          "Muslimly reklam göstermez; analitik, çökme raporlama ya da izleme araçları içermez. Seni uygulamalar ve web siteleri arasında izlemez, reklam kimliğine erişmez."
+          "Muslimly reklam göstermez, seni uygulamalar ve web siteleri arasında izlemez, reklam kimliğine erişmez.",
+          "1.0.1 sürümünden itibaren uygulamanın kararlı çalışması için çökme ve performans raporları (Sentry) ile hangi ekranların kullanıldığına dair anonim kullanım ölçümü (PostHog, AB sunucuları) toplanır. Bu veriler kimliğinle ilişkilendirilmez, hesap bilgisi, konum, namaz/Kur'an ilerlemen ya da yazdığın hiçbir içerik gönderilmez; yalnız uygulama sürümü, cihaz modeli, işletim sistemi sürümü, hata ayrıntıları ve ekran adları gider. Geliştirme derlemelerinde bu toplama kapalıdır.",
+          "App Store'daki \"Uygulama Gizliliği\" bölümünde bu veriler Çökme Verileri, Performans Verileri ve Ürün Etkileşimi olarak, \"Seninle İlişkilendirilmeyen Veriler\" başlığı altında beyan edilir."
         ]
       },
       {
