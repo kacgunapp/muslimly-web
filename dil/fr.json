@@ -156,6 +156,12 @@
         ]
       },
       {
+        "h2": "Caméra",
+        "p": [
+          "Nous utilisons l'appareil photo pour afficher la direction de la Qibla par-dessus l'image de la caméra. L'image n'est pas enregistrée et ne quitte pas votre appareil."
+        ]
+      },
+      {
         "h2": "Carte et itinéraire (Apple Plans)",
         "p": [
           "Les cartes des écrans « Mosquées à proximité » et « Kaaba » sont affichées avec Apple Plans. Les images de carte sont chargées depuis Apple pour la zone affichée à l'écran ; si tu as accordé l'autorisation de localisation, ta position est aussi affichée sur la carte. Ce service est soumis à la politique de confidentialité d'Apple.",

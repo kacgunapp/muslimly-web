@@ -156,6 +156,12 @@
         ]
       },
       {
+        "h2": "Camera",
+        "p": [
+          "We gebruiken de camera om de qiblarichting over het camerabeeld te tonen. Het beeld wordt niet opgeslagen en verlaat je apparaat niet."
+        ]
+      },
+      {
         "h2": "Kaart en routebeschrijving (Apple Kaarten)",
         "p": [
           "De kaarten op de schermen “Moskeeën in de buurt” en “Ka'ba” worden getoond met Apple Kaarten. Kaartbeelden worden van Apple geladen voor het gebied dat op het scherm wordt getoond; als je toestemming voor locatie hebt gegeven, wordt ook je locatie op de kaart getoond. Deze dienst valt onder het privacybeleid van Apple.",

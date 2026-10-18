@@ -156,6 +156,12 @@
         ]
       },
       {
+        "h2": "Kamera",
+        "p": [
+          "Vi bruger kameraet til at vise qibla-retningen oven på kamerabilledet. Billedet gemmes ikke og forlader ikke din enhed."
+        ]
+      },
+      {
         "h2": "Kort og rutevejledning (Apple Kort)",
         "p": [
           "Kortene på skærmene “Moskeer i nærheden” og “Kaba” vises med Apple Kort. Kortbilleder indlæses fra Apple for det område, der vises på skærmen; hvis du har givet tilladelse til placering, vises din placering også på kortet. Denne tjeneste er underlagt Apples privatlivspolitik.",

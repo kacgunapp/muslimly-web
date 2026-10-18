@@ -156,6 +156,12 @@
         ]
       },
       {
+        "h2": "Kamera",
+        "p": [
+          "Käytämme kameraa näyttääksemme qiblan suunnan kamerakuvan päällä. Kuvaa ei tallenneta, eikä se lähde laitteeltasi."
+        ]
+      },
+      {
         "h2": "Kartta ja reittiohjeet (Apple Kartat)",
         "p": [
           "”Lähimmät moskeijat”- ja ”Kaaba”-näkymien kartat näytetään Apple Karttojen avulla. Karttakuvat ladataan Applelta näytöllä näkyvältä alueelta; jos olet antanut sijaintiluvan, sijaintisi näytetään myös kartalla. Tähän palveluun sovelletaan Applen tietosuojakäytäntöä.",

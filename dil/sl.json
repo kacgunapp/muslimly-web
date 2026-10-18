@@ -156,6 +156,12 @@
         ]
       },
       {
+        "h2": "Kamera",
+        "p": [
+          "Kamero uporabljamo za prikaz smeri kible na sliki kamere. Slika se ne shranjuje in ne zapusti vaše naprave."
+        ]
+      },
+      {
         "h2": "Zemljevid in navodila za pot (Apple Zemljevidi)",
         "p": [
           "Zemljevidi na zaslonih »Bližnje džamije« in »Kaba« so prikazani z Apple Zemljevidi. Slike zemljevida se za območje, prikazano na zaslonu, naložijo od družbe Apple; če je dostop do lokacije dovoljen, je na zemljevidu prikazana tudi tvoja lokacija. Za to storitev velja Applov pravilnik o zasebnosti.",

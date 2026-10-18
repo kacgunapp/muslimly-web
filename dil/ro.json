@@ -156,6 +156,12 @@
         ]
       },
       {
+        "h2": "Cameră",
+        "p": [
+          "Folosim camera pentru a afișa direcția Qibla peste imaginea camerei. Imaginea nu este înregistrată și nu părăsește dispozitivul tău."
+        ]
+      },
+      {
         "h2": "Hartă și indicații de traseu (Apple Hărți)",
         "p": [
           "Hărțile de pe ecranele „Moschei în apropiere” și „Kaaba” sunt afișate cu Apple Hărți. Imaginile hărții sunt încărcate de la Apple pentru regiunea afișată pe ecran; dacă ai acordat permisiunea de localizare, locația ta este afișată și ea pe hartă. Acest serviciu este supus politicii de confidențialitate a Apple.",

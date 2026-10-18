@@ -156,6 +156,12 @@
         ]
       },
       {
+        "h2": "Kamera",
+        "p": [
+          "A kamerát arra használjuk, hogy a kamera képén megjelenítsük a kibla irányát. A kép nem kerül mentésre, és nem hagyja el a készülékedet."
+        ]
+      },
+      {
         "h2": "Térkép és útvonalterv (Apple Térképek)",
         "p": [
           "A „Közeli mecsetek” és a „Kába” képernyő térképei az Apple Térképekkel jelennek meg. A térképképek a képernyőn látható területre az Apple-től töltődnek be; ha megadtad a helymeghatározási engedélyt, a helyzeted is megjelenik a térképen. Erre a szolgáltatásra az Apple adatvédelmi szabályzata vonatkozik.",

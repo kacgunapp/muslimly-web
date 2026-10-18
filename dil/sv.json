@@ -156,6 +156,12 @@
         ]
       },
       {
+        "h2": "Kamera",
+        "p": [
+          "Vi använder kameran för att visa qiblariktningen över kamerabilden. Bilden sparas inte och lämnar inte din enhet."
+        ]
+      },
+      {
         "h2": "Karta och vägbeskrivning (Apple Kartor)",
         "p": [
           "Kartorna på skärmarna ”Moskéer i närheten” och ”Kaba” visas med Apple Kartor. Kartbilder laddas från Apple för det område som visas på skärmen; om du har gett platsbehörighet visas även din plats på kartan. Den här tjänsten omfattas av Apples integritetspolicy.",

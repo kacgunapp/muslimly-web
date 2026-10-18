@@ -156,6 +156,12 @@
         ]
       },
       {
+        "h2": "Fotocamera",
+        "p": [
+          "Usiamo la fotocamera per mostrare la direzione della Qibla sopra l'immagine della fotocamera. L'immagine non viene salvata e non lascia il tuo dispositivo."
+        ]
+      },
+      {
         "h2": "Mappa e indicazioni (Apple Mappe)",
         "p": [
           "Le mappe delle schermate \"Moschee vicine\" e \"Kaaba\" sono mostrate con Apple Mappe. Le immagini della mappa vengono caricate da Apple per l'area mostrata sullo schermo; se hai concesso il permesso di accesso alla posizione, sulla mappa viene mostrata anche la tua posizione. Questo servizio è soggetto all'informativa sulla privacy di Apple.",

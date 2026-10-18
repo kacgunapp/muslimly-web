@@ -156,6 +156,12 @@
         ]
       },
       {
+        "h2": "Cámara",
+        "p": [
+          "Usamos la cámara para mostrar la dirección de la alquibla sobre la imagen de la cámara. La imagen no se guarda y no sale de tu dispositivo."
+        ]
+      },
+      {
         "h2": "Mapa e indicaciones (Apple Mapas)",
         "p": [
           "Los mapas de las pantallas «Mezquitas cercanas» y «Kaaba» se muestran con Apple Mapas. Las imágenes del mapa se cargan desde Apple para la zona que se muestra en pantalla; si has concedido el permiso de ubicación, tu ubicación también se muestra en el mapa. Este servicio está sujeto a la política de privacidad de Apple.",

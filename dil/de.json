@@ -156,6 +156,12 @@
         ]
       },
       {
+        "h2": "Kamera",
+        "p": [
+          "Wir nutzen die Kamera, um die Gebetsrichtung (Qibla) über dem Kamerabild anzuzeigen. Das Bild wird nicht gespeichert und verlässt dein Gerät nicht."
+        ]
+      },
+      {
         "h2": "Karte und Route (Apple Karten)",
         "p": [
           "Die Karten auf den Bildschirmen „Moscheen in der Nähe“ und „Kaaba“ werden mit Apple Karten angezeigt. Die Kartenbilder werden für den angezeigten Bereich von Apple geladen; hast du die Standortberechtigung erteilt, wird auch dein Standort auf der Karte angezeigt. Dieser Dienst unterliegt der Datenschutzrichtlinie von Apple.",

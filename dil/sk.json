@@ -156,6 +156,12 @@
         ]
       },
       {
+        "h2": "Fotoaparát",
+        "p": [
+          "Fotoaparát používame na zobrazenie smeru kibly cez obraz z kamery. Obraz sa neukladá a neopúšťa vaše zariadenie."
+        ]
+      },
+      {
         "h2": "Mapa a navigácia (Apple Mapy)",
         "p": [
           "Mapy na obrazovkách „Mešity v okolí“ a „Kaaba“ sa zobrazujú pomocou Apple Máp. Mapové podklady sa načítavajú od Apple pre oblasť zobrazenú na obrazovke; ak je povolenie na prístup k polohe udelené, na mape sa zobrazí aj tvoja poloha. Táto služba podlieha zásadám ochrany súkromia spoločnosti Apple.",

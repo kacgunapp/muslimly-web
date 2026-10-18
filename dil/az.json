@@ -156,6 +156,12 @@
         ]
       },
       {
+        "h2": "Kamera",
+        "p": [
+          "Qiblə istiqamətini kamera görüntüsünün üzərində göstərmək üçün kameradan istifadə edirik. Görüntü yadda saxlanılmır və cihazınızdan çıxmır."
+        ]
+      },
+      {
         "h2": "Xəritə və istiqamət (Apple Xəritələr)",
         "p": [
           "“Yaxın məscidlər” və “Kəbə” ekranlarındakı xəritələr Apple Xəritələr ilə göstərilir. Xəritə təsvirləri ekranda göstərilən bölgə üçün Apple-dan yüklənir; məkan icazən varsa, xəritədə məkanın da göstərilir. Bu xidmət Apple-ın məxfilik siyasətinə tabedir.",

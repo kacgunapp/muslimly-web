@@ -156,6 +156,12 @@
         ]
       },
       {
+        "h2": "Aparat",
+        "p": [
+          "Używamy aparatu, aby pokazać kierunek kibli na obrazie z kamery. Obraz nie jest zapisywany i nie opuszcza Twojego urządzenia."
+        ]
+      },
+      {
         "h2": "Mapa i trasa (Apple Mapy)",
         "p": [
           "Mapy na ekranach „Pobliskie meczety” i „Kaaba” są wyświetlane za pomocą Apple Map. Obrazy mapy są pobierane z serwerów Apple dla obszaru widocznego na ekranie; jeśli udzielono zgody na dostęp do lokalizacji, twoja lokalizacja jest również pokazywana na mapie. Usługa ta podlega polityce prywatności Apple.",

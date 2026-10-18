@@ -156,6 +156,12 @@
         ]
       },
       {
+        "h2": "Càmera",
+        "p": [
+          "Fem servir la càmera per mostrar la direcció de l'alquibla sobre la imatge de la càmera. La imatge no es desa ni surt del teu dispositiu."
+        ]
+      },
+      {
         "h2": "Mapa i indicacions (Mapes d'Apple)",
         "p": [
           "Els mapes de les pantalles «Mesquites properes» i «Kaaba» es mostren amb Mapes d'Apple. Les imatges del mapa es carreguen des d'Apple per a la zona que es mostra a la pantalla; si has concedit el permís d'ubicació, la teva ubicació també es mostra al mapa. Aquest servei està subjecte a la política de privadesa d'Apple.",

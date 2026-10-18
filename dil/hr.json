@@ -156,6 +156,12 @@
         ]
       },
       {
+        "h2": "Kamera",
+        "p": [
+          "Kameru koristimo za prikaz smjera kible preko slike s kamere. Slika se ne snima i ne napušta vaš uređaj."
+        ]
+      },
+      {
         "h2": "Karta i upute za put (Apple Karte)",
         "p": [
           "Karte na zaslonima „Obližnje džamije” i „Kaba” prikazuju se pomoću Apple Karata. Slike karte učitavaju se od Applea za područje prikazano na zaslonu; ako je pristup lokaciji dopušten, na karti se prikazuje i tvoja lokacija. Na ovu se uslugu primjenjuju Appleova pravila o privatnosti.",

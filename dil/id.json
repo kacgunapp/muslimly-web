@@ -156,6 +156,12 @@
         ]
       },
       {
+        "h2": "Kamera",
+        "p": [
+          "Kami menggunakan kamera untuk menampilkan arah kiblat di atas tampilan kamera. Gambar tidak direkam dan tidak keluar dari perangkat Anda."
+        ]
+      },
+      {
         "h2": "Peta dan petunjuk arah (Apple Maps)",
         "p": [
           "Peta pada layar “Masjid terdekat” dan “Ka'bah” ditampilkan dengan Apple Maps. Gambar peta dimuat dari Apple untuk wilayah yang tampil di layar; jika kamu memberi izin lokasi, lokasimu juga ditampilkan di peta. Layanan ini tunduk pada kebijakan privasi Apple.",

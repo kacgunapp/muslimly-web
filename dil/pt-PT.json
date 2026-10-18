@@ -156,6 +156,12 @@
         ]
       },
       {
+        "h2": "Câmara",
+        "p": [
+          "Utilizamos a câmara para mostrar a direção da Qibla sobre a imagem da câmara. A imagem não é gravada e não sai do seu dispositivo."
+        ]
+      },
+      {
         "h2": "Mapa e itinerário (Apple Mapas)",
         "p": [
           "Os mapas dos ecrãs «Mesquitas próximas» e «Caaba» são mostrados com o Apple Mapas. As imagens do mapa são carregadas a partir da Apple para a região mostrada no ecrã; se concedeste a permissão de localização, a tua localização também é mostrada no mapa. Este serviço está sujeito à política de privacidade da Apple.",
