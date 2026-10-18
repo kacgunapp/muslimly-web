@@ -2,7 +2,7 @@
   "kod": "en",
   "ad": "English",
   "yon": "ltr",
-  "baslik": "Nur: Prayer Times & Qur'an",
+  "baslik": "Muslimly: Prayer Times & Qur'an",
   "metaAciklama": "Prayer times, 3D prayer lessons, Qur'an reading and listening, Qibla, dhikr counter. No account, no ads, no data collection.",
   "nav": {
     "tanitim": "Overview",
@@ -11,7 +11,7 @@
     "dil": "Language"
   },
   "kahraman": {
-    "simgeAlt": "Nur app icon: a golden open book with light above it",
+    "simgeAlt": "Muslimly app icon: a golden open book with light above it",
     "giris": "A simple companion that makes it easier to keep your worship regular. It has kids and adult modes; it asks for no account, shows no ads and collects no data.",
     "rozet": "For iOS · coming soon to the App Store"
   },
@@ -63,7 +63,7 @@
     ],
     "tamMetin": "Read the full privacy policy"
   },
-  "telif": "© 2026 Nur",
+  "telif": "© 2026 Muslimly",
   "ceviriNotu": "This translation is provided for information only; in case of any discrepancy, the Turkish text prevails.",
   "destek": {
     "h1": "Support",
@@ -84,11 +84,11 @@
       {
         "soru": "Notifications aren't arriving",
         "adimlar": [
-          "On your iPhone open <strong>Settings › Notifications › Nur</strong>; “Allow Notifications” must be on.",
-          "If a Focus mode (Do Not Disturb, Sleep) is on, add Nur to the allowed apps.",
+          "On your iPhone open <strong>Settings › Notifications › Muslimly</strong>; “Allow Notifications” must be on.",
+          "If a Focus mode (Do Not Disturb, Sleep) is on, add Muslimly to the allowed apps.",
           "In the app, <strong>Me tab › Adhan notification</strong> must be on. For suhoor, tahajjud and Jumu'ah reminders, see <strong>Tools › Reminders</strong>.",
           "When you change your location, notifications are rescheduled automatically for the new times.",
-          "iOS limits how many notifications an app can schedule in advance; Nur plans about a week of prayer times. If you open the app at least once a week, notifications continue without interruption."
+          "iOS limits how many notifications an app can schedule in advance; Muslimly plans about a week of prayer times. If you open the app at least once a week, notifications continue without interruption."
         ]
       },
       {
@@ -103,7 +103,7 @@
       {
         "soru": "Qur'an audio won't play or download",
         "adimlar": [
-          "Verse audio comes from the internet. Check your Wi-Fi or cellular connection; in Settings › Cellular, Nur's mobile data permission must be on.",
+          "Verse audio comes from the internet. Check your Wi-Fi or cellular connection; in Settings › Cellular, Muslimly's mobile data permission must be on.",
           "If a download stopped halfway, try again: partially downloaded files are deleted and the download completes from the start.",
           "Downloaded surahs play without a network. You can see and delete downloads under Read the Qur'an › Reading settings.",
           "The listen button is only available for supplications taken from Qur'an verses; other supplications have no button."
@@ -112,34 +112,34 @@
     ],
     "iletisimBaslik": "Contact",
     "iletisim": "For questions, suggestions or bug reports:",
-    "iletisimKonu": "Nur support",
+    "iletisimKonu": "Muslimly support",
     "iletisimNot": "If you include your iPhone model, iOS version and selected city when you write, we can help faster.",
-    "metaBaslik": "Nur Support",
-    "metaAciklama": "Frequently asked questions and contact for the Nur app."
+    "metaBaslik": "Muslimly Support",
+    "metaAciklama": "Frequently asked questions and contact for the Muslimly app."
   },
   "gizlilik": {
     "h1": "Privacy Policy",
-    "tarih": "Effective date: 27 September 2026",
-    "giris": "This policy explains what information the Nur: Prayer Times & Qur'an app for iOS (“Nur”) uses and how. In short: Nur has no server and collects no personal data from you. Some features send requests to the third-party services listed one by one below in order to work.",
+    "tarih": "Effective date: 19 October 2026",
+    "giris": "This policy explains what information the Muslimly: Prayer Times & Qur'an app for iOS (“Muslimly”) uses and how. In short: Muslimly has no server and collects no personal data from you. Some features send requests to the third-party services listed one by one below in order to work.",
     "bolumler": [
       {
         "h2": "No account",
         "p": [
-          "To use Nur you don't need to create an account, sign in or provide details such as an email address or phone number. The app has no server."
+          "To use Muslimly you don't need to create an account, sign in or provide details such as an email address or phone number. The app has no server."
         ]
       },
       {
         "h2": "No ads, analytics or tracking",
         "p": [
-          "Nur shows no ads; it contains no analytics, crash reporting or tracking tools. It doesn't track you across apps and websites and doesn't access the advertising identifier."
+          "Muslimly shows no ads; it contains no analytics, crash reporting or tracking tools. It doesn't track you across apps and websites and doesn't access the advertising identifier."
         ]
       },
       {
         "h2": "Your data stays on your device",
         "p": [
-          "The name you optionally enter, the city you choose, your settings, your prayer and task progress, your Qur'an reading progress and your bookmarks are stored only on your device. If it's on, this data is also included in your iPhone's iCloud backup; that backup belongs to your Apple account and cannot be read by Nur. Verse audio you download also stays on your device, but because it can be downloaded again it isn't backed up; iOS may delete it to free up space, and it's downloaded again when needed. If you turn on the home screen widget, a short summary (the next prayer, today's tasks) is written to the shared area on your device so the widget can show it.",
+          "The name you optionally enter, the city you choose, your settings, your prayer and task progress, your Qur'an reading progress and your bookmarks are stored only on your device. If it's on, this data is also included in your iPhone's iCloud backup; that backup belongs to your Apple account and cannot be read by Muslimly. Verse audio you download also stays on your device, but because it can be downloaded again it isn't backed up; iOS may delete it to free up space, and it's downloaded again when needed. If you turn on the home screen widget, a short summary (the next prayer, today's tasks) is written to the shared area on your device so the widget can show it.",
           "The profile you choose on first launch (child, adult man or adult woman; for a child, girl or boy) and your school are also stored only on your device; they're used for the prayer narration, the figure and the Asr time calculation, and are never sent anywhere.",
-          "When you delete the app, all Nur data on the device is deleted with it."
+          "When you delete the app, all Muslimly data on the device is deleted with it."
         ]
       },
       {
@@ -153,6 +153,12 @@
         "p": [
           "If you grant location permission, your location is used on your device to calculate prayer times and the Qibla direction. If you don't grant location permission, you can pick your city from the list.",
           "When you open the “Nearby mosques” screen, your location is rounded to about 1 km (two decimal places) and sent to the OpenStreetMap Overpass service to find mosques nearby. As with every internet request, your IP address also reaches this service; no other information that identifies you is sent. The city found from your location is stored on the device at the same precision, rounded to about 1 km. Mosque data © OpenStreetMap contributors (ODbL)."
+        ]
+      },
+      {
+        "h2": "Camera (qibla compass)",
+        "p": [
+          "To show the qibla direction in augmented reality, the camera image is used only live, on your device. No photo or video is taken, stored or sent to any server. Camera permission is optional; without it the qibla compass works without the camera view."
         ]
       },
       {
@@ -171,7 +177,7 @@
       {
         "h2": "Sharing",
         "p": [
-          "When you tap the “Share my progress” button, your progress summary (streak, goal, prayer and dhikr counts) opens in the iOS share sheet. The text goes only to the app or person you choose; Nur never shares anything on its own."
+          "When you tap the “Share my progress” button, your progress summary (streak, goal, prayer and dhikr counts) opens in the iOS share sheet. The text goes only to the app or person you choose; Muslimly never shares anything on its own."
         ]
       },
       {
@@ -183,7 +189,7 @@
       {
         "h2": "Children",
         "p": [
-          "Nur has a kids mode. Because the app collects no personal data from any user, including children, there is no data processing specific to children either."
+          "Muslimly has a kids mode. Because the app collects no personal data from any user, including children, there is no data processing specific to children either."
         ]
       },
       {
@@ -195,8 +201,8 @@
     ],
     "iletisimBaslik": "Contact",
     "iletisim": "For questions:",
-    "iletisimKonu": "Nur privacy",
-    "metaBaslik": "Nur Privacy Policy",
-    "metaAciklama": "Privacy policy of the Nur app: no account, no ads or tracking, data stays on your device."
+    "iletisimKonu": "Muslimly privacy",
+    "metaBaslik": "Muslimly Privacy Policy",
+    "metaAciklama": "Privacy policy of the Muslimly app: no account, no ads or tracking, data stays on your device."
   }
 }
