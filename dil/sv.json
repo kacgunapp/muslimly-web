@@ -152,7 +152,7 @@
         "h2": "Plats",
         "p": [
           "Om du ger platsbehörighet används din plats på din enhet för att beräkna bönetider och Qibla-riktningen. Om du inte ger platsbehörighet kan du välja din stad i listan.",
-          "När du öppnar skärmen ”Moskéer i närheten” avrundas din plats till cirka 1 km (två decimaler) och skickas till tjänsten OpenStreetMap Overpass för att hitta moskéer i närheten. Som vid varje förfrågan på internet når även din IP-adress den här tjänsten; ingen annan information som identifierar dig skickas. Staden som hittas utifrån din plats sparas på enheten med samma precision, avrundad till cirka 1 km. Moskédata © OpenStreetMap-bidragsgivare (ODbL)."
+          "När du öppnar skärmen ”Moskéer i närheten” avrundas din plats till cirka 1 km (två decimaler) och skickas till tjänsten OpenStreetMap Overpass för att hitta moskéer i närheten. Som vid varje förfrågan på internet når även din IP-adress den här tjänsten; ingen annan information som identifierar dig skickas. Staden som hittas utifrån din plats sparas på enheten med samma precision, avrundad till cirka 1 km. Moskédata © OpenStreetMap-bidragsgivare (ODbL). Om Overpass-tjänsten inte kan nås görs sökningen med Apple Kartor på din enhet; då skickas din plats, avrundad på samma sätt till två decimaler (cirka 1 km), till Apple och omfattas av Apples integritetspolicy. Muslimly sparar inte den här platsen; listan över hittade moskéer finns bara i enhetens minne i högst 30 minuter."
         ]
       },
       {

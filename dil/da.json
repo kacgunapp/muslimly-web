@@ -152,7 +152,7 @@
         "h2": "Placering",
         "p": [
           "Hvis du giver tilladelse til placering, bruges din placering på din enhed til at beregne bønnetider og Qibla-retningen. Hvis du ikke giver tilladelse til placering, kan du vælge din by på listen.",
-          "Når du åbner skærmen “Moskeer i nærheden”, afrundes din placering til ca. 1 km (to decimaler) og sendes til tjenesten OpenStreetMap Overpass for at finde moskeer i nærheden. Som ved enhver forespørgsel på internettet når din IP-adresse også frem til denne tjeneste; der sendes ingen andre oplysninger, der identificerer dig. Den by, der findes ud fra din placering, gemmes på enheden med samme præcision, afrundet til ca. 1 km. Moskédata © OpenStreetMap-bidragydere (ODbL)."
+          "Når du åbner skærmen “Moskeer i nærheden”, afrundes din placering til ca. 1 km (to decimaler) og sendes til tjenesten OpenStreetMap Overpass for at finde moskeer i nærheden. Som ved enhver forespørgsel på internettet når din IP-adresse også frem til denne tjeneste; der sendes ingen andre oplysninger, der identificerer dig. Den by, der findes ud fra din placering, gemmes på enheden med samme præcision, afrundet til ca. 1 km. Moskédata © OpenStreetMap-bidragydere (ODbL). Hvis Overpass-tjenesten ikke kan nås, foretages søgningen med Apple Kort på din enhed; i så fald sendes din placering, afrundet på samme måde til to decimaler (ca. 1 km), til Apple og er omfattet af Apples privatlivspolitik. Muslimly gemmer ikke denne placering; listen over fundne moskeer opbevares kun i din enheds hukommelse i højst 30 minutter."
         ]
       },
       {

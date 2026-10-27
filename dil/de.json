@@ -152,7 +152,7 @@
         "h2": "Standort",
         "p": [
           "Wenn du die Standortberechtigung erteilst, wird dein Standort auf deinem Gerät verwendet, um Gebetszeiten und Qibla-Richtung zu berechnen. Erteilst du sie nicht, kannst du deine Stadt aus der Liste wählen.",
-          "Wenn du den Bildschirm „Moscheen in der Nähe“ öffnest, wird dein Standort, auf etwa 1 km gerundet (zwei Dezimalstellen), an den Overpass-Dienst von OpenStreetMap gesendet, um Moscheen in der Nähe zu finden. Wie bei jeder Internetanfrage erreicht auch deine IP-Adresse diesen Dienst; darüber hinaus werden keine Informationen gesendet, die dich identifizieren. Die per Standort ermittelte Stadt wird auf dem Gerät mit derselben Genauigkeit, auf etwa 1 km gerundet, gespeichert. Moscheedaten © OpenStreetMap-Mitwirkende (ODbL)."
+          "Wenn du den Bildschirm „Moscheen in der Nähe“ öffnest, wird dein Standort, auf etwa 1 km gerundet (zwei Dezimalstellen), an den Overpass-Dienst von OpenStreetMap gesendet, um Moscheen in der Nähe zu finden. Wie bei jeder Internetanfrage erreicht auch deine IP-Adresse diesen Dienst; darüber hinaus werden keine Informationen gesendet, die dich identifizieren. Die per Standort ermittelte Stadt wird auf dem Gerät mit derselben Genauigkeit, auf etwa 1 km gerundet, gespeichert. Moscheedaten © OpenStreetMap-Mitwirkende (ODbL). Ist der Overpass-Dienst nicht erreichbar, erfolgt die Suche mit Apple Karten auf deinem Gerät; dabei geht dein Standort, auf dieselbe Weise auf zwei Dezimalstellen (etwa 1 km) gerundet, an Apple und unterliegt der Datenschutzrichtlinie von Apple. Muslimly speichert diesen Standort nicht; die Liste der gefundenen Moscheen wird nur im Speicher deines Geräts höchstens 30 Minuten aufbewahrt."
         ]
       },
       {

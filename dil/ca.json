@@ -152,7 +152,7 @@
         "h2": "Ubicació",
         "p": [
           "Si concedeixes el permís d'ubicació, la teva ubicació s'utilitza al teu dispositiu per calcular les hores de pregària i la direcció de la Qibla. Si no concedeixes el permís d'ubicació, pots triar la teva ciutat de la llista.",
-          "Quan obres la pantalla «Mesquites properes», la teva ubicació s'arrodoneix a 1 km aproximadament (dues xifres decimals) i s'envia al servei OpenStreetMap Overpass per trobar mesquites properes. Com en qualsevol sol·licitud a internet, la teva adreça IP també arriba a aquest servei; no s'envia cap altra informació que t'identifiqui. La ciutat trobada a partir de la teva ubicació es desa al dispositiu amb la mateixa precisió, arrodonida a 1 km aproximadament. Dades de mesquites © col·laboradors d'OpenStreetMap (ODbL)."
+          "Quan obres la pantalla «Mesquites properes», la teva ubicació s'arrodoneix a 1 km aproximadament (dues xifres decimals) i s'envia al servei OpenStreetMap Overpass per trobar mesquites properes. Com en qualsevol sol·licitud a internet, la teva adreça IP també arriba a aquest servei; no s'envia cap altra informació que t'identifiqui. La ciutat trobada a partir de la teva ubicació es desa al dispositiu amb la mateixa precisió, arrodonida a 1 km aproximadament. Dades de mesquites © col·laboradors d'OpenStreetMap (ODbL). Si no es pot accedir al servei Overpass, la cerca es fa amb Mapes d'Apple al teu dispositiu; en aquest cas, la teva ubicació, arrodonida de la mateixa manera a dos decimals (uns 1 km), va a Apple i està subjecta a la política de privadesa d'Apple. Muslimly no desa aquesta ubicació; la llista de mesquites trobades només es guarda a la memòria del teu dispositiu durant 30 minuts com a màxim."
         ]
       },
       {

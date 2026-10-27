@@ -152,7 +152,7 @@
         "h2": "Sijainti",
         "p": [
           "Jos annat sijaintiluvan, sijaintiasi käytetään laitteellasi rukousaikojen ja Qiblan suunnan laskemiseen. Jos et anna sijaintilupaa, voit valita kaupunkisi luettelosta.",
-          "Kun avaat ”Lähimmät moskeijat” -näkymän, sijaintisi pyöristetään noin 1 km:n tarkkuuteen (kaksi desimaalia) ja lähetetään OpenStreetMap Overpass -palveluun lähellä olevien moskeijoiden löytämiseksi. Kuten jokaisessa internetpyynnössä, myös IP-osoitteesi välittyy tälle palvelulle; muita sinut tunnistavia tietoja ei lähetetä. Sijaintisi perusteella löydetty kaupunki tallennetaan laitteelle samalla tarkkuudella, noin 1 km:iin pyöristettynä. Moskeijatiedot © OpenStreetMap-tekijät (ODbL)."
+          "Kun avaat ”Lähimmät moskeijat” -näkymän, sijaintisi pyöristetään noin 1 km:n tarkkuuteen (kaksi desimaalia) ja lähetetään OpenStreetMap Overpass -palveluun lähellä olevien moskeijoiden löytämiseksi. Kuten jokaisessa internetpyynnössä, myös IP-osoitteesi välittyy tälle palvelulle; muita sinut tunnistavia tietoja ei lähetetä. Sijaintisi perusteella löydetty kaupunki tallennetaan laitteelle samalla tarkkuudella, noin 1 km:iin pyöristettynä. Moskeijatiedot © OpenStreetMap-tekijät (ODbL). Jos Overpass-palveluun ei saada yhteyttä, haku tehdään laitteesi Apple Karttojen avulla; silloin sijaintisi, pyöristettynä samalla tavalla kahteen desimaaliin (noin 1 km), välitetään Applelle ja siihen sovelletaan Applen tietosuojakäytäntöä. Muslimly ei tallenna tätä sijaintia; löydettyjen moskeijoiden luettelo säilytetään vain laitteesi muistissa enintään 30 minuuttia."
         ]
       },
       {

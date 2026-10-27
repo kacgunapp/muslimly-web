@@ -152,7 +152,7 @@
         "h2": "Helyadatok",
         "p": [
           "Ha megadod a helymeghatározási engedélyt, a helyadataidat a készülék az imaidők és a kibla irányának kiszámításához használja. Ha nem adod meg az engedélyt, a városodat kiválaszthatod a listából.",
-          "Amikor megnyitod a „Közeli mecsetek” képernyőt, a helyadataid nagyjából 1 km-re kerekítve (két tizedesjegyre) az OpenStreetMap Overpass szolgáltatásnak kerülnek elküldésre, hogy megtalálja a közeli mecseteket. Mint minden internetes kérésnél, az IP-címed is eljut ehhez a szolgáltatáshoz; más, téged azonosító információ nem kerül elküldésre. A helyadataid alapján megtalált város ugyanilyen pontossággal, nagyjából 1 km-re kerekítve tárolódik a készüléken. A mecsetek adatai © az OpenStreetMap közreműködői (ODbL)."
+          "Amikor megnyitod a „Közeli mecsetek” képernyőt, a helyadataid nagyjából 1 km-re kerekítve (két tizedesjegyre) az OpenStreetMap Overpass szolgáltatásnak kerülnek elküldésre, hogy megtalálja a közeli mecseteket. Mint minden internetes kérésnél, az IP-címed is eljut ehhez a szolgáltatáshoz; más, téged azonosító információ nem kerül elküldésre. A helyadataid alapján megtalált város ugyanilyen pontossággal, nagyjából 1 km-re kerekítve tárolódik a készüléken. A mecsetek adatai © az OpenStreetMap közreműködői (ODbL). Ha az Overpass szolgáltatás nem érhető el, a keresés az eszközöd Apple Térképek alkalmazásával történik; ilyenkor a helyzeted ugyanígy két tizedesjegyre (kb. 1 km) kerekítve jut el az Apple-hez, és az Apple adatvédelmi irányelvei vonatkoznak rá. A Muslimly nem tárolja ezt a helyzetet; a talált mecsetek listája csak az eszközöd memóriájában marad legfeljebb 30 percig."
         ]
       },
       {

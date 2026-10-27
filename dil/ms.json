@@ -152,7 +152,7 @@
         "h2": "Lokasi",
         "p": [
           "Jika anda memberikan kebenaran lokasi, lokasi anda digunakan dalam peranti untuk mengira waktu solat dan arah kiblat. Jika anda tidak memberikan kebenaran lokasi, anda boleh memilih bandar anda daripada senarai.",
-          "Apabila anda membuka skrin “Masjid berdekatan”, lokasi anda dibundarkan kepada kira-kira 1 km (dua tempat perpuluhan) dan dihantar ke perkhidmatan OpenStreetMap Overpass untuk mencari masjid berdekatan. Seperti setiap permintaan internet, alamat IP anda juga sampai ke perkhidmatan ini; selain itu, tiada maklumat yang mengenal pasti anda dihantar. Bandar yang ditemui melalui lokasi disimpan dalam peranti dengan ketepatan yang sama, dibundarkan kepada kira-kira 1 km. Data masjid © penyumbang OpenStreetMap (ODbL)."
+          "Apabila anda membuka skrin “Masjid berdekatan”, lokasi anda dibundarkan kepada kira-kira 1 km (dua tempat perpuluhan) dan dihantar ke perkhidmatan OpenStreetMap Overpass untuk mencari masjid berdekatan. Seperti setiap permintaan internet, alamat IP anda juga sampai ke perkhidmatan ini; selain itu, tiada maklumat yang mengenal pasti anda dihantar. Bandar yang ditemui melalui lokasi disimpan dalam peranti dengan ketepatan yang sama, dibundarkan kepada kira-kira 1 km. Data masjid © penyumbang OpenStreetMap (ODbL). Jika perkhidmatan Overpass tidak dapat dicapai, carian dibuat dengan Apple Maps pada peranti anda; dalam keadaan itu lokasi anda, yang dibundarkan dengan cara yang sama kepada dua tempat perpuluhan (kira-kira 1 km), dihantar kepada Apple dan tertakluk pada dasar privasi Apple. Muslimly tidak menyimpan lokasi ini; senarai masjid yang ditemui hanya disimpan dalam memori peranti anda selama paling lama 30 minit."
         ]
       },
       {

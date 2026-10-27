@@ -152,7 +152,7 @@
         "h2": "Location",
         "p": [
           "If you grant location permission, your location is used on your device to calculate prayer times and the Qibla direction. If you don't grant location permission, you can pick your city from the list.",
-          "When you open the “Nearby mosques” screen, your location is rounded to about 1 km (two decimal places) and sent to the OpenStreetMap Overpass service to find mosques nearby. As with every internet request, your IP address also reaches this service; no other information that identifies you is sent. The city found from your location is stored on the device at the same precision, rounded to about 1 km. Mosque data © OpenStreetMap contributors (ODbL)."
+          "When you open the “Nearby mosques” screen, your location is rounded to about 1 km (two decimal places) and sent to the OpenStreetMap Overpass service to find mosques nearby. As with every internet request, your IP address also reaches this service; no other information that identifies you is sent. The city found from your location is stored on the device at the same precision, rounded to about 1 km. Mosque data © OpenStreetMap contributors (ODbL). If the Overpass service cannot be reached, the search is done with Apple Maps on your device; in that case your location, rounded in the same way to two decimal places (about 1 km), goes to Apple and is subject to Apple's privacy policy. Muslimly does not store this location; the list of mosques found is kept only in your device's memory for at most 30 minutes."
         ]
       },
       {

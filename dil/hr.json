@@ -152,7 +152,7 @@
         "h2": "Lokacija",
         "p": [
           "Ako dopustiš pristup lokaciji, tvoja se lokacija na uređaju koristi za izračun vremena namaza i smjera Kible. Ako ne dopustiš pristup lokaciji, svoj grad možeš odabrati s popisa.",
-          "Kad otvoriš zaslon „Obližnje džamije”, tvoja se lokacija zaokružuje na otprilike 1 km (dvije decimale) i šalje usluzi OpenStreetMap Overpass kako bi se pronašle džamije u blizini. Kao i kod svakog internetskog zahtjeva, toj usluzi stiže i tvoja IP adresa; ne šalju se nikakvi drugi podaci koji te identificiraju. Grad pronađen na temelju tvoje lokacije pohranjuje se na uređaju s istom preciznošću, zaokružen na otprilike 1 km. Podaci o džamijama © suradnici OpenStreetMap (ODbL)."
+          "Kad otvoriš zaslon „Obližnje džamije”, tvoja se lokacija zaokružuje na otprilike 1 km (dvije decimale) i šalje usluzi OpenStreetMap Overpass kako bi se pronašle džamije u blizini. Kao i kod svakog internetskog zahtjeva, toj usluzi stiže i tvoja IP adresa; ne šalju se nikakvi drugi podaci koji te identificiraju. Grad pronađen na temelju tvoje lokacije pohranjuje se na uređaju s istom preciznošću, zaokružen na otprilike 1 km. Podaci o džamijama © suradnici OpenStreetMap (ODbL). Ako usluga Overpass nije dostupna, pretraživanje se obavlja s Apple Kartama na tvom uređaju; tada tvoja lokacija, na isti način zaokružena na dvije decimale (oko 1 km), ide Appleu i podliježe Appleovim pravilima o privatnosti. Muslimly ne sprema ovu lokaciju; popis pronađenih džamija čuva se samo u memoriji tvog uređaja najviše 30 minuta."
         ]
       },
       {

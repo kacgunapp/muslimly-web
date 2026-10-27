@@ -152,7 +152,7 @@
         "h2": "Vị trí",
         "p": [
           "Nếu bạn cấp quyền truy cập vị trí, vị trí của bạn được dùng trên thiết bị để tính giờ Salah và hướng Qiblah. Nếu bạn không cấp quyền truy cập vị trí, bạn có thể chọn thành phố của mình từ danh sách.",
-          "Khi bạn mở màn hình “Thánh đường gần đây”, vị trí của bạn được làm tròn đến khoảng 1 km (hai chữ số thập phân) và gửi đến dịch vụ Overpass của OpenStreetMap để tìm các thánh đường ở gần. Như với mọi yêu cầu trên internet, địa chỉ IP của bạn cũng đến được dịch vụ này; không có thông tin nào khác giúp nhận dạng bạn được gửi đi. Thành phố được xác định từ vị trí của bạn cũng được lưu trên thiết bị với cùng độ chính xác, làm tròn đến khoảng 1 km. Dữ liệu thánh đường © những người đóng góp OpenStreetMap (ODbL)."
+          "Khi bạn mở màn hình “Thánh đường gần đây”, vị trí của bạn được làm tròn đến khoảng 1 km (hai chữ số thập phân) và gửi đến dịch vụ Overpass của OpenStreetMap để tìm các thánh đường ở gần. Như với mọi yêu cầu trên internet, địa chỉ IP của bạn cũng đến được dịch vụ này; không có thông tin nào khác giúp nhận dạng bạn được gửi đi. Thành phố được xác định từ vị trí của bạn cũng được lưu trên thiết bị với cùng độ chính xác, làm tròn đến khoảng 1 km. Dữ liệu thánh đường © những người đóng góp OpenStreetMap (ODbL). Nếu không kết nối được dịch vụ Overpass, việc tìm kiếm sẽ được thực hiện bằng Bản đồ Apple trên thiết bị của bạn; khi đó vị trí của bạn, được làm tròn theo cách tương tự đến hai chữ số thập phân (khoảng 1 km), được gửi đến Apple và tuân theo chính sách quyền riêng tư của Apple. Muslimly không lưu vị trí này; danh sách thánh đường tìm được chỉ được giữ trong bộ nhớ thiết bị của bạn tối đa 30 phút."
         ]
       },
       {

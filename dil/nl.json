@@ -152,7 +152,7 @@
         "h2": "Locatie",
         "p": [
           "Als je toestemming geeft voor locatie, wordt je locatie op je toestel gebruikt om de gebedstijden en de Qibla-richting te berekenen. Als je geen toestemming geeft voor locatie, kun je je stad uit de lijst kiezen.",
-          "Wanneer je het scherm “Moskeeën in de buurt” opent, wordt je locatie afgerond op ongeveer 1 km (twee decimalen) en naar de dienst OpenStreetMap Overpass gestuurd om moskeeën in de buurt te vinden. Zoals bij elk internetverzoek bereikt ook je IP-adres deze dienst; er wordt geen andere informatie verstuurd die jou identificeert. De stad die op basis van je locatie is gevonden, wordt op het toestel met dezelfde nauwkeurigheid bewaard, afgerond op ongeveer 1 km. Moskeegegevens © OpenStreetMap-bijdragers (ODbL)."
+          "Wanneer je het scherm “Moskeeën in de buurt” opent, wordt je locatie afgerond op ongeveer 1 km (twee decimalen) en naar de dienst OpenStreetMap Overpass gestuurd om moskeeën in de buurt te vinden. Zoals bij elk internetverzoek bereikt ook je IP-adres deze dienst; er wordt geen andere informatie verstuurd die jou identificeert. De stad die op basis van je locatie is gevonden, wordt op het toestel met dezelfde nauwkeurigheid bewaard, afgerond op ongeveer 1 km. Moskeegegevens © OpenStreetMap-bijdragers (ODbL). Als de Overpass-dienst niet bereikbaar is, wordt er gezocht met Apple Kaarten op je apparaat; je locatie gaat dan, op dezelfde manier afgerond op twee decimalen (ongeveer 1 km), naar Apple en valt onder het privacybeleid van Apple. Muslimly bewaart deze locatie niet; de lijst met gevonden moskeeën blijft alleen in het geheugen van je apparaat, hoogstens 30 minuten."
         ]
       },
       {

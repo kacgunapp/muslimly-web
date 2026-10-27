@@ -152,7 +152,7 @@
         "h2": "Locație",
         "p": [
           "Dacă acorzi permisiunea de localizare, locația ta este folosită pe dispozitivul tău pentru a calcula orele rugăciunilor și direcția Qibla. Dacă nu acorzi permisiunea de localizare, îți poți alege orașul din listă.",
-          "Când deschizi ecranul „Moschei în apropiere”, locația ta este rotunjită la aproximativ 1 km (două zecimale) și trimisă serviciului OpenStreetMap Overpass pentru a găsi moscheile din apropiere. Ca la orice solicitare pe internet, adresa ta IP ajunge și ea la acest serviciu; nu se trimite nicio altă informație care să te identifice. Orașul găsit pe baza locației tale este stocat pe dispozitiv cu aceeași precizie, rotunjit la aproximativ 1 km. Date despre moschei © contribuitorii OpenStreetMap (ODbL)."
+          "Când deschizi ecranul „Moschei în apropiere”, locația ta este rotunjită la aproximativ 1 km (două zecimale) și trimisă serviciului OpenStreetMap Overpass pentru a găsi moscheile din apropiere. Ca la orice solicitare pe internet, adresa ta IP ajunge și ea la acest serviciu; nu se trimite nicio altă informație care să te identifice. Orașul găsit pe baza locației tale este stocat pe dispozitiv cu aceeași precizie, rotunjit la aproximativ 1 km. Date despre moschei © contribuitorii OpenStreetMap (ODbL). Dacă serviciul Overpass nu poate fi accesat, căutarea se face cu Apple Hărți pe dispozitivul tău; în acest caz, locația ta, rotunjită în același fel la două zecimale (aproximativ 1 km), ajunge la Apple și se supune politicii de confidențialitate Apple. Muslimly nu salvează această locație; lista moscheilor găsite este păstrată doar în memoria dispozitivului tău cel mult 30 de minute."
         ]
       },
       {

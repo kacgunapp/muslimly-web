@@ -152,7 +152,7 @@
         "h2": "Məkan",
         "p": [
           "Məkan icazəsi versən, məkanın namaz vaxtlarını və qiblə istiqamətini hesablamaq üçün cihazında istifadə olunur. Məkan icazəsi verməsən, şəhərini siyahıdan seçə bilərsən.",
-          "“Yaxın məscidlər” ekranını açanda yaxındakı məscidləri tapmaq üçün məkanın təxminən 1 km-ə yuvarlaqlaşdırılaraq (iki onluq rəqəm) OpenStreetMap Overpass xidmətinə göndərilir. Hər internet sorğusunda olduğu kimi IP ünvanın da bu xidmətə çatır; bundan başqa səni tanıdan məlumat göndərilmir. Məkanla tapılan şəhər cihazda da eyni dəqiqliklə, təxminən 1 km-ə yuvarlaqlaşdırılmış şəkildə saxlanılır. Məscid məlumatı © OpenStreetMap iştirakçıları (ODbL)."
+          "“Yaxın məscidlər” ekranını açanda yaxındakı məscidləri tapmaq üçün məkanın təxminən 1 km-ə yuvarlaqlaşdırılaraq (iki onluq rəqəm) OpenStreetMap Overpass xidmətinə göndərilir. Hər internet sorğusunda olduğu kimi IP ünvanın da bu xidmətə çatır; bundan başqa səni tanıdan məlumat göndərilmir. Məkanla tapılan şəhər cihazda da eyni dəqiqliklə, təxminən 1 km-ə yuvarlaqlaşdırılmış şəkildə saxlanılır. Məscid məlumatı © OpenStreetMap iştirakçıları (ODbL). Overpass xidmətinə qoşulmaq mümkün olmasa, axtarış cihazındakı Apple Xəritələr ilə aparılır; bu halda məkanın eyni şəkildə iki onluq rəqəmə (təxminən 1 km) yuvarlaqlaşdırılaraq Apple-a göndərilir və Apple-ın məxfilik siyasətinə tabedir. Muslimly bu məkanı saxlamır; tapılan məscid siyahısı yalnız cihazının yaddaşında ən çox 30 dəqiqə saxlanılır."
         ]
       },
       {

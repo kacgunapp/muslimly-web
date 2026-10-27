@@ -152,7 +152,7 @@
         "h2": "Poloha",
         "p": [
           "Pokud udělíš oprávnění k poloze, tvoje poloha se v zařízení používá k výpočtu časů modliteb a směru kibly. Pokud oprávnění k poloze neudělíš, můžeš své město vybrat ze seznamu.",
-          "Když otevřeš obrazovku „Mešity v okolí“, tvoje poloha se zaokrouhlí přibližně na 1 km (dvě desetinná místa) a odešle se službě OpenStreetMap Overpass, aby se našly mešity v okolí. Jako u každého internetového požadavku se k této službě dostane i tvoje IP adresa; žádné další informace, které tě identifikují, se neodesílají. Město zjištěné podle tvé polohy se v zařízení ukládá se stejnou přesností, zaokrouhlené přibližně na 1 km. Data o mešitách © přispěvatelé OpenStreetMap (ODbL)."
+          "Když otevřeš obrazovku „Mešity v okolí“, tvoje poloha se zaokrouhlí přibližně na 1 km (dvě desetinná místa) a odešle se službě OpenStreetMap Overpass, aby se našly mešity v okolí. Jako u každého internetového požadavku se k této službě dostane i tvoje IP adresa; žádné další informace, které tě identifikují, se neodesílají. Město zjištěné podle tvé polohy se v zařízení ukládá se stejnou přesností, zaokrouhlené přibližně na 1 km. Data o mešitách © přispěvatelé OpenStreetMap (ODbL). Pokud služba Overpass není dostupná, hledání proběhne přes Apple Mapy ve tvém zařízení; tvoje poloha, zaokrouhlená stejně na dvě desetinná místa (asi 1 km), pak jde společnosti Apple a řídí se zásadami ochrany soukromí společnosti Apple. Muslimly tuto polohu neukládá; seznam nalezených mešit se uchovává jen v paměti tvého zařízení nejvýše 30 minut."
         ]
       },
       {

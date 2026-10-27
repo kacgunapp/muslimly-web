@@ -159,7 +159,7 @@
         "h2": "Konum",
         "p": [
           "Konum iznini verirsen konumun namaz vakitlerini ve kıble yönünü hesaplamak için cihazında kullanılır. Konum iznini vermezsen şehrini listeden seçebilirsin.",
-          "“Yakın camiler” ekranını açtığında, yakındaki camileri bulmak için konumun yaklaşık 1 km'ye yuvarlanarak (iki ondalık basamak) OpenStreetMap Overpass hizmetine gönderilir. Her internet isteğinde olduğu gibi IP adresin de bu hizmete ulaşır; bunun dışında seni tanımlayan bir bilgi gönderilmez. Konumla bulunan şehir cihazda da aynı hassasiyetle, yaklaşık 1 km'ye yuvarlanmış olarak saklanır. Cami verisi © OpenStreetMap katkıda bulunanlar (ODbL)."
+          "“Yakın camiler” ekranını açtığında, yakındaki camileri bulmak için konumun yaklaşık 1 km'ye yuvarlanarak (iki ondalık basamak) OpenStreetMap Overpass hizmetine gönderilir. Her internet isteğinde olduğu gibi IP adresin de bu hizmete ulaşır; bunun dışında seni tanımlayan bir bilgi gönderilmez. Konumla bulunan şehir cihazda da aynı hassasiyetle, yaklaşık 1 km'ye yuvarlanmış olarak saklanır. Cami verisi © OpenStreetMap katkıda bulunanlar (ODbL). Overpass hizmetine ulaşılamazsa arama, cihazındaki Apple Haritalar ile yapılır; bu durumda konumun aynı şekilde iki ondalık basamağa (yaklaşık 1 km) yuvarlanmış olarak Apple'a gider ve Apple'ın gizlilik politikasına tabidir. Muslimly bu konumu saklamaz; bulunan cami listesi yalnız cihazının belleğinde en çok 30 dakika tutulur."
         ]
       },
       {

@@ -152,7 +152,7 @@
         "h2": "Lokasi",
         "p": [
           "Jika kamu memberikan izin lokasi, lokasimu dipakai di perangkat untuk menghitung waktu salat dan arah kiblat. Jika tidak memberikan izin lokasi, kamu bisa memilih kotamu dari daftar.",
-          "Saat kamu membuka layar “Masjid terdekat”, lokasimu dibulatkan ke sekitar 1 km (dua angka desimal) lalu dikirim ke layanan Overpass OpenStreetMap untuk menemukan masjid di sekitarmu. Seperti pada setiap permintaan internet, alamat IP-mu juga sampai ke layanan ini; selain itu tidak ada informasi yang mengidentifikasimu yang dikirim. Kota yang ditemukan dari lokasi juga disimpan di perangkat dengan ketelitian yang sama, dibulatkan ke sekitar 1 km. Data masjid © kontributor OpenStreetMap (ODbL)."
+          "Saat kamu membuka layar “Masjid terdekat”, lokasimu dibulatkan ke sekitar 1 km (dua angka desimal) lalu dikirim ke layanan Overpass OpenStreetMap untuk menemukan masjid di sekitarmu. Seperti pada setiap permintaan internet, alamat IP-mu juga sampai ke layanan ini; selain itu tidak ada informasi yang mengidentifikasimu yang dikirim. Kota yang ditemukan dari lokasi juga disimpan di perangkat dengan ketelitian yang sama, dibulatkan ke sekitar 1 km. Data masjid © kontributor OpenStreetMap (ODbL). Jika layanan Overpass tidak dapat dijangkau, pencarian dilakukan dengan Apple Maps di perangkatmu; dalam hal itu lokasimu, yang dibulatkan dengan cara yang sama ke dua angka desimal (sekitar 1 km), dikirim ke Apple dan tunduk pada kebijakan privasi Apple. Muslimly tidak menyimpan lokasi ini; daftar masjid yang ditemukan hanya disimpan di memori perangkatmu paling lama 30 menit."
         ]
       },
       {
