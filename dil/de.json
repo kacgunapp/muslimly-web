@@ -2,8 +2,8 @@
   "kod": "de",
   "ad": "Deutsch",
   "yon": "ltr",
-  "baslik": "Nur: Gebetszeiten & Koran",
-  "metaAciklama": "Gebetszeiten, 3D-Gebetsanleitung, Koran lesen und hören, Qibla, Dhikr-Zähler. Kein Konto, keine Werbung, keine Datensammlung.",
+  "baslik": "Muslimly: Gebetszeiten & Koran",
+  "metaAciklama": "Gebetszeiten, 3D-Gebetsanleitung, Koran lesen, Qibla, Dhikr-Zähler. Kein Konto, keine Werbung, keine Erhebung personenbezogener Daten.",
   "nav": {
     "tanitim": "Überblick",
     "destek": "Support",
@@ -11,192 +11,225 @@
     "dil": "Sprache"
   },
   "kahraman": {
-    "simgeAlt": "Nur-App-Symbol: goldenes aufgeschlagenes Buch mit Licht darüber",
-    "giris": "Ein schlichter Begleiter, der dir hilft, deine Gottesdienste regelmäßig zu verrichten. Mit Kinder- und Erwachsenenmodus; kein Konto, keine Werbung, keine Datensammlung.",
+    "simgeAlt": "App-Symbol von Muslimly: ein goldenes aufgeschlagenes Buch mit Licht darüber",
+    "giris": "Ein schlichter Begleiter, der es leichter macht, deine Gottesdienste regelmäßig zu verrichten. Mit Kinder- und Erwachsenenmodus; ohne Konto, ohne Werbung, ohne Erhebung personenbezogener Daten.",
     "rozet": "Für iOS · bald im App Store"
   },
-  "nelerVar": "Was steckt drin?",
+  "nelerVar": "Was ist drin?",
   "kartlar": [
     {
       "ikon": "🕰️",
       "h3": "Gebetszeiten",
-      "p": "12 Berechnungsmethoden, darunter Diyanet; Regeln für hohe Breitengrade, Gebetszeit-Benachrichtigungen und monatlicher Gebetskalender."
+      "p": "12 Berechnungsmethoden einschließlich Diyanet, Regeln für hohe Breitengrade, Benachrichtigungen zu den Gebetszeiten und ein monatlicher Gebetskalender."
     },
     {
       "ikon": "🧎",
       "h3": "3D-Gebet und Wudu",
-      "p": "Bewegungen Schritt für Schritt mit einer Figur für Mann, Frau oder Kind; aus jedem Winkel drehbar, mit den Bittgebeten auf Arabisch daneben."
+      "p": "Schritt-für-Schritt-Bewegungen mit einer Figur als Mann, Frau und Kind; aus jedem Blickwinkel drehbar, zusammen mit den Bittgebeten."
     },
     {
       "ikon": "📖",
       "h3": "Koran",
-      "p": "114 Suren, den arabischen Text Seite für Seite lesen, Vers für Vers anhören mit fünf Rezitatoren, Lesezeichen und Khatm-Plan."
+      "p": "114 Suren, Lesen Seite für Seite, Umschrift, Lesezeichen, Notizen zu Versen und ein Khatm-Plan."
     },
     {
       "ikon": "🕋",
       "h3": "Qibla",
-      "p": "Kompass und Karte zusammen: Richtung zur Kaaba, Luftlinienentfernung und Moscheen in der Nähe."
+      "p": "Kompass und Karte zusammen: Richtung der Kaaba, Entfernung in Luftlinie und Moscheen in der Nähe."
     },
     {
       "ikon": "📿",
       "h3": "Dhikr-Zähler",
-      "p": "Zähler mit Gebetskettenperlen; verschiedene Kettenmaterialien und leichte Vibration bei jeder Berührung."
+      "p": "Zähler mit Gebetsperlen; verschiedene Perlenmaterialien und eine leichte Vibration bei jeder Berührung."
     },
     {
       "ikon": "🧰",
       "h3": "Werkzeuge",
-      "p": "Zakat- und Fitra-Berechnung, Hidschri-Kalender und gesegnete Tage, Erinnerungen für Sahur, Tahadschud und Freitagsgebet."
+      "p": "Zakat- und Fitra-Rechner, Hidschri-Kalender und gesegnete Tage, Erinnerungen für Sahur, Tahadschud und Freitag."
     },
     {
       "ikon": "📱",
       "h3": "Widget",
-      "p": "Nächste Gebetszeit und Aufgaben des Tages auf dem Startbildschirm; ein Tipp öffnet den passenden Bereich."
+      "p": "Die nächste Gebetszeit und die Aufgaben des Tages auf dem Home-Bildschirm; ein Tippen öffnet den richtigen Bereich."
     }
   ],
   "gizlilikOzet": {
-    "h2": "Deine Daten bleiben bei dir",
+    "h2": "Deine Privatsphäre bleibt bei dir",
     "maddeler": [
       "Kein Konto, keine Anmeldung, kein Server.",
-      "Keine Werbung, keine Analyse, kein Tracking.",
-      "Dein Fortschritt und deine Einstellungen bleiben nur auf deinem Gerät.",
-      "Dein Standort wird für Gebetszeiten und Qibla auf dem Gerät verwendet; bei der Moscheesuche wird er nur auf etwa 1 km gerundet übermittelt."
+      "Keine Werbung und kein Tracking; nur anonyme Nutzungsmessung (PostHog, EU-Server) und Absturzberichte.",
+      "Dein Fortschritt und deine Einstellungen bleiben auf deinem Gerät; wenn du möchtest, werden sie mit deinem eigenen iCloud-Konto synchronisiert (sie erreichen uns nicht).",
+      "Dein Standort wird für Gebetszeiten und Qibla auf dem Gerät verwendet; bei der Suche nach Moscheen in der Nähe wird nur ein auf etwa 1 km gerundeter Wert gesendet."
     ],
     "tamMetin": "Vollständige Datenschutzerklärung"
   },
-  "telif": "© 2026 Nur",
+  "telif": "© 2026 Doğaç Turan",
   "ceviriNotu": "Diese Übersetzung dient nur der Information; bei Abweichungen gilt der türkische Text.",
   "destek": {
     "h1": "Support",
-    "giris": "Häufige Situationen und ihre Lösungen findest du unten. Findest du keine Antwort, schreib uns.",
+    "giris": "Häufige Situationen und ihre Lösungen findest du unten. Wenn du keine Antwort findest, schreib uns.",
     "sssBaslik": "Häufig gestellte Fragen",
     "sss": [
       {
-        "soru": "Die Gebetszeiten wirken falsch",
-        "giris": "Die Zeiten werden nach dem gewählten Standort und der Berechnungsmethode berechnet. Prüfe der Reihe nach:",
+        "soru": "Die Gebetszeiten scheinen falsch zu sein",
+        "giris": "Die Zeiten werden anhand des gewählten Standorts und der Berechnungsmethode berechnet. Prüfe der Reihe nach:",
         "adimlar": [
-          "<strong>Standort:</strong> Ich-Tab › Standort. Tippe auf „Standort automatisch ermitteln“ oder wähle deine Stadt aus der Liste. Ist eine andere Stadt gewählt, gelten die Zeiten dieser Stadt.",
-          "<strong>Berechnungsmethode:</strong> Ich-Tab › Berechnungsmethode. Für die Türkei wähle Diyanet (Präsidium für Religionsangelegenheiten); „Automatisch nach Stadt“ wählt die Methode des Landes, in dem du dich befindest.",
-          "<strong>Asr-Zeit:</strong> Prüfe auf demselben Bildschirm die Wahl zwischen Asr al-awwal (früher) und Asr ath-thani (später); zwischen beiden kann fast eine Stunde Unterschied liegen.",
-          "<strong>Hidschri-Datum:</strong> Weicht der Hidschri-Kalender um einen Tag ab, kannst du ihn unter Werkzeuge › Hidschri-Kalender um bis zu ±2 Tage korrigieren."
+          "<strong>Standort:</strong> Tab Ich › Standort. Tippe auf „Standort automatisch ermitteln“ oder wähle deine Stadt aus der Liste. Ist eine andere Stadt gewählt, richten sich die Zeiten nach dieser Stadt.",
+          "<strong>Berechnungsmethode:</strong> Tab Ich › Berechnungsmethode. Für die Türkei wähle Diyanet (Türkisches Religionsamt); „Automatisch nach Stadt“ wählt die Methode des Landes, in dem du dich befindest.",
+          "<strong>Asr-Zeit:</strong> Prüfe auf demselben Bildschirm, ob Asr al-awwal oder Asr ath-thani gewählt ist; zwischen beiden kann fast eine Stunde liegen.",
+          "<strong>Hidschri-Datum:</strong> Weicht der Hidschri-Kalender um einen Tag ab, kannst du unter Werkzeuge › Hidschri-Kalender eine Korrektur von ±2 Tagen einstellen."
         ],
-        "son": "Ein Unterschied von wenigen Minuten zum offiziellen Kalender kann an der Sicherheitsspanne liegen und ist normal."
+        "son": "Ein Unterschied von wenigen Minuten zum offiziellen Kalender kann durch einen Sicherheitszuschlag entstehen und ist normal."
       },
       {
-        "soru": "Keine Benachrichtigungen",
+        "soru": "Benachrichtigungen kommen nicht an",
         "adimlar": [
-          "Öffne auf dem iPhone <strong>Einstellungen › Mitteilungen › Nur</strong>; „Mitteilungen erlauben“ muss aktiv sein.",
-          "Ist ein Fokus (Nicht stören, Schlafen) aktiv, füge Nur zu den erlaubten Apps hinzu.",
-          "In der App muss <strong>Ich-Tab › Adhan-Benachrichtigung</strong> aktiv sein. Erinnerungen für Sahur, Tahadschud und Freitagsgebet findest du unter <strong>Werkzeuge › Erinnerungen</strong>.",
-          "Wenn du den Standort änderst, werden die Benachrichtigungen automatisch nach den neuen Zeiten neu eingerichtet.",
-          "iOS begrenzt die Zahl der Benachrichtigungen, die eine App im Voraus einplanen kann; Nur plant etwa eine Woche. Öffnest du die App mindestens einmal pro Woche, laufen die Benachrichtigungen ohne Unterbrechung weiter."
+          "Öffne auf dem iPhone <strong>Einstellungen › Mitteilungen › Muslimly</strong>; „Mitteilungen erlauben“ muss aktiviert sein.",
+          "Wenn ein Fokus (Nicht stören, Schlafen) aktiv ist, füge Muslimly zu den erlaubten Apps hinzu.",
+          "In der App muss <strong>Tab Ich › Adhan-Benachrichtigung</strong> aktiviert sein. Für Erinnerungen zu Sahur, Tahadschud und Freitag: <strong>Werkzeuge › Erinnerungen</strong>.",
+          "Wenn du den Standort änderst, werden die Benachrichtigungen automatisch für die neuen Zeiten neu eingerichtet.",
+          "iOS begrenzt die Zahl der Benachrichtigungen, die eine App im Voraus planen kann; Muslimly plant etwa eine Woche an Gebetszeiten. Wenn du die App mindestens einmal pro Woche öffnest, laufen die Benachrichtigungen ohne Unterbrechung weiter."
         ]
       },
       {
         "soru": "Die Qibla-Richtung weicht ab",
         "adimlar": [
-          "Kalibriere den Kompass, indem du das Telefon mehrmals in einer „8“ durch die Luft bewegst.",
-          "Halte Abstand zu Magnethüllen, Lautsprechern, Metalltischen und elektronischen Geräten; sie lenken den Kompass ab.",
-          "<strong>Einstellungen › Datenschutz & Sicherheit › Ortungsdienste › Systemdienste › Kompasskalibrierung</strong> muss aktiv sein.",
-          "Stelle sicher, dass dein Standort stimmt: Der Qibla-Winkel wird nach dem gewählten Standort berechnet."
+          "Kalibriere den Kompass, indem du das Telefon einige Male in Form einer „8“ durch die Luft bewegst.",
+          "Halte Abstand zu magnetischen Hüllen, Lautsprechern, Metalltischen oder elektronischen Geräten; sie lenken den Kompass ab.",
+          "<strong>Einstellungen › Datenschutz & Sicherheit › Ortungsdienste › Systemdienste › Kompasskalibrierung</strong> sollte aktiviert sein.",
+          "Stelle sicher, dass dein Standort stimmt: Der Qibla-Winkel wird anhand des gewählten Standorts berechnet."
         ]
       },
       {
-        "soru": "Koran-Audio spielt nicht oder lässt sich nicht herunterladen",
+        "soru": "Die Audiotaste für Koran oder Bittgebet wird nicht angezeigt",
         "adimlar": [
-          "Die Versaudios kommen aus dem Internet. Prüfe deine WLAN- oder Mobilfunkverbindung; unter Einstellungen › Mobilfunk muss Nur mobile Daten nutzen dürfen.",
-          "Wurde ein Download unterbrochen, versuche es erneut: Unvollständige Dateien werden gelöscht, der Download wird von vorn abgeschlossen.",
-          "Heruntergeladene Suren spielen auch ohne Netz. Unter Koran lesen › Leseeinstellungen kannst du die heruntergeladenen Suren sehen und löschen.",
-          "Die Anhören-Taste gibt es nur bei Bittgebeten aus Koranversen; bei anderen Bittgebeten wird sie nicht angezeigt."
+          "Die Audios sind in der App enthalten und werden nicht aus dem Internet geladen. Die Taste Anhören erscheint nur bei Suren und Bittgebeten, deren Aufnahme der App hinzugefügt wurde.",
+          "Bei Suren und Bittgebeten ohne Aufnahme wird die Taste gar nicht angezeigt; arabischer Text und Umschrift sind immer lesbar."
         ]
       }
     ],
     "iletisimBaslik": "Kontakt",
     "iletisim": "Für Fragen, Vorschläge oder Fehlermeldungen:",
-    "iletisimKonu": "Nur Support",
-    "iletisimNot": "Wenn du dein iPhone-Modell, deine iOS-Version und die gewählte Stadt angibst, können wir dir schneller helfen.",
-    "metaBaslik": "Nur Support",
-    "metaAciklama": "Häufig gestellte Fragen und Kontakt zur Nur-App."
+    "iletisimKonu": "Muslimly Support",
+    "iletisimNot": "Wenn du beim Schreiben dein iPhone-Modell, deine iOS-Version und deine gewählte Stadt angibst, können wir dir schneller helfen.",
+    "metaBaslik": "Muslimly Support",
+    "metaAciklama": "Häufig gestellte Fragen und Kontakt zur App Muslimly."
   },
   "gizlilik": {
     "h1": "Datenschutzerklärung",
-    "tarih": "Gültig ab: 27. September 2026",
-    "giris": "Diese Erklärung beschreibt, welche Informationen die iOS-App Nur: Gebetszeiten & Koran („Nur“) wie verwendet. Kurz gesagt: Nur hat keinen Server und sammelt keine personenbezogenen Daten von dir. Einige Funktionen senden Anfragen an die unten einzeln genannten Drittanbieterdienste, um zu funktionieren.",
+    "tarih": "Gültig ab: 22. Oktober 2026",
+    "giris": "Diese Erklärung beschreibt, welche Informationen die iOS-App Muslimly: Gebetszeiten & Koran („Muslimly“) verwendet und wie. Kurz gesagt: Muslimly hat keinen Server und erhebt keine personenbezogenen Daten von dir. Einige Funktionen senden für ihren Betrieb Anfragen an die unten einzeln aufgeführten Dienste Dritter.",
     "bolumler": [
       {
         "h2": "Kein Konto",
         "p": [
-          "Um Nur zu nutzen, musst du kein Konto anlegen, dich nicht anmelden und keine Angaben wie E-Mail-Adresse oder Telefonnummer machen. Die App hat keinen Server."
+          "Um Muslimly zu nutzen, musst du kein Konto anlegen, dich nicht anmelden und keine Angaben wie E-Mail-Adresse oder Telefonnummer machen. Die App hat keinen Server."
         ]
       },
       {
-        "h2": "Keine Werbung, keine Analyse, kein Tracking",
+        "h2": "Keine Werbung; Absturzberichte und anonyme Nutzungsmessung",
         "p": [
-          "Nur zeigt keine Werbung und enthält keine Analyse-, Absturzbericht- oder Tracking-Werkzeuge. Sie verfolgt dich nicht über Apps und Websites hinweg und greift nicht auf die Werbe-ID zu."
+          "Muslimly zeigt keine Werbung, verfolgt dich nicht über Apps und Websites hinweg und greift nicht auf die Werbe-ID zu.",
+          "Ab Version 1.0.1 werden für einen stabilen Betrieb der App Absturz- und Leistungsberichte (Sentry) sowie eine anonyme Nutzungsmessung darüber, welche Bildschirme verwendet werden (PostHog, EU-Server), erhoben. Diese Daten werden nicht mit deiner Identität verknüpft; es werden keine Kontoinformationen, kein Standort, kein Gebets- oder Koranfortschritt und nichts, was du geschrieben hast, gesendet; übermittelt werden nur App-Version, Gerätemodell, Betriebssystemversion, Fehlerdetails und Bildschirmnamen. In Entwicklungs-Builds ist diese Erhebung ausgeschaltet.",
+          "Im Abschnitt „App-Datenschutz“ im App Store werden diese Daten als Absturzdaten, Leistungsdaten und Produktinteraktion unter der Überschrift „Nicht mit dir verknüpfte Daten“ angegeben."
         ]
       },
       {
         "h2": "Deine Daten bleiben auf deinem Gerät",
         "p": [
-          "Der optional eingegebene Name, die gewählte Stadt, deine Einstellungen, dein Gebets- und Aufgabenfortschritt, dein Lesefortschritt im Koran und deine Lesezeichen werden nur auf deinem Gerät gespeichert. Ist das iCloud-Backup deines iPhones aktiv, sind diese Daten auch darin enthalten; dieses Backup gehört zu deinem Apple-Konto und kann von Nur nicht gelesen werden. Heruntergeladene Versaudios bleiben ebenfalls auf deinem Gerät, werden aber nicht gesichert, da sie erneut heruntergeladen werden können; iOS darf sie löschen, um Speicherplatz freizugeben, und sie werden bei Bedarf neu geladen. Wenn du das Startbildschirm-Widget aktivierst, wird eine kurze Zusammenfassung (nächste Gebetszeit, Aufgaben des Tages) in den gemeinsamen Bereich auf deinem Gerät geschrieben, damit das Widget sie anzeigen kann.",
-          "Das beim ersten Start gewählte Profil (Kind, erwachsener Mann oder erwachsene Frau; bei Kindern Mädchen oder Junge) und die Rechtsschule werden ebenfalls nur auf deinem Gerät gespeichert; sie dienen der Gebetsanleitung, der Figur und der Berechnung der Asr-Zeit und werden nirgendwohin gesendet.",
-          "Wenn du die App löschst, werden auch alle Nur-Daten auf dem Gerät gelöscht."
+          "Der Name, den du optional eingibst, die Stadt, die du wählst, deine Einstellungen, dein Gebets- und Aufgabenfortschritt, dein Lesefortschritt im Koran und deine Lesezeichen werden nur auf deinem Gerät gespeichert. Ist das iCloud-Backup deines iPhones aktiviert, sind diese Daten darin enthalten; dieses Backup gehört zu deinem Apple Account und kann von Muslimly nicht gelesen werden. Wenn du das Widget für den Home-Bildschirm aktivierst, wird eine kurze Zusammenfassung (nächste Gebetszeit, Aufgaben des Tages) ebenfalls in einen gemeinsamen Bereich auf deinem Gerät geschrieben, damit das Widget sie anzeigen kann.",
+          "Das beim ersten Start gewählte Profil (Kind, erwachsener Mann oder erwachsene Frau; bei einem Kind Mädchen oder Junge) und die Rechtsschule werden ebenfalls nur auf deinem Gerät gespeichert; sie werden für die Gebetsanleitung, die Figur und die Berechnung der Asr-Zeit verwendet und nirgendwohin gesendet.",
+          "Wenn du die App löschst, werden auch alle Muslimly-Daten auf dem Gerät gelöscht."
+        ]
+      },
+      {
+        "h2": "Synchronisierung mit iCloud (optional)",
+        "p": [
+          "Wenn du in den Einstellungen die Option „Mit iCloud synchronisieren“ aktivierst (standardmäßig aus), werden dein Fortschritt und deine Einstellungen über Apples iCloud-Key-Value-Speicher in dein eigenes iCloud-Konto geschrieben und mit deinen anderen Geräten mit demselben Konto synchronisiert. Diese Daten liegen in deinem Apple Account; da Muslimly keinen Server hat, erreichen sie uns nicht und wir können sie nicht sehen. Dieser Dienst unterliegt der Datenschutzrichtlinie von Apple.",
+          "Informationen zum Modus „Besondere Tage“, der Kaufstatus, die Widget-Berechtigung und die Wahl des App-Symbols werden nicht in iCloud geschrieben; sie bleiben nur auf deinem Gerät. Wenn du die Option ausschaltest, endet die Synchronisierung."
         ]
       },
       {
         "h2": "Modus „Besondere Tage“",
         "p": [
-          "Der Modus „Besondere Tage“, der im Profil Frau und Mädchen aktiviert werden kann, und die Angabe, an welchen Tagen er aktiv war, werden nur im eigenen Speicher der App auf deinem Gerät gehalten. Diese Angabe wird an keinen Server gesendet; sie wird nicht in den gemeinsamen Bereich geschrieben, den das Startbildschirm-Widget liest, erscheint nicht in Benachrichtigungstexten und wird nicht protokolliert (kein Log). Widget und Benachrichtigungen sind gleich, egal ob der Modus aktiv ist oder nicht. Nach dem Ausschalten bleiben die vergangenen Tage nur für die Berechnung der Serie höchstens 90 Tage auf dem Gerät; mit dem Löschen der App wird auch diese Angabe gelöscht. Ist das iCloud-Backup deines iPhones aktiv, ist sie zusammen mit deinen anderen App-Daten darin enthalten."
+          "Der Modus „Besondere Tage“, der im Profil Frau und Mädchen aktiviert werden kann, und die Information, an welchen Tagen er aktiv war, werden nur im eigenen Speicher der App auf deinem Gerät gehalten. Diese Information wird an keinen Server gesendet; sie wird nicht in den gemeinsamen Bereich geschrieben, den das Widget liest, erscheint nicht in Benachrichtigungstexten und wird nicht protokolliert (es werden keine Logs geführt). Widget und Benachrichtigungen sind gleich, ob der Modus aktiv ist oder nicht. Wenn du ihn ausschaltest, bleiben vergangene Tage nur für die Serienberechnung höchstens 90 Tage auf dem Gerät; wenn du die App löschst, wird auch diese Information gelöscht. Ist das iCloud-Backup deines iPhones aktiviert, ist sie zusammen mit deinen anderen App-Daten darin enthalten."
         ]
       },
       {
         "h2": "Standort",
         "p": [
-          "Wenn du die Standortberechtigung erteilst, wird dein Standort auf deinem Gerät verwendet, um Gebetszeiten und Qibla-Richtung zu berechnen. Erteilst du sie nicht, kannst du deine Stadt aus der Liste wählen.",
-          "Wenn du den Bildschirm „Moscheen in der Nähe“ öffnest, wird dein Standort, auf etwa 1 km gerundet (zwei Dezimalstellen), an den Overpass-Dienst von OpenStreetMap gesendet, um Moscheen in der Nähe zu finden. Wie bei jeder Internetanfrage erreicht auch deine IP-Adresse diesen Dienst; darüber hinaus werden keine Informationen gesendet, die dich identifizieren. Die per Standort ermittelte Stadt wird auf dem Gerät mit derselben Genauigkeit, auf etwa 1 km gerundet, gespeichert. Moscheedaten © OpenStreetMap-Mitwirkende (ODbL). Ist der Overpass-Dienst nicht erreichbar, erfolgt die Suche mit Apple Karten auf deinem Gerät; dabei geht dein Standort, auf dieselbe Weise auf zwei Dezimalstellen (etwa 1 km) gerundet, an Apple und unterliegt der Datenschutzrichtlinie von Apple. Muslimly speichert diesen Standort nicht; die Liste der gefundenen Moscheen wird nur im Speicher deines Geräts höchstens 30 Minuten aufbewahrt."
+          "Wenn du die Standortberechtigung erteilst, wird dein Standort auf deinem Gerät verwendet, um Gebetszeiten und Qibla-Richtung zu berechnen. Wenn du sie nicht erteilst, kannst du deine Stadt aus der Liste wählen.",
+          "Wenn du den Bildschirm „Moscheen in der Nähe“ öffnest, wird dein Standort, auf etwa 1 km gerundet (zwei Dezimalstellen), an den Dienst OpenStreetMap Overpass gesendet, um Moscheen in der Nähe zu finden. Wie bei jeder Internetanfrage erreicht auch deine IP-Adresse diesen Dienst; darüber hinaus wird keine Information gesendet, die dich identifiziert. Die per Standort ermittelte Stadt wird auf dem Gerät mit derselben Genauigkeit, auf etwa 1 km gerundet, gespeichert. Moscheedaten © OpenStreetMap-Mitwirkende (ODbL). Ist der Overpass-Dienst nicht erreichbar, erfolgt die Suche mit Apple Karten auf deinem Gerät; in diesem Fall geht dein Standort, ebenso auf zwei Dezimalstellen (etwa 1 km) gerundet, an Apple und unterliegt der Datenschutzrichtlinie von Apple. Muslimly speichert diesen Standort nicht; die gefundene Moscheeliste wird nur im Arbeitsspeicher deines Geräts höchstens 30 Minuten gehalten."
         ]
       },
       {
         "h2": "Karte und Route (Apple Karten)",
         "p": [
-          "Die Karten auf den Bildschirmen „Moscheen in der Nähe“ und „Kaaba“ werden mit Apple Karten angezeigt. Die Kartenbilder werden für den angezeigten Bereich von Apple geladen; hast du die Standortberechtigung erteilt, wird auch dein Standort auf der Karte angezeigt. Dieser Dienst unterliegt der Datenschutzrichtlinie von Apple.",
-          "Wenn du bei einer Moschee auf „Route“ tippst, öffnet sich Apple Karten mit dem Namen und den Koordinaten der Moschee; die Route wird in Apple Karten berechnet. Das geschieht nur, wenn du darauf tippst."
+          "Die Karten auf den Bildschirmen „Moscheen in der Nähe“ und „Kaaba“ werden mit Apple Karten angezeigt. Kartenbilder für den angezeigten Bereich werden von Apple geladen; hast du die Standortberechtigung erteilt, wird auch dein Standort auf der Karte angezeigt. Dieser Dienst unterliegt der Datenschutzrichtlinie von Apple.",
+          "Wenn du bei einer Moschee auf „Route“ tippst, öffnet sich Apple Karten mit Name und Koordinaten der Moschee; die Route wird in Apple Karten berechnet. Das geschieht nur, wenn du tippst."
         ]
       },
       {
-        "h2": "Koran-Audio",
+        "h2": "Kamera",
         "p": [
-          "Die Versaudios werden vom Dienst Islamic Network (cdn.islamic.network) abgespielt oder auf das Gerät heruntergeladen. Bei jeder Anfrage erreicht diesen Dienst Folgendes: deine IP-Adresse, die Adresse der angeforderten Datei (welcher Rezitator, welche Sure und welcher Vers gehört wird) und die Standard-Browserkennung (User-Agent) mit der Version der App und von iOS. Weitere Informationen werden nicht gesendet. Auf das Gerät heruntergeladene Audios spielen auch ohne Netz. Die Rechte an den Aufnahmen liegen bei den Rezitatoren; Quelle und Nutzungsbedingungen findest du in der App unter Über die App › Quellen und Lizenzen."
+          "Wenn du den Bildschirm „Qibla-Kamera“ öffnest, wird das Kamerabild nur auf dem Bildschirm hinter dem Qibla-Pfeil angezeigt. Das Bild wird nicht gespeichert, nicht verarbeitet und verlässt dein Gerät nicht. Wenn du die Kameraberechtigung nicht erteilst, findest du die Qibla trotzdem mit Kompass und Karte."
+        ]
+      },
+      {
+        "h2": "Koran- und Bittgebet-Audios",
+        "p": [
+          "Die Audios sind in der App enthalten; zum Abspielen wird keine Anfrage an einen Dienst gesendet. Versaudios, die frühere Versionen aus dem Internet auf das Gerät geladen haben, werden beim ersten Start nach dem App-Update vom Gerät gelöscht."
+        ]
+      },
+      {
+        "h2": "Vorlesen",
+        "p": [
+          "Das Vorlesen türkischer Texte und das in den Einstellungen aktivierbare arabische Vorlesen (synthetische Stimme; keine Rezitation; standardmäßig aus) erfolgen auf deinem Gerät mit den eigenen Sprachstimmen deines iPhones. Der vorgelesene Text wird an keinen Dienst gesendet."
         ]
       },
       {
         "h2": "Teilen",
         "p": [
-          "Wenn du auf „Fortschritt teilen“ tippst, öffnet sich deine Fortschrittszusammenfassung (Serie, Ziel, Anzahl der Gebete und Dhikr) im iOS-Teilen-Menü. Der Text geht nur an die App oder Person, die du wählst; Nur teilt von sich aus nichts."
+          "Wenn du auf „Fortschritt teilen“ tippst, öffnet sich deine Fortschrittsübersicht (Serie, Ziel, Gebets- und Dhikr-Zahlen) im iOS-Teilen-Menü. Der Text geht nur an die App oder Person, die du wählst; Muslimly teilt von sich aus nichts."
+        ]
+      },
+      {
+        "h2": "Käufe",
+        "p": [
+          "In dieser Version von Muslimly gibt es keine Käufe; der unten genannte Dienst ist nicht aktiv und sendet keine Anfragen.",
+          "Falls künftig ein optionales Premium-Abo angeboten wird: Kauf und Zahlung werden von Apple abgewickelt; Muslimly sieht deine Zahlungsdaten nicht. Um zu prüfen, ob dein Abo gültig ist, wird der Dienst RevenueCat (RevenueCat, Inc.) verwendet. An diesen Dienst gehen eine zufällig erzeugte Nutzernummer, die nicht mit deinem Namen oder deinem Apple Account verknüpft ist, der Kaufverlauf (Produkt, Datum, Preis, Währung, Land) sowie die Versionen der App und von iOS. Diese Informationen werden nicht für Werbung oder Tracking verwendet und nicht zu diesem Zweck an Dritte weitergegeben. Datenschutzrichtlinie von RevenueCat: revenuecat.com/privacy.",
+          "Du kannst dein Abo in den Einstellungen deines App-Store-Kontos verwalten oder kündigen; Erstattungsanträge laufen über Apple."
         ]
       },
       {
         "h2": "Benachrichtigungen",
         "p": [
-          "Gebetszeit-Benachrichtigungen und Erinnerungen werden lokal auf deinem Gerät geplant. Es werden keine Push-Benachrichtigungen aus der Ferne verwendet; für Benachrichtigungen wird bei keinem Server eine Registrierung vorgenommen."
+          "Benachrichtigungen zu den Gebetszeiten und Erinnerungen werden lokal auf deinem Gerät geplant. Es werden keine Push-Benachrichtigungen verwendet; für Benachrichtigungen erfolgt keine Registrierung bei einem Server."
+        ]
+      },
+      {
+        "h2": "Widget, Live-Aktivität, Siri und Fokus",
+        "p": [
+          "Widgets auf dem Home- und Sperrbildschirm, der Countdown zur Gebetszeit auf dem Sperrbildschirm (Live-Aktivität), Siri-Kurzbefehle und der Fokusfilter laufen auf deinem Gerät; sie lesen die Gebetszeiten aus dem gemeinsamen Bereich der App auf dem Gerät. Dafür wird keine Anfrage an einen Server gesendet."
         ]
       },
       {
         "h2": "Kinder",
         "p": [
-          "Nur hat einen Kindermodus. Da die App von keinem Nutzer, auch nicht von Kindern, personenbezogene Daten sammelt, gibt es auch keine besondere Datenverarbeitung für Kinder."
+          "Muslimly hat einen Kindermodus. Da die App von keinem Nutzer, auch nicht von Kindern, personenbezogene Daten erhebt, gibt es auch keine besondere Datenverarbeitung für Kinder."
         ]
       },
       {
         "h2": "Änderungen",
         "p": [
-          "Ändert sich diese Erklärung, wird die aktuelle Fassung mit neuem Gültigkeitsdatum auf dieser Seite veröffentlicht."
+          "Ändert sich diese Erklärung, wird die aktuelle Fassung auf dieser Seite mit neuem Gültigkeitsdatum veröffentlicht."
         ]
       }
     ],
     "iletisimBaslik": "Kontakt",
     "iletisim": "Bei Fragen:",
-    "iletisimKonu": "Nur Datenschutz",
-    "metaBaslik": "Nur Datenschutzerklärung",
-    "metaAciklama": "Datenschutzerklärung der Nur-App: kein Konto, keine Werbung, kein Tracking, Daten bleiben auf dem Gerät."
+    "iletisimKonu": "Muslimly Datenschutz",
+    "metaBaslik": "Muslimly Datenschutzerklärung",
+    "metaAciklama": "Datenschutzerklärung der App Muslimly: kein Konto, keine Werbung und kein Tracking, Daten bleiben auf dem Gerät."
   }
 }

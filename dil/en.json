@@ -2,8 +2,8 @@
   "kod": "en",
   "ad": "English",
   "yon": "ltr",
-  "baslik": "Nur: Prayer Times & Qur'an",
-  "metaAciklama": "Prayer times, 3D prayer lessons, Qur'an reading and listening, Qibla, dhikr counter. No account, no ads, no data collection.",
+  "baslik": "Muslimly: Prayer Times & Quran",
+  "metaAciklama": "Prayer times, 3D prayer lessons, Qur'an reading, Qibla, dhikr counter. No account, no ads, no personal data collection.",
   "nav": {
     "tanitim": "Overview",
     "destek": "Support",
@@ -11,8 +11,8 @@
     "dil": "Language"
   },
   "kahraman": {
-    "simgeAlt": "Nur app icon: a golden open book with light above it",
-    "giris": "A simple companion that makes it easier to keep your worship regular. It has kids and adult modes; it asks for no account, shows no ads and collects no data.",
+    "simgeAlt": "Muslimly app icon: a golden open book with light above it",
+    "giris": "A simple companion that makes it easier to keep your worship regular. It has a child mode and an adult mode; it asks for no account, shows no ads and collects no personal data.",
     "rozet": "For iOS · coming soon to the App Store"
   },
   "nelerVar": "What's inside?",
@@ -20,17 +20,17 @@
     {
       "ikon": "🕰️",
       "h3": "Prayer times",
-      "p": "12 calculation methods including Diyanet, high latitude rules, prayer time notifications and a monthly timetable."
+      "p": "12 calculation methods including Diyanet, high-latitude rules, prayer time notifications and a monthly timetable."
     },
     {
       "ikon": "🧎",
       "h3": "3D prayer and wudu",
-      "p": "Step-by-step movements with a man, woman or child figure; rotate to any angle, with the supplications in Arabic alongside."
+      "p": "Step-by-step movements with a man, woman and child figure; rotatable from every angle, together with their supplications."
     },
     {
       "ikon": "📖",
       "h3": "Qur'an",
-      "p": "114 surahs, page-by-page reading of the Arabic text, verse-by-verse listening from five reciters, bookmarks and a khatm plan."
+      "p": "114 surahs, page-by-page reading, transliteration, bookmarks, notes on verses and a khatm plan."
     },
     {
       "ikon": "🕋",
@@ -45,135 +45,160 @@
     {
       "ikon": "🧰",
       "h3": "Tools",
-      "p": "Zakat and fitra calculation, Hijri calendar and blessed days, suhoor, tahajjud and Jumu'ah reminders."
+      "p": "Zakat and fitra calculator, Hijri calendar and blessed days, suhoor, tahajjud and Friday reminders."
     },
     {
       "ikon": "📱",
       "h3": "Widget",
-      "p": "The next prayer and today's tasks on your home screen; tap it to open the right section."
+      "p": "The next prayer time and the day's tasks on your Home Screen; tap it and the right section opens."
     }
   ],
   "gizlilikOzet": {
     "h2": "Your privacy stays with you",
     "maddeler": [
-      "No account, sign-in or server.",
-      "No ads or tracking; only anonymous usage analytics (PostHog, EU servers) and crash reports.",
-      "Your progress and settings stay only on your device.",
-      "Your location is used on the device for prayer times and the Qibla; for the nearby mosque search only a version rounded to about 1 km is sent."
+      "No account, no sign-in and no server.",
+      "No ads and no tracking; only anonymous usage measurement (PostHog, EU servers) and crash reports.",
+      "Your progress and settings stay on your device; if you wish, they sync with your own iCloud account (they never reach us).",
+      "Your location is used on your device for prayer times and the Qibla; for the nearby mosque search, only a version rounded to about 1 km is sent."
     ],
-    "tamMetin": "Read the full privacy policy"
+    "tamMetin": "Full privacy policy"
   },
-  "telif": "© 2026 Nur",
+  "telif": "© 2026 Doğaç Turan",
   "ceviriNotu": "This translation is provided for information only; in case of any discrepancy, the Turkish text prevails.",
   "destek": {
     "h1": "Support",
-    "giris": "Common situations and their fixes are below. If you can't find your answer, write to us.",
+    "giris": "Common situations and their solutions are below. If you can't find your answer, write to us.",
     "sssBaslik": "Frequently asked questions",
     "sss": [
       {
         "soru": "Prayer times look wrong",
         "giris": "Times are calculated from the selected location and calculation method. Check these in order:",
         "adimlar": [
-          "<strong>Location:</strong> Me tab › Location. Tap “Find my location automatically” or pick your city from the list. If another city is selected, the times will be for that city.",
-          "<strong>Calculation method:</strong> Me tab › Calculation method. For Turkey choose Presidency of Religious Affairs (Diyanet); “Automatic by city” picks the method of the country you're in.",
-          "<strong>Asr time:</strong> On the same screen, check the earlier Asr or later Asr choice; the two can differ by close to an hour.",
-          "<strong>Hijri date:</strong> If the Hijri calendar is off by a day, you can set a ±2 day correction in Tools › Hijri calendar."
+          "<strong>Location:</strong> Me tab › Location. Tap “Find my location automatically” or choose your city from the list. If another city is selected, the times follow that city.",
+          "<strong>Calculation method:</strong> Me tab › Calculation method. For Türkiye choose Presidency of Religious Affairs (Diyanet); “Automatic by city” chooses the method of the country you are in.",
+          "<strong>Asr method:</strong> On the same screen, check whether Earlier Asr or Later Asr is selected; the two can differ by close to an hour.",
+          "<strong>Hijri date:</strong> If the Hijri calendar is off by a day, you can apply a correction of ±2 days in Tools › Hijri calendar."
         ],
         "son": "A difference of a few minutes from the official calendar can come from a safety margin and is normal."
       },
       {
-        "soru": "Notifications aren't arriving",
+        "soru": "Notifications don't arrive",
         "adimlar": [
-          "On your iPhone open <strong>Settings › Notifications › Nur</strong>; “Allow Notifications” must be on.",
-          "If a Focus mode (Do Not Disturb, Sleep) is on, add Nur to the allowed apps.",
-          "In the app, <strong>Me tab › Adhan notification</strong> must be on. For suhoor, tahajjud and Jumu'ah reminders, see <strong>Tools › Reminders</strong>.",
-          "When you change your location, notifications are rescheduled automatically for the new times.",
-          "iOS limits how many notifications an app can schedule in advance; Nur plans about a week of prayer times. If you open the app at least once a week, notifications continue without interruption."
+          "On your iPhone open <strong>Settings › Notifications › Muslimly</strong>; “Allow Notifications” must be on.",
+          "If a Focus mode (Do Not Disturb, Sleep) is on, add Muslimly to the allowed apps.",
+          "In the app, <strong>Me tab › Adhan notification</strong> must be on. For suhoor, tahajjud and Friday reminders, see <strong>Tools › Reminders</strong>.",
+          "When you change your location, notifications are automatically set up again for the new times.",
+          "iOS limits how many notifications an app can schedule in advance; Muslimly schedules about one week of prayer times. If you open the app at least once a week, notifications continue without interruption."
         ]
       },
       {
         "soru": "The Qibla direction drifts",
         "adimlar": [
-          "Calibrate the compass by moving the phone through the air in a figure 8 a few times.",
-          "Move away from magnetic cases, speakers, metal tables or electronic devices; they throw the compass off.",
+          "Calibrate the compass by moving the phone through the air in a figure “8” a few times.",
+          "Move away from magnetic cases, speakers, metal tables or electronic devices; they deflect the compass.",
           "Make sure <strong>Settings › Privacy & Security › Location Services › System Services › Compass Calibration</strong> is on.",
           "Make sure your location is correct: the Qibla angle is calculated from the selected location."
         ]
       },
       {
-        "soru": "Qur'an audio won't play or download",
+        "soru": "The Qur'an or supplication audio button doesn't appear",
         "adimlar": [
-          "Verse audio comes from the internet. Check your Wi-Fi or cellular connection; in Settings › Cellular, Nur's mobile data permission must be on.",
-          "If a download stopped halfway, try again: partially downloaded files are deleted and the download completes from the start.",
-          "Downloaded surahs play without a network. You can see and delete downloads under Read the Qur'an › Reading settings.",
-          "The listen button is only available for supplications taken from Qur'an verses; other supplications have no button."
+          "The audio comes inside the app and is not downloaded from the internet. The Listen button appears only on surahs and supplications whose recording has been added to the app.",
+          "On surahs and supplications without a recording, the button is not shown at all; the Arabic text and transliteration can always be read."
         ]
       }
     ],
     "iletisimBaslik": "Contact",
     "iletisim": "For questions, suggestions or bug reports:",
-    "iletisimKonu": "Nur support",
-    "iletisimNot": "If you include your iPhone model, iOS version and selected city when you write, we can help faster.",
-    "metaBaslik": "Nur Support",
-    "metaAciklama": "Frequently asked questions and contact for the Nur app."
+    "iletisimKonu": "Muslimly support",
+    "iletisimNot": "If you include your iPhone model, iOS version and selected city when you write, we can help you faster.",
+    "metaBaslik": "Muslimly Support",
+    "metaAciklama": "Frequently asked questions and contact for the Muslimly app."
   },
   "gizlilik": {
     "h1": "Privacy Policy",
-    "tarih": "Effective date: 27 September 2026",
-    "giris": "This policy explains what information the Muslimly: Prayer Times & Qur'an app for iOS (“Muslimly”) uses and how. In short: Muslimly has no server and collects no personal data from you. Some features send requests to the third-party services listed one by one below in order to work.",
+    "tarih": "Effective date: 22 October 2026",
+    "giris": "This policy explains what information the Muslimly: Prayer Times & Quran app for iOS (“Muslimly”) uses and how. In short: Muslimly has no server and does not collect personal data from you. To work, some features send requests to the third-party services listed one by one below.",
     "bolumler": [
       {
         "h2": "No account",
         "p": [
-          "To use Muslimly you don't need to create an account, sign in or provide details such as an email address or phone number. The app has no server."
+          "To use Muslimly you don't need to create an account, sign in or give information such as an email address or phone number. The app has no server."
         ]
       },
       {
-        "h2": "No ads; crash reports and anonymous usage analytics",
+        "h2": "No ads; crash reports and anonymous usage measurement",
         "p": [
-          "Muslimly shows no ads, doesn't track you across apps and websites and doesn't access the advertising identifier.",
-          "Since version 1.0.1, crash and performance reports (Sentry) and anonymous usage analytics about which screens are used (PostHog, EU servers) are collected to keep the app stable. This data is not linked to your identity: no account details, location, prayer/Qur'an progress or anything you type is sent; only the app version, device model, OS version, error details and anonymous events such as \"app opened\" and \"tab opened\" with a random anonymous ID. PostHog person profiles and IP-based location are turned off, and this collection is off in development builds. This data is not used for advertising or tracking.",
-          "In the App Store \"App Privacy\" section this data is declared as Crash Data, Performance Data and Product Interaction under \"Data Not Linked to You\"."
+          "Muslimly shows no ads, does not track you across apps and websites, and does not access the advertising identifier.",
+          "Starting with version 1.0.1, to keep the app running reliably, crash and performance reports (Sentry) and anonymous usage measurement of which screens are used (PostHog, EU servers) are collected. This data is not linked to your identity; no account information, location, prayer or Qur'an progress, or anything you have written is sent; only the app version, device model, operating system version, error details and screen names are sent. This collection is turned off in development builds.",
+          "In the “App Privacy” section on the App Store, this data is declared as Crash Data, Performance Data and Product Interaction, under the heading “Data Not Linked to You”."
         ]
       },
       {
         "h2": "Your data stays on your device",
         "p": [
-          "The name you optionally enter, the city you choose, your settings, your prayer and task progress, your Qur'an reading progress and your bookmarks are stored only on your device. If it's on, this data is also included in your iPhone's iCloud backup; that backup belongs to your Apple account and cannot be read by Muslimly. Verse audio you download also stays on your device, but because it can be downloaded again it isn't backed up; iOS may delete it to free up space, and it's downloaded again when needed. If you turn on the home screen widget, a short summary (the next prayer, today's tasks) is written to the shared area on your device so the widget can show it.",
-          "The profile you choose on first launch (child, adult man or adult woman; for a child, girl or boy) and your school are also stored only on your device; they're used for the prayer narration, the figure and the Asr time calculation, and are never sent anywhere.",
-          "When you delete the app, all Muslimly data on the device is deleted with it."
+          "The name you optionally enter, the city you choose, your settings, your prayer and task progress, your Qur'an reading progress and your bookmarks are stored only on your device. If enabled, this data is also included in your iPhone's iCloud backup; that backup belongs to your Apple account and cannot be read by Muslimly. If you turn on the Home Screen widget, a short summary (next prayer time, the day's tasks) is also written to a shared area on your device so the widget can show it.",
+          "The profile you choose at first launch (child, adult man or adult woman; if a child, girl or boy) and your school (madhhab) are also stored only on your device; they are used for the prayer instructions, the figure and the Asr time calculation, and are sent nowhere.",
+          "When you delete the app, all Muslimly data on the device is deleted too."
+        ]
+      },
+      {
+        "h2": "Sync with iCloud (optional)",
+        "p": [
+          "If you turn on the “Sync with iCloud” option in Settings (it is off by default), your progress and settings are written to your own iCloud account through Apple's iCloud key-value store and synced with your other devices on the same account. This data stays in your Apple account; since Muslimly has no server, it does not reach us and we cannot see it. This service is subject to Apple's privacy policy.",
+          "Special days mode information, purchase status, widget permission and the app icon choice are not written to iCloud; they stay only on your device. When you turn the option off, syncing stops."
         ]
       },
       {
         "h2": "Special days mode",
         "p": [
-          "Special days mode, which can be turned on in the woman and girl profiles, and the record of which days it was on are kept only in the app's own storage, on your device. This information is never sent to any server; it isn't written to the shared area the home screen widget reads, doesn't appear in notification text and isn't recorded (no logs are kept). The widget and notifications are the same whether special days mode is on or off. When you turn it off, past days stay on the device for at most 90 days, only for the streak calculation; when you delete the app this information is deleted too. If it's on, it's included in your iPhone's iCloud backup together with your other app data."
+          "Special days mode, which can be turned on in the woman and girl profiles, and the information on which days it was on are kept only in the app's own storage on your device. This information is not sent to any server; it is not written to the shared area read by the Home Screen widget, does not appear in notification texts and is not recorded (no logs are kept). The widget and notifications are the same whether special days mode is on or off. When you turn it off, past days stay on the device for at most 90 days, only for the streak calculation; when you delete the app, this information is deleted too. If enabled, it is included in your iPhone's iCloud backup together with your other app data."
         ]
       },
       {
         "h2": "Location",
         "p": [
-          "If you grant location permission, your location is used on your device to calculate prayer times and the Qibla direction. If you don't grant location permission, you can pick your city from the list.",
-          "When you open the “Nearby mosques” screen, your location is rounded to about 1 km (two decimal places) and sent to the OpenStreetMap Overpass service to find mosques nearby. As with every internet request, your IP address also reaches this service; no other information that identifies you is sent. The city found from your location is stored on the device at the same precision, rounded to about 1 km. Mosque data © OpenStreetMap contributors (ODbL). If the Overpass service cannot be reached, the search is done with Apple Maps on your device; in that case your location, rounded in the same way to two decimal places (about 1 km), goes to Apple and is subject to Apple's privacy policy. Muslimly does not store this location; the list of mosques found is kept only in your device's memory for at most 30 minutes."
+          "If you grant location permission, your location is used on your device to calculate prayer times and the Qibla direction. If you don't grant location permission, you can choose your city from the list.",
+          "When you open the “Nearby mosques” screen, your location, rounded to about 1 km (two decimal places), is sent to the OpenStreetMap Overpass service to find nearby mosques. As with every internet request, your IP address also reaches this service; apart from that, no information identifying you is sent. The city found by location is also stored on the device with the same precision, rounded to about 1 km. Mosque data © OpenStreetMap contributors (ODbL). If the Overpass service cannot be reached, the search is done with Apple Maps on your device; in that case your location, rounded in the same way to two decimal places (about 1 km), goes to Apple and is subject to Apple's privacy policy. Muslimly does not store this location; the list of mosques found is kept only in your device's memory for at most 30 minutes."
         ]
       },
       {
-        "h2": "Map and directions (Apple Maps)",
+        "h2": "Maps and directions (Apple Maps)",
         "p": [
-          "The maps on the “Nearby mosques” and “Kaaba” screens are shown with Apple Maps. Map imagery is loaded from Apple for the region shown on screen; if you have granted location permission, your location is also shown on the map. This service is subject to Apple's privacy policy.",
+          "The maps on the “Nearby mosques” and “Kaaba” screens are shown with Apple Maps. Map images for the region shown on screen are loaded from Apple; if you have granted location permission, your location is also shown on the map. This service is subject to Apple's privacy policy.",
           "When you tap a mosque's “Directions” button, Apple Maps opens with the mosque's name and coordinates; the route is calculated in Apple Maps. This happens only when you tap."
         ]
       },
       {
-        "h2": "Qur'an audio",
+        "h2": "Camera",
         "p": [
-          "Verse audio is played from, or downloaded to your device from, the Islamic Network service (cdn.islamic.network). With each request, this service receives: your IP address, the address of the requested file (which reciter's surah and verse is being listened to) and the standard browser identifier (User-Agent) containing the app and iOS versions. No other information is sent. Audio downloaded to the device plays without a network. The recordings are the copyright of the reciters; the source and terms of use are in the app under About › Sources and licences."
+          "If you open the “Qibla camera” screen, the camera image is shown only on screen, behind the Qibla arrow. The image is not saved, not processed and does not leave your device. If you don't grant camera permission, you can still find the Qibla with the compass and the map."
+        ]
+      },
+      {
+        "h2": "Qur'an and supplication audio",
+        "p": [
+          "The audio comes inside the app; no request is sent to any service to play it. Verse audio that earlier versions downloaded from the internet to the device is deleted from the device at the first launch after the app is updated."
+        ]
+      },
+      {
+        "h2": "Read aloud",
+        "p": [
+          "Reading Turkish texts aloud and the Arabic read-aloud that can be turned on in Settings (synthetic voice; not a recitation; off by default) are done on your device with your iPhone's own speech voices. The text being read is not sent to any service."
         ]
       },
       {
         "h2": "Sharing",
         "p": [
-          "When you tap the “Share my progress” button, your progress summary (streak, goal, prayer and dhikr counts) opens in the iOS share sheet. The text goes only to the app or person you choose; Muslimly never shares anything on its own."
+          "When you tap the “Share my progress” button, your progress summary (streak, goal, prayer and dhikr counts) opens in the iOS share menu. The text goes only to the app or person you choose; Muslimly shares nothing on its own."
+        ]
+      },
+      {
+        "h2": "Purchases",
+        "p": [
+          "This version of Muslimly has no purchases; the service below is not active and sends no requests.",
+          "If an optional Premium subscription is offered in the future: purchases and payment are processed by Apple; Muslimly does not see your payment information. The RevenueCat (RevenueCat, Inc.) service is used to verify whether your subscription is valid. This service receives a randomly generated user number that is not linked to your name or Apple Account, your purchase history (product, date, price, currency, country) and the versions of the app and of iOS. This information is not used for advertising or tracking and is not shared with third parties for that purpose. RevenueCat's privacy policy: revenuecat.com/privacy.",
+          "You can manage or cancel your subscription in your App Store account settings; refund requests are made through Apple."
         ]
       },
       {
@@ -183,15 +208,21 @@
         ]
       },
       {
+        "h2": "Widget, Live Activity, Siri and Focus",
+        "p": [
+          "Home Screen and Lock Screen widgets, the prayer time countdown on the Lock Screen (Live Activity), Siri shortcuts and the Focus filter run on your device; they read the prayer time information from the app's shared area on the device. No request is sent to any server for these."
+        ]
+      },
+      {
         "h2": "Children",
         "p": [
-          "Muslimly has a kids mode. Because the app collects no personal data from any user, including children, there is no data processing specific to children either."
+          "Muslimly has a child mode. Since the app does not collect personal data from any user, including children, there is also no special data processing for children."
         ]
       },
       {
         "h2": "Changes",
         "p": [
-          "If this policy changes, the current version will be published on this page with a new effective date."
+          "If this policy changes, the current version is published on this page with a new effective date."
         ]
       }
     ],
@@ -199,6 +230,6 @@
     "iletisim": "For questions:",
     "iletisimKonu": "Muslimly privacy",
     "metaBaslik": "Muslimly Privacy Policy",
-    "metaAciklama": "Privacy policy of the Muslimly app: no account, no ads or tracking, data stays on your device."
+    "metaAciklama": "Privacy policy of the Muslimly app: no account, no ads or tracking, data stays on the device."
   }
 }

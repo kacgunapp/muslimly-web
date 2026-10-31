@@ -2,8 +2,8 @@
   "kod": "nl",
   "ad": "Nederlands",
   "yon": "ltr",
-  "baslik": "Nur: Gebedstijden & Koran",
-  "metaAciklama": "Gebedstijden, 3D-gebedslessen, Koran lezen en beluisteren, Qibla, dhikr-teller. Geen account, geen advertenties, geen gegevensverzameling.",
+  "baslik": "Muslimly: Gebedstijden & Koran",
+  "metaAciklama": "Gebedstijden, 3D-gebedslessen, Koran lezen, Qibla, dhikr-teller. Geen account, geen advertenties, geen verzameling van persoonsgegevens.",
   "nav": {
     "tanitim": "Overzicht",
     "destek": "Ondersteuning",
@@ -11,8 +11,8 @@
     "dil": "Taal"
   },
   "kahraman": {
-    "simgeAlt": "App-icoon van Nur: een gouden open boek met licht erboven",
-    "giris": "Een eenvoudige metgezel die het makkelijker maakt om je aanbidding regelmatig te houden. Er is een kinder- en een volwassenenmodus; de app vraagt geen account, toont geen advertenties en verzamelt geen gegevens.",
+    "simgeAlt": "App-pictogram van Muslimly: een gouden opengeslagen boek met licht erboven",
+    "giris": "Een eenvoudige metgezel die het makkelijker maakt om je aanbidding regelmatig te houden. Met een kindermodus en een volwassenenmodus; zonder account, zonder advertenties en zonder verzameling van persoonsgegevens.",
     "rozet": "Voor iOS · binnenkort in de App Store"
   },
   "nelerVar": "Wat zit erin?",
@@ -20,17 +20,17 @@
     {
       "ikon": "🕰️",
       "h3": "Gebedstijden",
-      "p": "12 berekeningsmethoden waaronder Diyanet, regels voor hoge breedtegraden, meldingen bij gebedstijden en een maandrooster."
+      "p": "12 berekeningsmethoden waaronder Diyanet, regels voor hoge breedtegraden, meldingen voor de gebedstijden en een maandelijks gebedsrooster."
     },
     {
       "ikon": "🧎",
-      "h3": "3D-gebed en woedoe",
-      "p": "Stap-voor-stap bewegingen met een figuur van een man, vrouw of kind; vanuit elke hoek te draaien, met de smeekbeden in het Arabisch erbij."
+      "h3": "Gebed en woedoe in 3D",
+      "p": "Bewegingen stap voor stap met een figuur van een man, vrouw en kind; vanuit elke hoek te draaien, samen met de smeekbeden."
     },
     {
       "ikon": "📖",
       "h3": "Koran",
-      "p": "114 soera's, de Arabische tekst pagina voor pagina lezen, vers voor vers luisteren naar vijf reciteurs, bladwijzers en een khatm-plan."
+      "p": "114 soera's, pagina voor pagina lezen, transliteratie, bladwijzers, notities bij verzen en een khatm-plan."
     },
     {
       "ikon": "🕋",
@@ -40,150 +40,183 @@
     {
       "ikon": "📿",
       "h3": "Dhikr-teller",
-      "p": "Een teller met een gebedssnoer; verschillende materialen voor de kralen en een lichte trilling bij elke tik."
+      "p": "Een teller met gebedskralen; verschillende kraalmaterialen en een lichte trilling bij elke tik."
     },
     {
       "ikon": "🧰",
       "h3": "Hulpmiddelen",
-      "p": "Berekening van zakaat en fitra, Hijri-kalender en gezegende dagen, herinneringen voor suhoor, tahajjud en het vrijdaggebed."
+      "p": "Berekening van zakaat en fitra, Hijri-kalender en gezegende dagen, herinneringen voor suhoor, tahajjud en vrijdag."
     },
     {
       "ikon": "📱",
       "h3": "Widget",
-      "p": "Het volgende gebed en de taken van vandaag op je beginscherm; tik erop om het juiste onderdeel te openen."
+      "p": "De volgende gebedstijd en de taken van de dag op je beginscherm; tik erop en het juiste onderdeel opent."
     }
   ],
   "gizlilikOzet": {
     "h2": "Je privacy blijft bij jou",
     "maddeler": [
-      "Geen account, inlog of server.",
-      "Geen advertenties, analyse of tracking.",
-      "Je voortgang en instellingen blijven alleen op je toestel.",
-      "Je locatie wordt op het toestel gebruikt voor de gebedstijden en de Qibla; bij het zoeken naar moskeeën in de buurt wordt alleen een tot ongeveer 1 km afgeronde versie verstuurd."
+      "Geen account, geen inlog en geen server.",
+      "Geen advertenties en geen tracking; alleen anonieme gebruiksmeting (PostHog, EU-servers) en crashrapporten.",
+      "Je voortgang en instellingen blijven op je apparaat; als je wilt, worden ze gesynchroniseerd met je eigen iCloud-account (ze bereiken ons niet).",
+      "Je locatie wordt op het apparaat gebruikt voor de gebedstijden en de Qibla; bij het zoeken naar moskeeën in de buurt wordt alleen een tot ongeveer 1 km afgeronde versie verstuurd."
     ],
-    "tamMetin": "Lees het volledige privacybeleid"
+    "tamMetin": "Volledig privacybeleid"
   },
-  "telif": "© 2026 Nur",
+  "telif": "© 2026 Doğaç Turan",
   "ceviriNotu": "Deze vertaling dient alleen ter informatie; bij verschillen is de Turkse tekst leidend.",
   "destek": {
     "h1": "Ondersteuning",
-    "giris": "Hieronder staan veelvoorkomende situaties en hoe je ze oplost. Vind je je antwoord niet, schrijf ons dan.",
+    "giris": "Hieronder vind je veelvoorkomende situaties en hun oplossingen. Vind je je antwoord niet, schrijf ons dan.",
     "sssBaslik": "Veelgestelde vragen",
     "sss": [
       {
         "soru": "De gebedstijden lijken niet te kloppen",
-        "giris": "De tijden worden berekend op basis van de gekozen locatie en berekeningsmethode. Controleer het volgende in deze volgorde:",
+        "giris": "De tijden worden berekend op basis van de gekozen locatie en berekeningsmethode. Controleer in deze volgorde:",
         "adimlar": [
-          "<strong>Locatie:</strong> tabblad Ik › Locatie. Tik op “Mijn locatie automatisch bepalen” of kies je stad uit de lijst. Als er een andere stad is gekozen, gelden de tijden voor die stad.",
-          "<strong>Berekeningsmethode:</strong> tabblad Ik › Berekeningsmethode. Kies voor Turkije Presidium voor Godsdienstzaken (Diyanet); “Automatisch per stad” kiest de methode van het land waar je bent.",
-          "<strong>Asr-tijd:</strong> controleer op hetzelfde scherm de keuze tussen vroege Asr en late Asr; het verschil tussen beide kan bijna een uur zijn.",
-          "<strong>Hijri-datum:</strong> als de Hijri-kalender een dag verschuift, kun je in Hulpmiddelen › Hijri-kalender een correctie van ±2 dagen instellen."
+          "<strong>Locatie:</strong> tabblad Ik › Locatie. Tik op „Mijn locatie automatisch bepalen” of kies je stad uit de lijst. Als er een andere stad is gekozen, gelden de tijden voor die stad.",
+          "<strong>Berekeningsmethode:</strong> tabblad Ik › Berekeningsmethode. Kies voor Turkije Presidium voor Godsdienstzaken (Diyanet); „Automatisch per stad” kiest de methode van het land waar je bent.",
+          "<strong>Asr-tijd:</strong> controleer op hetzelfde scherm of Vroege Asr of Late Asr is gekozen; tussen beide kan bijna een uur verschil zitten.",
+          "<strong>Hijri-datum:</strong> loopt de Hijri-kalender een dag uit de pas, dan kun je via Hulpmiddelen › Hijri-kalender een correctie van ±2 dagen instellen."
         ],
-        "son": "Een verschil van enkele minuten met de officiële kalender kan door een veiligheidsmarge komen en is normaal."
+        "son": "Een verschil van een paar minuten met de officiële kalender kan komen door een veiligheidsmarge en is normaal."
       },
       {
         "soru": "Meldingen komen niet binnen",
         "adimlar": [
-          "Open op je iPhone <strong>Instellingen › Berichtgeving › Nur</strong>; “Sta berichtgeving toe” moet aan staan.",
-          "Als er een focusmodus (Niet storen, Slaap) aan staat, voeg Nur dan toe aan de toegestane apps.",
-          "In de app moet <strong>tabblad Ik › Adhan-melding</strong> aan staan. Voor herinneringen voor suhoor, tahajjud en het vrijdaggebed, zie <strong>Hulpmiddelen › Herinneringen</strong>.",
-          "Als je je locatie wijzigt, worden de meldingen automatisch opnieuw ingepland voor de nieuwe tijden.",
-          "iOS beperkt hoeveel meldingen een app vooraf kan inplannen; Nur plant de gebedstijden voor ongeveer een week. Als je de app minstens één keer per week opent, gaan de meldingen zonder onderbreking door."
+          "Open op je iPhone <strong>Instellingen › Meldingen › Muslimly</strong>; „Sta meldingen toe” moet aan staan.",
+          "Staat een focus (Niet storen, Slaap) aan, voeg Muslimly dan toe aan de toegestane apps.",
+          "In de app moet <strong>tabblad Ik › Adhan-melding</strong> aan staan. Voor herinneringen voor suhoor, tahajjud en vrijdag: <strong>Hulpmiddelen › Herinneringen</strong>.",
+          "Als je de locatie wijzigt, worden de meldingen automatisch opnieuw ingesteld voor de nieuwe tijden.",
+          "iOS beperkt hoeveel meldingen een app vooraf kan plannen; Muslimly plant ongeveer een week aan gebedstijden. Als je de app minstens eens per week opent, lopen de meldingen zonder onderbreking door."
         ]
       },
       {
         "soru": "De Qibla-richting wijkt af",
         "adimlar": [
-          "Kalibreer het kompas door de telefoon een paar keer in de vorm van een 8 door de lucht te bewegen.",
-          "Blijf uit de buurt van magnetische hoesjes, luidsprekers, metalen tafels of elektronische apparaten; die brengen het kompas van de wijs.",
-          "Zorg dat <strong>Instellingen › Privacy en beveiliging › Locatievoorzieningen › Systeemvoorzieningen › Kompaskalibratie</strong> aan staat.",
+          "Kalibreer het kompas door de telefoon een paar keer in de vorm van een „8” door de lucht te bewegen.",
+          "Blijf uit de buurt van magnetische hoesjes, luidsprekers, metalen tafels of elektronische apparaten; die verstoren het kompas.",
+          "<strong>Instellingen › Privacy en beveiliging › Locatievoorzieningen › Systeemvoorzieningen › Kompaskalibratie</strong> moet aan staan.",
           "Zorg dat je locatie klopt: de Qibla-hoek wordt berekend op basis van de gekozen locatie."
         ]
       },
       {
-        "soru": "Koranaudio speelt niet af of wordt niet gedownload",
+        "soru": "De audioknop voor Koran of smeekbede is niet zichtbaar",
         "adimlar": [
-          "De audio van de verzen komt van internet. Controleer je wifi- of mobiele verbinding; in Instellingen › Mobiel netwerk moet mobiele data voor Nur aan staan.",
-          "Als een download halverwege is gestopt, probeer het opnieuw: gedeeltelijk gedownloade bestanden worden verwijderd en de download wordt vanaf het begin voltooid.",
-          "Gedownloade soera's spelen af zonder netwerk. Je kunt downloads bekijken en verwijderen via Koran lezen › Leesinstellingen.",
-          "De luisterknop is er alleen bij smeekbeden die uit Koranverzen komen; bij andere smeekbeden is er geen knop."
+          "De audio zit in de app zelf en wordt niet van internet gedownload. De knop Luisteren verschijnt alleen bij soera's en smeekbeden waarvan de opname aan de app is toegevoegd.",
+          "Bij soera's en smeekbeden zonder opname wordt de knop helemaal niet getoond; de Arabische tekst en de transliteratie zijn altijd te lezen."
         ]
       }
     ],
     "iletisimBaslik": "Contact",
-    "iletisim": "Voor vragen, suggesties of het melden van fouten:",
-    "iletisimKonu": "Nur ondersteuning",
-    "iletisimNot": "Als je bij het schrijven je iPhone-model, iOS-versie en gekozen stad vermeldt, kunnen we je sneller helpen.",
-    "metaBaslik": "Nur Ondersteuning",
-    "metaAciklama": "Veelgestelde vragen en contact voor de app Nur."
+    "iletisim": "Voor vragen, suggesties of foutmeldingen:",
+    "iletisimKonu": "Muslimly ondersteuning",
+    "iletisimNot": "Als je je iPhone-model, iOS-versie en gekozen stad vermeldt, kunnen we je sneller helpen.",
+    "metaBaslik": "Muslimly Ondersteuning",
+    "metaAciklama": "Veelgestelde vragen en contact voor de app Muslimly."
   },
   "gizlilik": {
     "h1": "Privacybeleid",
-    "tarih": "Ingangsdatum: 27 september 2026",
-    "giris": "Dit beleid legt uit welke informatie de app Nur: Gebedstijden & Koran voor iOS (“Nur”) gebruikt en hoe. Kort gezegd: Nur heeft geen server en verzamelt geen persoonsgegevens van je. Sommige functies sturen verzoeken naar de hieronder één voor één genoemde diensten van derden om te kunnen werken.",
+    "tarih": "Ingangsdatum: 22 oktober 2026",
+    "giris": "Dit beleid legt uit welke informatie de iOS-app Muslimly: Gebedstijden & Koran („Muslimly”) gebruikt en hoe. Kort gezegd: Muslimly heeft geen server en verzamelt geen persoonsgegevens van je. Om te werken sturen sommige functies verzoeken naar de hieronder één voor één genoemde diensten van derden.",
     "bolumler": [
       {
         "h2": "Geen account",
         "p": [
-          "Om Nur te gebruiken hoef je geen account aan te maken, niet in te loggen en geen gegevens zoals een e-mailadres of telefoonnummer op te geven. De app heeft geen server."
+          "Om Muslimly te gebruiken hoef je geen account aan te maken, niet in te loggen en geen gegevens zoals e-mailadres of telefoonnummer op te geven. De app heeft geen server."
         ]
       },
       {
-        "h2": "Geen advertenties, analyse of tracking",
+        "h2": "Geen advertenties; crashrapporten en anonieme gebruiksmeting",
         "p": [
-          "Nur toont geen advertenties; de app bevat geen tools voor analyse, crashrapportage of tracking. Ze volgt je niet over apps en websites heen en heeft geen toegang tot de advertentie-ID."
+          "Muslimly toont geen advertenties, volgt je niet tussen apps en websites en heeft geen toegang tot de advertentie-ID.",
+          "Vanaf versie 1.0.1 worden, voor een stabiele werking van de app, crash- en prestatierapporten (Sentry) en een anonieme gebruiksmeting van welke schermen worden gebruikt (PostHog, EU-servers) verzameld. Deze gegevens worden niet aan je identiteit gekoppeld; er worden geen accountgegevens, locatie, gebeds- of Koranvoortgang of iets wat je hebt geschreven verstuurd; alleen de app-versie, het apparaatmodel, de versie van het besturingssysteem, foutdetails en schermnamen worden verstuurd. In ontwikkelbuilds staat deze verzameling uit.",
+          "In het onderdeel „App-privacy” in de App Store worden deze gegevens aangegeven als Crashgegevens, Prestatiegegevens en Productinteractie, onder de kop „Gegevens niet gekoppeld aan jou”."
         ]
       },
       {
-        "h2": "Je gegevens blijven op je toestel",
+        "h2": "Je gegevens blijven op je apparaat",
         "p": [
-          "De naam die je optioneel invoert, de stad die je kiest, je instellingen, je voortgang met gebeden en taken, je voortgang met het lezen van de Koran en je bladwijzers worden alleen op je toestel bewaard. Als deze aan staat, worden deze gegevens ook opgenomen in de iCloud-reservekopie van je iPhone; die reservekopie hoort bij je Apple-account en kan niet door Nur worden gelezen. Audio van verzen die je downloadt blijft ook op je toestel, maar omdat die opnieuw kan worden gedownload, wordt er geen reservekopie van gemaakt; iOS kan die verwijderen om ruimte vrij te maken, en ze wordt opnieuw gedownload wanneer dat nodig is. Als je de widget op het beginscherm inschakelt, wordt een korte samenvatting (het volgende gebed, de taken van vandaag) naar de gedeelde ruimte op je toestel geschreven, zodat de widget die kan tonen.",
-          "Het profiel dat je bij de eerste start kiest (kind, volwassen man of volwassen vrouw; bij een kind meisje of jongen) en je rechtsschool worden ook alleen op je toestel bewaard; ze worden gebruikt voor de uitleg van het gebed, de figuur en de berekening van de Asr-tijd, en worden nergens naartoe gestuurd.",
-          "Wanneer je de app verwijdert, worden alle gegevens van Nur op het toestel mee verwijderd."
+          "De naam die je optioneel invult, de stad die je kiest, je instellingen, je gebeds- en takenvoortgang, je leesvoortgang in de Koran en je bladwijzers worden alleen op je apparaat opgeslagen. Als de iCloud-reservekopie van je iPhone aan staat, worden deze gegevens daarin meegenomen; die reservekopie hoort bij je Apple Account en kan niet door Muslimly worden gelezen. Als je de widget op het beginscherm aanzet, wordt ook een korte samenvatting (volgende gebedstijd, taken van de dag) naar een gedeelde ruimte op je apparaat geschreven, zodat de widget die kan tonen.",
+          "Het profiel dat je bij de eerste start kiest (kind, volwassen man of volwassen vrouw; bij een kind meisje of jongen) en de rechtsschool worden ook alleen op je apparaat opgeslagen; ze worden gebruikt voor de gebedsuitleg, de figuur en de berekening van de Asr-tijd en worden nergens naartoe gestuurd.",
+          "Als je de app verwijdert, worden ook alle Muslimly-gegevens op het apparaat verwijderd."
+        ]
+      },
+      {
+        "h2": "Synchroniseren met iCloud (optioneel)",
+        "p": [
+          "Als je in Instellingen de optie „Synchroniseren met iCloud” aanzet (standaard uit), worden je voortgang en instellingen via de iCloud-sleutel-waardeopslag van Apple naar je eigen iCloud-account geschreven en gesynchroniseerd met je andere apparaten met hetzelfde account. Deze gegevens staan in je Apple Account; omdat Muslimly geen server heeft, bereiken ze ons niet en kunnen wij ze niet zien. Deze dienst valt onder het privacybeleid van Apple.",
+          "Informatie over de modus speciale dagen, de aankoopstatus, de widgettoestemming en de keuze van het app-pictogram worden niet naar iCloud geschreven; ze blijven alleen op je apparaat. Als je de optie uitzet, stopt de synchronisatie."
         ]
       },
       {
         "h2": "Modus speciale dagen",
         "p": [
-          "De modus speciale dagen, die in de profielen vrouw en meisje kan worden ingeschakeld, en de registratie van op welke dagen die aan stond, worden alleen in de eigen opslag van de app op je toestel bewaard. Deze informatie wordt nooit naar een server gestuurd; ze wordt niet geschreven naar de gedeelde ruimte die de widget op het beginscherm leest, verschijnt niet in de tekst van meldingen en wordt niet vastgelegd (er worden geen logs bijgehouden). De widget en de meldingen zijn hetzelfde, of de modus speciale dagen nu aan of uit staat. Wanneer je de modus uitschakelt, blijven eerdere dagen maximaal 90 dagen op het toestel, alleen voor de berekening van je reeks; wanneer je de app verwijdert, wordt ook deze informatie verwijderd. Als de iCloud-reservekopie van je iPhone aan staat, wordt ze daarin samen met je andere appgegevens opgenomen."
+          "De modus speciale dagen, die in de profielen vrouw en meisje kan worden aangezet, en de informatie op welke dagen die aan stond, worden alleen in de eigen opslag van de app op je apparaat bewaard. Deze informatie wordt naar geen enkele server gestuurd; ze wordt niet geschreven naar de gedeelde ruimte die de widget leest, komt niet voor in meldingsteksten en wordt niet vastgelegd (er worden geen logs bijgehouden). De widget en de meldingen zijn hetzelfde, of de modus nu aan of uit staat. Als je de modus uitzet, blijven voorbije dagen maximaal 90 dagen op het apparaat, alleen voor de reeksberekening; als je de app verwijdert, wordt ook deze informatie verwijderd. Als de iCloud-reservekopie van je iPhone aan staat, wordt ze daarin samen met je andere app-gegevens meegenomen."
         ]
       },
       {
         "h2": "Locatie",
         "p": [
-          "Als je toestemming geeft voor locatie, wordt je locatie op je toestel gebruikt om de gebedstijden en de Qibla-richting te berekenen. Als je geen toestemming geeft voor locatie, kun je je stad uit de lijst kiezen.",
-          "Wanneer je het scherm “Moskeeën in de buurt” opent, wordt je locatie afgerond op ongeveer 1 km (twee decimalen) en naar de dienst OpenStreetMap Overpass gestuurd om moskeeën in de buurt te vinden. Zoals bij elk internetverzoek bereikt ook je IP-adres deze dienst; er wordt geen andere informatie verstuurd die jou identificeert. De stad die op basis van je locatie is gevonden, wordt op het toestel met dezelfde nauwkeurigheid bewaard, afgerond op ongeveer 1 km. Moskeegegevens © OpenStreetMap-bijdragers (ODbL). Als de Overpass-dienst niet bereikbaar is, wordt er gezocht met Apple Kaarten op je apparaat; je locatie gaat dan, op dezelfde manier afgerond op twee decimalen (ongeveer 1 km), naar Apple en valt onder het privacybeleid van Apple. Muslimly bewaart deze locatie niet; de lijst met gevonden moskeeën blijft alleen in het geheugen van je apparaat, hoogstens 30 minuten."
+          "Als je locatietoestemming geeft, wordt je locatie op je apparaat gebruikt om de gebedstijden en de Qibla-richting te berekenen. Geef je geen toestemming, dan kun je je stad uit de lijst kiezen.",
+          "Als je het scherm „Moskeeën in de buurt” opent, wordt je locatie, afgerond tot ongeveer 1 km (twee decimalen), naar de dienst OpenStreetMap Overpass gestuurd om moskeeën in de buurt te vinden. Zoals bij elk internetverzoek bereikt ook je IP-adres deze dienst; verder wordt er geen informatie verstuurd die jou identificeert. De via de locatie gevonden stad wordt op het apparaat met dezelfde nauwkeurigheid, afgerond tot ongeveer 1 km, opgeslagen. Moskeegegevens © OpenStreetMap-bijdragers (ODbL). Is de Overpass-dienst niet bereikbaar, dan wordt er gezocht met Apple Kaarten op je apparaat; in dat geval gaat je locatie, op dezelfde manier afgerond tot twee decimalen (ongeveer 1 km), naar Apple en valt die onder het privacybeleid van Apple. Muslimly slaat deze locatie niet op; de gevonden lijst met moskeeën wordt alleen in het geheugen van je apparaat bewaard, maximaal 30 minuten."
         ]
       },
       {
-        "h2": "Kaart en routebeschrijving (Apple Kaarten)",
+        "h2": "Kaart en route (Apple Kaarten)",
         "p": [
-          "De kaarten op de schermen “Moskeeën in de buurt” en “Ka'ba” worden getoond met Apple Kaarten. Kaartbeelden worden van Apple geladen voor het gebied dat op het scherm wordt getoond; als je toestemming voor locatie hebt gegeven, wordt ook je locatie op de kaart getoond. Deze dienst valt onder het privacybeleid van Apple.",
-          "Wanneer je op de knop “Route” van een moskee tikt, opent Apple Kaarten met de naam en de coördinaten van de moskee; de route wordt in Apple Kaarten berekend. Dit gebeurt alleen wanneer jij tikt."
+          "De kaarten op de schermen „Moskeeën in de buurt” en „Ka'ba” worden getoond met Apple Kaarten. Kaartbeelden voor het getoonde gebied worden bij Apple geladen; als je locatietoestemming hebt gegeven, wordt ook je locatie op de kaart getoond. Deze dienst valt onder het privacybeleid van Apple.",
+          "Als je bij een moskee op de knop „Route” tikt, opent Apple Kaarten met de naam en de coördinaten van de moskee; de route wordt in Apple Kaarten berekend. Dit gebeurt alleen als jij tikt."
         ]
       },
       {
-        "h2": "Koranaudio",
+        "h2": "Camera",
         "p": [
-          "De audio van de verzen wordt afgespeeld vanaf, of naar je toestel gedownload van, de dienst Islamic Network (cdn.islamic.network). Bij elk verzoek ontvangt deze dienst: je IP-adres, het adres van het opgevraagde bestand (naar welke soera en welk vers van welke reciteur wordt geluisterd) en de standaard browseridentificatie (User-Agent) met de versies van de app en iOS. Er wordt geen andere informatie verstuurd. Op het toestel gedownloade audio speelt af zonder netwerk. Het auteursrecht op de opnamen ligt bij de reciteurs; de bron en de gebruiksvoorwaarden staan in de app onder Over › Bronnen en licenties."
+          "Als je het scherm „Qibla-camera” opent, wordt het camerabeeld alleen op het scherm getoond, achter de Qibla-pijl. Het beeld wordt niet opgeslagen, niet verwerkt en verlaat je apparaat niet. Geef je geen cameratoegang, dan kun je de Qibla nog steeds vinden met het kompas en de kaart."
+        ]
+      },
+      {
+        "h2": "Audio van Koran en smeekbeden",
+        "p": [
+          "De audio zit in de app zelf; om die af te spelen wordt geen verzoek naar een dienst gestuurd. Versaudio die eerdere versies van internet naar het apparaat downloadden, wordt bij de eerste start na de app-update van het apparaat verwijderd."
+        ]
+      },
+      {
+        "h2": "Voorlezen",
+        "p": [
+          "Het voorlezen van Turkse teksten en het in Instellingen in te schakelen Arabisch voorlezen (synthetische stem; geen recitatie; standaard uit) gebeuren op je apparaat met de eigen spraakstemmen van je iPhone. De voorgelezen tekst wordt naar geen enkele dienst gestuurd."
         ]
       },
       {
         "h2": "Delen",
         "p": [
-          "Wanneer je op de knop “Mijn voortgang delen” tikt, wordt een samenvatting van je voortgang (reeks, doel, aantallen gebeden en dhikr) geopend in het deelmenu van iOS. De tekst gaat alleen naar de app of de persoon die jij kiest; Nur deelt nooit uit zichzelf iets."
+          "Als je op de knop „Mijn voortgang delen” tikt, opent je voortgangsoverzicht (reeks, doel, aantal gebeden en dhikr) in het iOS-deelmenu. De tekst gaat alleen naar de app of persoon die jij kiest; Muslimly deelt uit zichzelf niets."
+        ]
+      },
+      {
+        "h2": "Aankopen",
+        "p": [
+          "Deze versie van Muslimly heeft geen aankopen; de hieronder genoemde dienst is niet actief en stuurt geen verzoeken.",
+          "Als er in de toekomst een optioneel Premium-abonnement wordt aangeboden: aankoop en betaling worden door Apple verwerkt; Muslimly ziet je betaalgegevens niet. Om te controleren of je abonnement geldig is, wordt de dienst RevenueCat (RevenueCat, Inc.) gebruikt. Naar deze dienst gaan een willekeurig gegenereerd gebruikersnummer dat niet aan je naam of je Apple Account is gekoppeld, de aankoopgeschiedenis (product, datum, prijs, valuta, land) en de versies van de app en van iOS. Deze informatie wordt niet gebruikt voor advertenties of tracking en niet met dat doel met derden gedeeld. Privacybeleid van RevenueCat: revenuecat.com/privacy.",
+          "Je kunt je abonnement beheren of opzeggen in de instellingen van je App Store-account; terugbetalingsverzoeken lopen via Apple."
         ]
       },
       {
         "h2": "Meldingen",
         "p": [
-          "Meldingen bij gebedstijden en herinneringen worden lokaal op je toestel ingepland. Er worden geen externe (push)meldingen gebruikt; er vindt voor meldingen geen registratie bij een server plaats."
+          "Meldingen voor de gebedstijden en herinneringen worden lokaal op je apparaat gepland. Er worden geen pushmeldingen gebruikt; voor meldingen vindt geen registratie bij een server plaats."
+        ]
+      },
+      {
+        "h2": "Widget, Live Activity, Siri en focus",
+        "p": [
+          "Widgets op het beginscherm en het toegangsscherm, het aftellen naar de gebedstijd op het toegangsscherm (Live Activity), Siri-opdrachten en het focusfilter werken op je apparaat; ze lezen de gebedstijden uit de gedeelde ruimte van de app op het apparaat. Hiervoor wordt geen verzoek naar een server gestuurd."
         ]
       },
       {
         "h2": "Kinderen",
         "p": [
-          "Nur heeft een kindermodus. Omdat de app van geen enkele gebruiker, kinderen inbegrepen, persoonsgegevens verzamelt, is er ook geen gegevensverwerking die specifiek voor kinderen geldt."
+          "Muslimly heeft een kindermodus. Omdat de app van geen enkele gebruiker, ook niet van kinderen, persoonsgegevens verzamelt, is er ook geen speciale gegevensverwerking voor kinderen."
         ]
       },
       {
@@ -195,8 +228,8 @@
     ],
     "iletisimBaslik": "Contact",
     "iletisim": "Voor vragen:",
-    "iletisimKonu": "Nur privacy",
-    "metaBaslik": "Privacybeleid van Nur",
-    "metaAciklama": "Privacybeleid van de app Nur: geen account, geen advertenties of tracking, gegevens blijven op je toestel."
+    "iletisimKonu": "Muslimly privacy",
+    "metaBaslik": "Muslimly Privacybeleid",
+    "metaAciklama": "Privacybeleid van de app Muslimly: geen account, geen advertenties of tracking, gegevens blijven op het apparaat."
   }
 }

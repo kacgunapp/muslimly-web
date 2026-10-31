@@ -3,7 +3,7 @@
   "ad": "Türkçe",
   "yon": "ltr",
   "baslik": "Muslimly: Namaz Vakti & Kur'an",
-  "metaAciklama": "Namaz vakitleri, 3B namaz öğretimi, Kur'an okuma, kıble, zikirmatik. Hesap yok, reklam yok, veri toplamaz.",
+  "metaAciklama": "Namaz vakitleri, 3B namaz öğretimi, Kur'an okuma, kıble, zikirmatik. Hesap yok, reklam yok, kişisel veri toplamaz.",
   "nav": {
     "tanitim": "Tanıtım",
     "destek": "Destek",
@@ -12,7 +12,7 @@
   },
   "kahraman": {
     "simgeAlt": "Muslimly uygulama simgesi: altın açık kitap ve üstünde nur",
-    "giris": "İbadeti düzenli kılmayı kolaylaştıran sade bir yardımcı. Çocuk ve yetişkin modu var; hesap istemez, reklam göstermez, veri toplamaz.",
+    "giris": "İbadeti düzenli kılmayı kolaylaştıran sade bir yardımcı. Çocuk ve yetişkin modu var; hesap istemez, reklam göstermez, kişisel veri toplamaz.",
     "rozet": "iOS için · yakında App Store'da"
   },
   "nelerVar": "Neler var?",

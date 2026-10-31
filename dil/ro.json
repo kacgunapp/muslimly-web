@@ -2,8 +2,8 @@
   "kod": "ro",
   "ad": "Română",
   "yon": "ltr",
-  "baslik": "Nur: Ore de rugăciune și Coran",
-  "metaAciklama": "Orele rugăciunilor, lecții de rugăciune 3D, citirea și ascultarea Coranului, Qibla, contor de dhikr. Fără cont, fără reclame, fără colectare de date.",
+  "baslik": "Muslimly: Ore de rugăciune",
+  "metaAciklama": "Ore de rugăciune, învățarea rugăciunii în 3D, citirea Coranului, qibla, contor de dhikr. Fără cont, fără reclame, nu colectează date personale.",
   "nav": {
     "tanitim": "Prezentare",
     "destek": "Asistență",
@@ -11,26 +11,26 @@
     "dil": "Limbă"
   },
   "kahraman": {
-    "simgeAlt": "Pictograma aplicației Nur: o carte deschisă aurie cu lumină deasupra",
-    "giris": "Un însoțitor simplu care te ajută să îți păstrezi închinarea cu regularitate. Are mod pentru copii și mod pentru adulți; nu cere cont, nu afișează reclame și nu colectează date.",
+    "simgeAlt": "Pictograma aplicației Muslimly: o carte deschisă aurie și lumină deasupra ei",
+    "giris": "Un ajutor simplu care face mai ușoară practicarea regulată a închinării. Are mod pentru copii și pentru adulți; nu cere cont, nu afișează reclame, nu colectează date personale.",
     "rozet": "Pentru iOS · în curând în App Store"
   },
   "nelerVar": "Ce conține?",
   "kartlar": [
     {
       "ikon": "🕰️",
-      "h3": "Orele rugăciunilor",
-      "p": "12 metode de calcul, inclusiv Diyanet, reguli pentru latitudini mari, notificări pentru orele rugăciunilor și un orar lunar."
+      "h3": "Ore de rugăciune",
+      "p": "12 metode de calcul, inclusiv Diyanet, reguli pentru latitudini mari, notificări pentru orele de rugăciune și orar lunar."
     },
     {
       "ikon": "🧎",
-      "h3": "Rugăciune și abluțiune 3D",
-      "p": "Mișcări pas cu pas cu o figură de bărbat, femeie sau copil; se pot roti din orice unghi, cu rugăciunile în limba arabă alături."
+      "h3": "Rugăciunea și abluțiunea în 3D",
+      "p": "Mișcări pas cu pas cu figuri de bărbat, femeie și copil; pot fi rotite din orice unghi, împreună cu rugile lor."
     },
     {
       "ikon": "📖",
       "h3": "Coran",
-      "p": "114 sure, citirea textului arab pagină cu pagină, ascultare verset cu verset de la cinci recitatori, semne de carte și un plan de khatm."
+      "p": "114 sure, citire pagină cu pagină, transliterare, semne de carte, note la versete și plan de khatm."
     },
     {
       "ikon": "🕋",
@@ -40,163 +40,196 @@
     {
       "ikon": "📿",
       "h3": "Contor de dhikr",
-      "p": "Un contor cu tasbih; materiale diferite pentru mărgele și o vibrație ușoară la fiecare atingere."
+      "p": "Contor cu mărgele de tasbih; diferite materiale de tasbih și o vibrație ușoară la atingere."
     },
     {
       "ikon": "🧰",
       "h3": "Instrumente",
-      "p": "Calculul zakatului și al fitrei, calendar hegirian și zile binecuvântate, mementouri pentru suhur, tahajjud și Jumu'ah."
+      "p": "Calcul pentru zakat și fitra, calendar hegirian și zile binecuvântate, mementouri pentru suhur, tahajjud și Jumu'ah."
     },
     {
       "ikon": "📱",
       "h3": "Widget",
-      "p": "Următoarea rugăciune și sarcinile zilei pe ecranul principal; atinge-l pentru a deschide secțiunea potrivită."
+      "p": "Pe ecranul principal: următoarea oră de rugăciune și sarcinile zilei; la atingere se deschide secțiunea potrivită."
     }
   ],
   "gizlilikOzet": {
     "h2": "Confidențialitatea ta rămâne la tine",
     "maddeler": [
       "Fără cont, autentificare sau server.",
-      "Fără reclame, analize sau urmărire.",
-      "Progresul și setările tale rămân doar pe dispozitivul tău.",
-      "Locația ta este folosită pe dispozitiv pentru orele rugăciunilor și Qibla; la căutarea moscheilor din apropiere se trimite doar o variantă rotunjită la aproximativ 1 km."
+      "Fără reclame și fără urmărire; doar măsurare anonimă a utilizării (PostHog, servere în UE) și rapoarte de blocare.",
+      "Progresul și setările tale rămân pe dispozitiv; dacă vrei, se sincronizează cu propriul tău cont iCloud (nu ajung la noi).",
+      "Locația ta este folosită pe dispozitiv pentru orele de rugăciune și qibla; la căutarea moscheilor din apropiere se trimite doar varianta rotunjită la aproximativ 1 km."
     ],
-    "tamMetin": "Citește politica de confidențialitate completă"
+    "tamMetin": "Politica de confidențialitate completă"
   },
-  "telif": "© 2026 Nur",
+  "telif": "© 2026 Doğaç Turan",
   "ceviriNotu": "Această traducere are doar scop informativ; în caz de neconcordanță, textul în limba turcă prevalează.",
   "destek": {
     "h1": "Asistență",
-    "giris": "Mai jos găsești situații frecvente și soluțiile lor. Dacă nu găsești răspunsul, scrie-ne.",
+    "giris": "Mai jos găsești situațiile frecvente și soluțiile lor. Dacă nu găsești răspunsul, scrie-ne.",
     "sssBaslik": "Întrebări frecvente",
     "sss": [
       {
-        "soru": "Orele rugăciunilor par greșite",
-        "giris": "Orele sunt calculate după locația și metoda de calcul selectate. Verifică, în ordine:",
+        "soru": "Orele de rugăciune par greșite",
+        "giris": "Orele sunt calculate după locația selectată și metoda de calcul. Verifică pe rând:",
         "adimlar": [
-          "<strong>Locație:</strong> fila Eu › Locație. Atinge „Găsește-mi locația automat” sau alege-ți orașul din listă. Dacă este selectat alt oraș, orele vor fi pentru acel oraș.",
+          "<strong>Locație:</strong> fila Eu › Locație. Atinge „Găsește-mi locația automat” sau alege orașul din listă. Dacă este selectat alt oraș, orele vor fi pentru acel oraș.",
           "<strong>Metodă de calcul:</strong> fila Eu › Metodă de calcul. Pentru Turcia alege Președinția Afacerilor Religioase (Diyanet); „Automat după oraș” alege metoda țării în care te afli.",
-          "<strong>Ora Asr:</strong> pe același ecran, verifică alegerea dintre Asr timpuriu și Asr târziu; diferența dintre ele poate fi de aproape o oră.",
-          "<strong>Data hegiriană:</strong> dacă calendarul hegirian este decalat cu o zi, poți seta o corecție de ±2 zile în Instrumente › Calendar hegirian."
+          "<strong>Ora Asr:</strong> pe același ecran verifică alegerea între Asr timpuriu și Asr târziu; între cele două poate fi o diferență de aproape o oră.",
+          "<strong>Data hegiriană:</strong> dacă calendarul hegirian este decalat cu o zi, poți aplica o corecție de ±2 zile din Instrumente › Calendar hegirian."
         ],
-        "son": "O diferență de câteva minute față de calendarul oficial poate proveni dintr-o marjă de siguranță și este normală."
+        "son": "O diferență de câteva minute față de calendarul oficial poate proveni din marja de precauție și este normală."
       },
       {
-        "soru": "Notificările nu sosesc",
+        "soru": "Nu primesc notificări",
         "adimlar": [
-          "Pe iPhone deschide <strong>Configurări › Notificări › Nur</strong>; „Permiteți notificările” trebuie să fie activat.",
-          "Dacă este activ un mod de concentrare (Nu deranja, Somn), adaugă Nur la aplicațiile permise.",
-          "În aplicație, <strong>fila Eu › Notificare adhan</strong> trebuie să fie activată. Pentru mementourile de suhur, tahajjud și Jumu'ah, vezi <strong>Instrumente › Mementouri</strong>.",
-          "Când îți schimbi locația, notificările sunt reprogramate automat pentru noile ore.",
-          "iOS limitează câte notificări poate programa o aplicație în avans; Nur planifică orele rugăciunilor pentru aproximativ o săptămână. Dacă deschizi aplicația cel puțin o dată pe săptămână, notificările continuă fără întrerupere."
+          "Pe iPhone deschide <strong>Configurări › Notificări › Muslimly</strong>; „Permite notificările” trebuie să fie activat.",
+          "Dacă este activ un mod Concentrare (Nu deranja, Somn), adaugă Muslimly la aplicațiile permise.",
+          "În aplicație, <strong>fila Eu › Notificare adhan</strong> trebuie să fie activată. Pentru mementourile de suhur, tahajjud și Jumu'ah: <strong>Instrumente › Mementouri</strong>.",
+          "Când schimbi locația, notificările se reprogramează automat după noile ore.",
+          "iOS limitează numărul de notificări pe care o aplicație le poate programa în avans; Muslimly planifică orele pentru aproximativ o săptămână. Dacă deschizi aplicația cel puțin o dată pe săptămână, notificările continuă fără întrerupere."
         ]
       },
       {
-        "soru": "Direcția Qibla deviază",
+        "soru": "Direcția qibla deviază",
         "adimlar": [
-          "Calibrează busola mișcând telefonul prin aer în forma cifrei 8 de câteva ori.",
+          "Calibrează busola rotind telefonul în aer de câteva ori, desenând un „8”.",
           "Îndepărtează-te de huse magnetice, difuzoare, mese metalice sau dispozitive electronice; acestea deviază busola.",
-          "Asigură-te că <strong>Configurări › Confidențialitate și securitate › Servicii de localizare › Servicii sistem › Calibrare busolă</strong> este activat.",
-          "Asigură-te că locația ta este corectă: unghiul Qibla este calculat după locația selectată."
+          "Asigură-te că <strong>Configurări › Confidențialitate și securitate › Servicii de localizare › Servicii de sistem › Calibrare busolă</strong> este activat.",
+          "Verifică dacă locația este corectă: unghiul qiblei este calculat după locația selectată."
         ]
       },
       {
-        "soru": "Audio Coran nu pornește sau nu se descarcă",
+        "soru": "Butonul de sunet pentru Coran sau rugă nu apare",
         "adimlar": [
-          "Audio versetelor vine de pe internet. Verifică conexiunea Wi-Fi sau celulară; în Configurări › Celular, permisiunea de date mobile pentru Nur trebuie să fie activată.",
-          "Dacă o descărcare s-a oprit la jumătate, încearcă din nou: fișierele descărcate parțial sunt șterse, iar descărcarea se finalizează de la început.",
-          "Surele descărcate se redau fără rețea. Poți vedea și șterge descărcările în Citește Coranul › Setări de citire.",
-          "Butonul de ascultare există doar la rugăciunile preluate din versete ale Coranului; celelalte rugăciuni nu au buton."
+          "Sunetele vin incluse în aplicație și nu se descarcă de pe internet. Butonul Ascultă apare doar la surele și rugile a căror înregistrare a fost adăugată în aplicație.",
+          "La surele și rugile fără înregistrare butonul nu este afișat deloc; textul arab și transliterarea pot fi citite oricând."
         ]
       }
     ],
     "iletisimBaslik": "Contact",
     "iletisim": "Pentru întrebări, sugestii sau raportarea erorilor:",
-    "iletisimKonu": "Asistență Nur",
-    "iletisimNot": "Dacă ne scrii modelul de iPhone, versiunea iOS și orașul selectat, te putem ajuta mai repede.",
-    "metaBaslik": "Asistență Nur",
-    "metaAciklama": "Întrebări frecvente și contact pentru aplicația Nur."
+    "iletisimKonu": "Asistență Muslimly",
+    "iletisimNot": "Dacă menționezi modelul de iPhone, versiunea iOS și orașul selectat, te putem ajuta mai repede.",
+    "metaBaslik": "Asistență Muslimly",
+    "metaAciklama": "Întrebări frecvente și contact pentru aplicația Muslimly."
   },
   "gizlilik": {
     "h1": "Politica de confidențialitate",
-    "tarih": "Data intrării în vigoare: 27 septembrie 2026",
-    "giris": "Această politică explică ce informații folosește aplicația Nur: Ore de rugăciune și Coran pentru iOS („Nur”) și cum le folosește. Pe scurt: Nur nu are server și nu colectează de la tine date cu caracter personal. Unele funcții trimit, pentru a funcționa, solicitări către serviciile terțe enumerate unul câte unul mai jos.",
+    "tarih": "Data intrării în vigoare: 22 octombrie 2026",
+    "giris": "Această politică explică ce informații folosește aplicația Muslimly: Ore de rugăciune pentru iOS („Muslimly”) și cum le folosește. Pe scurt: Muslimly nu are server și nu colectează date personale de la tine. Unele funcții trimit, pentru a funcționa, cereri către servicii terțe enumerate una câte una mai jos.",
     "bolumler": [
       {
         "h2": "Fără cont",
         "p": [
-          "Pentru a folosi Nur nu trebuie să îți creezi un cont, să te autentifici sau să furnizezi date precum o adresă de e-mail sau un număr de telefon. Aplicația nu are server."
+          "Pentru a folosi Muslimly nu trebuie să îți creezi cont, să te autentifici sau să oferi informații precum e-mail sau telefon. Aplicația nu are server."
         ]
       },
       {
-        "h2": "Fără reclame, analize sau urmărire",
+        "h2": "Fără reclame; rapoarte de blocare și măsurare anonimă a utilizării",
         "p": [
-          "Nur nu afișează reclame; nu conține instrumente de analiză, de raportare a blocărilor sau de urmărire. Nu te urmărește în alte aplicații și site-uri web și nu accesează identificatorul de publicitate."
+          "Muslimly nu afișează reclame, nu te urmărește între aplicații și site-uri web și nu accesează identificatorul de publicitate.",
+          "Începând cu versiunea 1.0.1, pentru funcționarea stabilă a aplicației se colectează rapoarte de blocare și de performanță (Sentry) și o măsurare anonimă a utilizării privind ecranele folosite (PostHog, servere în UE). Aceste date nu sunt asociate cu identitatea ta; nu se trimit informații de cont, locația, progresul tău la rugăciune sau Coran ori vreun conținut scris de tine; se trimit doar versiunea aplicației, modelul dispozitivului, versiunea sistemului de operare, detaliile erorilor și numele ecranelor. În versiunile de dezvoltare această colectare este dezactivată.",
+          "În secțiunea „Confidențialitatea aplicației” din App Store, aceste date sunt declarate ca Date despre blocări, Date despre performanță și Interacțiune cu produsul, sub titlul „Date care nu sunt asociate cu tine”."
         ]
       },
       {
-        "h2": "Datele tale rămân pe dispozitivul tău",
+        "h2": "Datele tale rămân pe dispozitiv",
         "p": [
-          "Numele pe care îl introduci opțional, orașul pe care îl alegi, setările tale, progresul tău la rugăciuni și sarcini, progresul tău la citirea Coranului și semnele tale de carte sunt stocate doar pe dispozitivul tău. Dacă este activat, aceste date sunt incluse și în backupul iCloud al iPhone-ului tău; acel backup aparține contului tău Apple și nu poate fi citit de Nur. Audio versetelor pe care îl descarci rămâne și el pe dispozitivul tău, dar, deoarece poate fi descărcat din nou, nu este inclus în backup; iOS îl poate șterge pentru a elibera spațiu, iar când este nevoie este descărcat din nou. Dacă activezi widgetul de pe ecranul principal, un rezumat scurt (următoarea rugăciune, sarcinile zilei) este scris în zona partajată de pe dispozitivul tău, pentru ca widgetul să îl poată afișa.",
-          "Profilul pe care îl alegi la prima pornire (copil, bărbat adult sau femeie adultă; pentru copil, fată sau băiat) și școala ta juridică sunt, de asemenea, stocate doar pe dispozitivul tău; sunt folosite pentru explicarea rugăciunii, pentru figură și pentru calculul orei Asr și nu sunt trimise nicăieri.",
-          "Când ștergi aplicația, toate datele Nur de pe dispozitiv sunt șterse odată cu ea."
+          "Numele pe care îl scrii opțional, orașul ales, setările, progresul la rugăciune și la sarcini, progresul la citirea Coranului și semnele de carte sunt păstrate doar pe dispozitivul tău. Dacă este activat, aceste date sunt incluse și în backupul iCloud al iPhone-ului tău; acest backup aparține contului tău Apple și nu poate fi citit de Muslimly. Dacă activezi widgetul de pe ecranul principal, un scurt rezumat (următoarea oră de rugăciune, sarcinile zilei) este scris tot în zona comună de pe dispozitiv, ca widgetul să îl poată afișa.",
+          "Profilul ales la prima deschidere (copil, bărbat adult sau femeie adultă; pentru copil, fată sau băiat) și școala juridică (madhab) sunt păstrate tot doar pe dispozitivul tău; sunt folosite pentru explicarea rugăciunii, figură și calculul orei Asr și nu sunt trimise nicăieri.",
+          "Când ștergi aplicația, toate datele Muslimly de pe dispozitiv sunt șterse și ele."
+        ]
+      },
+      {
+        "h2": "Sincronizare cu iCloud (opțională)",
+        "p": [
+          "Dacă activezi în Setări opțiunea „Sincronizează cu iCloud” (implicit dezactivată), progresul și setările tale sunt scrise în propriul tău cont iCloud prin depozitul cheie-valoare iCloud al Apple și sincronizate cu celelalte dispozitive din același cont. Aceste date rămân în contul tău Apple; deoarece Muslimly nu are server, ele nu ajung la noi și nu le putem vedea. Acest serviciu este supus politicii de confidențialitate a Apple.",
+          "Informațiile despre modul „Zile speciale”, starea achizițiilor, permisiunea widgetului și pictograma aleasă pentru aplicație nu sunt scrise în iCloud; rămân doar pe dispozitivul tău. Când dezactivezi opțiunea, sincronizarea se oprește."
         ]
       },
       {
         "h2": "Modul „Zile speciale”",
         "p": [
-          "Modul „Zile speciale”, care poate fi activat în profilurile de femeie și de fată, și evidența zilelor în care a fost activ sunt păstrate doar în spațiul de stocare propriu al aplicației, pe dispozitivul tău. Aceste informații nu sunt trimise niciodată către vreun server; nu sunt scrise în zona partajată pe care o citește widgetul de pe ecranul principal, nu apar în textul notificărilor și nu sunt înregistrate (nu se păstrează jurnale). Widgetul și notificările sunt la fel, indiferent dacă modul „Zile speciale” este activat sau dezactivat. Când îl dezactivezi, zilele anterioare rămân pe dispozitiv cel mult 90 de zile, doar pentru calculul seriei; când ștergi aplicația, aceste informații sunt șterse și ele. Dacă este activat, backupul iCloud al iPhone-ului tău le include împreună cu celelalte date ale aplicației."
+          "Modul „Zile speciale”, care poate fi activat în profilul de femeie și de fată, și informația despre zilele în care a fost activ sunt păstrate doar în depozitul propriu al aplicației, pe dispozitivul tău. Această informație nu este trimisă niciunui server; nu este scrisă în zona comună citită de widgetul de pe ecranul principal, nu apare în textele notificărilor și nu este înregistrată (nu se țin jurnale). Widgetul și notificările sunt identice, fie că modul este activ, fie că nu. Când îl dezactivezi, zilele trecute rămân pe dispozitiv cel mult 90 de zile, doar pentru calculul seriei; când ștergi aplicația, această informație este ștearsă și ea. Dacă este activat, este inclusă în backupul iCloud al iPhone-ului tău, împreună cu celelalte date ale aplicației."
         ]
       },
       {
         "h2": "Locație",
         "p": [
-          "Dacă acorzi permisiunea de localizare, locația ta este folosită pe dispozitivul tău pentru a calcula orele rugăciunilor și direcția Qibla. Dacă nu acorzi permisiunea de localizare, îți poți alege orașul din listă.",
-          "Când deschizi ecranul „Moschei în apropiere”, locația ta este rotunjită la aproximativ 1 km (două zecimale) și trimisă serviciului OpenStreetMap Overpass pentru a găsi moscheile din apropiere. Ca la orice solicitare pe internet, adresa ta IP ajunge și ea la acest serviciu; nu se trimite nicio altă informație care să te identifice. Orașul găsit pe baza locației tale este stocat pe dispozitiv cu aceeași precizie, rotunjit la aproximativ 1 km. Date despre moschei © contribuitorii OpenStreetMap (ODbL). Dacă serviciul Overpass nu poate fi accesat, căutarea se face cu Apple Hărți pe dispozitivul tău; în acest caz, locația ta, rotunjită în același fel la două zecimale (aproximativ 1 km), ajunge la Apple și se supune politicii de confidențialitate Apple. Muslimly nu salvează această locație; lista moscheilor găsite este păstrată doar în memoria dispozitivului tău cel mult 30 de minute."
+          "Dacă acorzi permisiunea de localizare, locația ta este folosită pe dispozitiv pentru calculul orelor de rugăciune și al direcției qibla. Dacă nu acorzi permisiunea, îți poți alege orașul din listă.",
+          "Când deschizi ecranul „Moschei din apropiere”, pentru a găsi moscheile din apropiere locația ta este rotunjită la aproximativ 1 km (două zecimale) și trimisă serviciului OpenStreetMap Overpass. Ca la orice cerere pe internet, adresa ta IP ajunge și ea la acest serviciu; în afară de aceasta nu se trimite nicio informație care să te identifice. Orașul găsit prin locație este păstrat și pe dispozitiv cu aceeași precizie, rotunjit la aproximativ 1 km. Date despre moschei © contribuitorii OpenStreetMap (ODbL). Dacă serviciul Overpass nu este accesibil, căutarea se face cu Apple Maps de pe dispozitivul tău; în acest caz locația ta ajunge la Apple rotunjită în același mod la două zecimale (aproximativ 1 km) și este supusă politicii de confidențialitate a Apple. Muslimly nu păstrează această locație; lista moscheilor găsite este ținută doar în memoria dispozitivului tău, cel mult 30 de minute."
         ]
       },
       {
-        "h2": "Hartă și indicații de traseu (Apple Hărți)",
+        "h2": "Hartă și indicații de traseu (Apple Maps)",
         "p": [
-          "Hărțile de pe ecranele „Moschei în apropiere” și „Kaaba” sunt afișate cu Apple Hărți. Imaginile hărții sunt încărcate de la Apple pentru regiunea afișată pe ecran; dacă ai acordat permisiunea de localizare, locația ta este afișată și ea pe hartă. Acest serviciu este supus politicii de confidențialitate a Apple.",
-          "Când atingi butonul „Indicații de traseu” al unei moschei, se deschide Apple Hărți cu numele și coordonatele moscheii; traseul este calculat în Apple Hărți. Acest lucru se întâmplă doar când atingi tu butonul."
+          "Hărțile de pe ecranele „Moschei din apropiere” și „Kaaba” sunt afișate cu Apple Maps. Imaginile hărții sunt încărcate de la Apple pentru regiunea afișată pe ecran; dacă ai acordat permisiunea de localizare, pe hartă este afișată și locația ta. Acest serviciu este supus politicii de confidențialitate a Apple.",
+          "Când atingi butonul „Indicații de traseu” al unei moschei, Apple Maps se deschide cu numele și coordonatele moscheii; traseul este calculat în Apple Maps. Acest lucru se întâmplă doar când atingi tu butonul."
         ]
       },
       {
-        "h2": "Audio Coran",
+        "h2": "Cameră",
         "p": [
-          "Audio versetelor este redat din serviciul Islamic Network (cdn.islamic.network) sau descărcat pe dispozitivul tău din acest serviciu. La fiecare solicitare, acest serviciu primește: adresa ta IP, adresa fișierului solicitat (ce sură și ce verset, de la ce recitator, este ascultat) și identificatorul standard de browser (User-Agent), care conține versiunile aplicației și ale iOS. Nu se trimite nicio altă informație. Audio descărcat pe dispozitiv se redă fără rețea. Drepturile de autor asupra înregistrărilor aparțin recitatorilor; sursa și condițiile de utilizare se află în aplicație, la Despre › Surse și licențe."
+          "Dacă deschizi ecranul „Camera Qibla”, imaginea camerei este afișată doar pe ecran, în spatele săgeții qibla. Imaginea nu este salvată, nu este procesată și nu părăsește dispozitivul. Dacă nu acorzi permisiunea pentru cameră, poți găsi qibla în continuare cu busola și harta."
+        ]
+      },
+      {
+        "h2": "Sunete pentru Coran și rugi",
+        "p": [
+          "Sunetele vin incluse în aplicație; pentru redare nu se trimite nicio cerere către vreun serviciu. Sunetele versetelor descărcate de pe internet pe dispozitiv de versiunile anterioare sunt șterse de pe dispozitiv la prima deschidere după actualizarea aplicației."
+        ]
+      },
+      {
+        "h2": "Citire cu voce",
+        "p": [
+          "Citirea cu voce a textelor în turcă și citirea cu voce în arabă, care poate fi activată din Setări (voce sintetică; nu este tilawah, implicit dezactivată), se fac pe dispozitivul tău, cu vocile de vorbire proprii ale iPhone-ului. Textul citit nu este trimis niciunui serviciu."
         ]
       },
       {
         "h2": "Distribuire",
         "p": [
-          "Când atingi butonul „Distribuie progresul meu”, rezumatul progresului tău (serie, obiectiv, numărul de rugăciuni și de dhikr) se deschide în foaia de distribuire iOS. Textul ajunge doar la aplicația sau persoana pe care o alegi tu; Nur nu distribuie niciodată nimic din proprie inițiativă."
+          "Când atingi butonul „Distribuie progresul meu”, rezumatul progresului tău (seria, obiectivul, numărul de rugăciuni și de dhikr) se deschide prin meniul de partajare iOS. Textul ajunge doar la aplicația sau persoana aleasă de tine; Muslimly nu distribuie nimic de la sine."
+        ]
+      },
+      {
+        "h2": "Achiziții",
+        "p": [
+          "În această versiune a Muslimly nu există achiziții; serviciul de mai jos nu este activ și nu trimite nicio cerere.",
+          "Dacă în viitor va fi oferit un abonament Premium opțional: achiziția și plata sunt procesate de Apple; Muslimly nu vede datele de plată. Pentru a verifica dacă abonamentul tău este valabil se folosește serviciul RevenueCat (RevenueCat, Inc.). Către acest serviciu se trimit un număr de utilizator generat aleatoriu, care nu este asociat cu numele tău sau cu ID-ul Apple, istoricul achizițiilor (produs, dată, preț, monedă, țară) și versiunea aplicației și a iOS. Aceste informații nu sunt folosite pentru publicitate sau urmărire și nu sunt partajate cu terți în acest scop. Politica de confidențialitate RevenueCat: revenuecat.com/privacy.",
+          "Îți poți gestiona sau anula abonamentul din setările contului App Store; cererile de rambursare se fac prin Apple."
         ]
       },
       {
         "h2": "Notificări",
         "p": [
-          "Notificările pentru orele rugăciunilor și mementourile sunt programate local, pe dispozitivul tău. Nu se folosesc notificări la distanță (push); pentru notificări nu se face nicio înregistrare la vreun server."
+          "Notificările pentru orele de rugăciune și mementourile sunt programate local pe dispozitivul tău. Nu se folosesc notificări la distanță (push); pentru notificări nu se face nicio înregistrare pe vreun server."
+        ]
+      },
+      {
+        "h2": "Widget, Activitate live, Siri și Concentrare",
+        "p": [
+          "Widgeturile de pe ecranul principal și de pe ecranul de blocare, numărătoarea inversă până la ora de rugăciune de pe ecranul de blocare (Activitate live), scurtăturile Siri și filtrul Concentrare funcționează pe dispozitivul tău; citesc informațiile despre ore din zona comună a aplicației de pe dispozitiv. Pentru acestea nu se trimite nicio cerere către vreun server."
         ]
       },
       {
         "h2": "Copii",
         "p": [
-          "Nur are un mod pentru copii. Deoarece aplicația nu colectează date cu caracter personal de la niciun utilizator, inclusiv de la copii, nu există nici prelucrare de date specifică pentru copii."
+          "Muslimly are un mod pentru copii. Deoarece aplicația nu colectează date personale de la niciun utilizator, inclusiv de la copii, nu există nici o prelucrare de date specifică copiilor."
         ]
       },
       {
         "h2": "Modificări",
         "p": [
-          "Dacă această politică se modifică, versiunea actuală va fi publicată pe această pagină, cu o nouă dată de intrare în vigoare."
+          "Dacă această politică se modifică, versiunea actualizată este publicată pe această pagină, cu noua dată de intrare în vigoare."
         ]
       }
     ],
     "iletisimBaslik": "Contact",
     "iletisim": "Pentru întrebări:",
-    "iletisimKonu": "Confidențialitate Nur",
-    "metaBaslik": "Politica de confidențialitate Nur",
-    "metaAciklama": "Politica de confidențialitate a aplicației Nur: fără cont, fără reclame sau urmărire, datele rămân pe dispozitiv."
+    "iletisimKonu": "Confidențialitate Muslimly",
+    "metaBaslik": "Politica de confidențialitate Muslimly",
+    "metaAciklama": "Politica de confidențialitate a aplicației Muslimly: fără cont, fără reclame și urmărire, datele rămân pe dispozitiv."
   }
 }

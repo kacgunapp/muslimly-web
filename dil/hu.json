@@ -2,8 +2,8 @@
   "kod": "hu",
   "ad": "Magyar",
   "yon": "ltr",
-  "baslik": "Nur: Imaidők és Korán",
-  "metaAciklama": "Imaidők, 3D imatanítás, Korán-olvasás és -hallgatás, kibla, dzikr-számláló. Nincs fiók, nincs reklám, nincs adatgyűjtés.",
+  "baslik": "Muslimly: Imaidők és Korán",
+  "metaAciklama": "Imaidők, 3D-s imatanítás, Korán-olvasás, kibla, dzikrszámláló. Fiók, reklám és személyes adatgyűjtés nélkül.",
   "nav": {
     "tanitim": "Bemutató",
     "destek": "Támogatás",
@@ -11,8 +11,8 @@
     "dil": "Nyelv"
   },
   "kahraman": {
-    "simgeAlt": "A Nur alkalmazás ikonja: aranyszínű nyitott könyv, fölötte fény",
-    "giris": "Egyszerű segítőtárs, amellyel könnyebb rendszeresen végezni az istentiszteletet. Van gyermek és felnőtt módja; nem kér fiókot, nem jelenít meg reklámot és nem gyűjt adatot.",
+    "simgeAlt": "A Muslimly alkalmazás ikonja: aranyszínű nyitott könyv, fölötte fény",
+    "giris": "Egyszerű segítő, amely megkönnyíti a rendszeres istenszolgálatot. Van gyermek és felnőtt mód; nem kér fiókot, nem jelenít meg reklámot, nem gyűjt személyes adatokat.",
     "rozet": "iOS-re · hamarosan az App Store-ban"
   },
   "nelerVar": "Mit tartalmaz?",
@@ -20,183 +20,216 @@
     {
       "ikon": "🕰️",
       "h3": "Imaidők",
-      "p": "12 számítási módszer, köztük a Diyanet, magas szélességi szabályok, értesítések az imaidőkről és havi imarend."
+      "p": "12 számítási módszer, köztük a Diyanet, szabályok a magas szélességi fokokhoz, imaidő-értesítések és havi naptár."
     },
     {
       "ikon": "🧎",
-      "h3": "3D ima és mosakodás",
-      "p": "Lépésről lépésre bemutatott mozdulatok férfi, női vagy gyermekfigurával; bármilyen szögbe elforgatható, mellette a fohászok arabul."
+      "h3": "Ima és mosakodás 3D-ben",
+      "p": "Lépésről lépésre bemutatott mozdulatok férfi, női és gyermek figurával; minden irányból forgathatók, a fohászokkal együtt."
     },
     {
       "ikon": "📖",
       "h3": "Korán",
-      "p": "114 szúra, az arab szöveg oldalankénti olvasása, versenkénti hallgatás öt recitálótól, könyvjelzők és végigolvasási terv."
+      "p": "114 szúra, oldalankénti olvasás, átírás, könyvjelzők, jegyzetek a versekhez és végigolvasási terv."
     },
     {
       "ikon": "🕋",
       "h3": "Kibla",
-      "p": "Iránytű és térkép együtt: a Kába iránya, a légvonalbeli távolság és a közeli mecsetek."
+      "p": "Iránytű és térkép együtt: a Kába iránya, légvonalbeli távolság és a közeli mecsetek."
     },
     {
       "ikon": "📿",
-      "h3": "Dzikr-számláló",
-      "p": "Számláló imafüzér-szemekkel; különböző anyagú imafüzérek és enyhe rezgés minden érintésnél."
+      "h3": "Dzikrszámláló",
+      "p": "Számláló tesbih-szemekkel; különféle tesbih-anyagok és enyhe rezgés érintéskor."
     },
     {
       "ikon": "🧰",
       "h3": "Eszközök",
-      "p": "Zakát- és fitraszámítás, hidzsra-naptár és áldott napok, emlékeztetők a szahúrra, a tahaddzsudra és a pénteki imára."
+      "p": "Zakát- és fitraszámítás, hidzsra-naptár és áldott napok, szahúr-, tahaddzsud- és pénteki emlékeztetők."
     },
     {
       "ikon": "📱",
       "h3": "Widget",
-      "p": "A következő ima és a mai feladatok a kezdőképernyőn; érintésre a megfelelő rész nyílik meg."
+      "p": "A kezdőképernyőn a következő ima és a nap feladatai; érintésre a megfelelő rész nyílik meg."
     }
   ],
   "gizlilikOzet": {
-    "h2": "Az adataid nálad maradnak",
+    "h2": "A magánszférád nálad marad",
     "maddeler": [
       "Nincs fiók, bejelentkezés vagy szerver.",
-      "Nincs reklám, analitika vagy követés.",
-      "A haladásod és a beállításaid csak a készülékeden maradnak.",
-      "A helyadataidat a készülék az imaidőkhöz és a kiblához használja; a közeli mecsetek kereséséhez csak egy nagyjából 1 km-re kerekített változat kerül elküldésre."
+      "Nincs reklám és követés; csak névtelen használatmérés (PostHog, EU-s szerverek) és összeomlási jelentés.",
+      "A haladásod és a beállításaid az eszközödön maradnak; ha szeretnéd, a saját iCloud-fiókodon keresztül szinkronizálódnak (hozzánk nem jutnak el).",
+      "A helyzetedet az eszköz az imaidőkhöz és a kiblához használja; közeli mecsetek keresésekor csak a nagyjából 1 km-re kerekített érték kerül elküldésre."
     ],
-    "tamMetin": "A teljes adatvédelmi szabályzat"
+    "tamMetin": "Az adatvédelmi szabályzat teljes szövege"
   },
-  "telif": "© 2026 Nur",
+  "telif": "© 2026 Doğaç Turan",
   "ceviriNotu": "Ez a fordítás csak tájékoztató jellegű; eltérés esetén a török nyelvű szöveg az irányadó.",
   "destek": {
     "h1": "Támogatás",
-    "giris": "Alább a gyakori helyzetek és megoldásaik találhatók. Ha nem találod a választ, írj nekünk.",
+    "giris": "Alább a gyakori helyzeteket és megoldásaikat találod. Ha nem találsz választ, írj nekünk.",
     "sssBaslik": "Gyakori kérdések",
     "sss": [
       {
         "soru": "Az imaidők hibásnak tűnnek",
-        "giris": "Az időpontok a kiválasztott helyszín és számítási módszer alapján számolódnak. Ellenőrizd sorban a következőket:",
+        "giris": "Az időpontok a kiválasztott helyszín és számítási módszer alapján készülnek. Sorban ellenőrizd ezeket:",
         "adimlar": [
           "<strong>Helyszín:</strong> Én lap › Helyszín. Érintsd meg a „Helyzetem automatikus meghatározása” gombot, vagy válaszd ki a városodat a listából. Ha másik város van kiválasztva, az időpontok arra a városra vonatkoznak.",
           "<strong>Számítási módszer:</strong> Én lap › Számítási módszer. Törökországhoz válaszd a Vallásügyi Elnökség (Diyanet) módszerét; az „Automatikus a város szerint” annak az országnak a módszerét választja, ahol éppen vagy.",
           "<strong>Az Aszr ideje:</strong> Ugyanezen a képernyőn ellenőrizd a Korai Aszr vagy Késői Aszr választást; a kettő között közel egy óra különbség is lehet.",
           "<strong>Hidzsra dátum:</strong> Ha a hidzsra-naptár egy nappal eltér, az Eszközök › Hidzsra-naptár menüpontban ±2 napos korrekciót állíthatsz be."
         ],
-        "son": "A hivatalos naptártól való néhány perces eltérés biztonsági ráhagyásból eredhet, és ez normális."
+        "son": "A hivatalos naptárhoz képest néhány perces eltérés az óvatossági ráhagyásból adódhat, és ez normális."
       },
       {
         "soru": "Nem érkeznek értesítések",
         "adimlar": [
-          "Az iPhone-on nyisd meg a <strong>Beállítások › Értesítések › Nur</strong> menüt; az „Értesítések engedélyezése” legyen bekapcsolva.",
-          "Ha egy Fókusz mód (Ne zavarjanak, Alvás) be van kapcsolva, add hozzá a Nurt az engedélyezett alkalmazásokhoz.",
+          "Az iPhone-on nyisd meg a <strong>Beállítások › Értesítések › Muslimly</strong> menüt; az „Értesítések engedélyezése” legyen bekapcsolva.",
+          "Ha egy Fókusz mód (Ne zavarjanak, Alvás) be van kapcsolva, add hozzá a Muslimly alkalmazást az engedélyezett alkalmazásokhoz.",
           "Az alkalmazásban az <strong>Én lap › Adzán értesítés</strong> legyen bekapcsolva. A szahúr-, tahaddzsud- és pénteki emlékeztetőkért lásd: <strong>Eszközök › Emlékeztetők</strong>.",
-          "Ha megváltoztatod a helyszínt, az értesítések automatikusan újraütemeződnek az új időpontokra.",
-          "Az iOS korlátozza, hány értesítést ütemezhet előre egy alkalmazás; a Nur nagyjából egy hét imaidőit tervezi be. Ha legalább hetente egyszer megnyitod az alkalmazást, az értesítések megszakítás nélkül folytatódnak."
+          "Ha megváltoztatod a helyszínt, az értesítések maguktól újra beállnak az új időpontokra.",
+          "Az iOS korlátozza, hány értesítést ütemezhet előre egy alkalmazás; a Muslimly nagyjából egy hétre előre ütemezi az imaidőket. Ha legalább hetente egyszer megnyitod az alkalmazást, az értesítések megszakítás nélkül érkeznek."
         ]
       },
       {
-        "soru": "A kibla iránya elcsúszik",
+        "soru": "A kibla iránya eltér",
         "adimlar": [
-          "Kalibráld az iránytűt: mozgasd a telefont néhányszor a levegőben 8-as alakban.",
-          "Távolodj el a mágneses tokoktól, hangszóróktól, fémasztaloktól vagy elektronikus eszközöktől; ezek eltérítik az iránytűt.",
+          "Kalibráld az iránytűt: a telefonnal írj le néhányszor egy „8”-ast a levegőben.",
+          "Távolodj el a mágneses tokoktól, hangszóróktól, fémasztaloktól és elektronikus eszközöktől; ezek eltérítik az iránytűt.",
           "Legyen bekapcsolva a <strong>Beállítások › Adatvédelem és biztonság › Helymeghatározás › Rendszerszolgáltatások › Iránytű kalibrálása</strong>.",
-          "Győződj meg róla, hogy a helyszíned helyes: a kibla szöge a kiválasztott helyszín alapján számolódik."
+          "Győződj meg róla, hogy a helyszín helyes: a kibla szögét a kiválasztott helyszín alapján számítja az alkalmazás."
         ]
       },
       {
-        "soru": "A Korán hangja nem szól, vagy nem töltődik le",
+        "soru": "Nem látszik a Korán- vagy fohászhang gombja",
         "adimlar": [
-          "A versek hangja az internetről érkezik. Ellenőrizd a Wi-Fi- vagy mobilkapcsolatot; a Beállítások › Mobilszolgáltatás menüben a Nur mobiladat-engedélyének bekapcsolva kell lennie.",
-          "Ha egy letöltés félbeszakadt, próbáld újra: a részben letöltött fájlok törlődnek, és a letöltés az elejéről fejeződik be.",
-          "A letöltött szúrák hálózat nélkül is lejátszhatók. A letöltéseket a Korán olvasása › Olvasási beállítások menüpontban láthatod és törölheted.",
-          "A hallgatás gomb csak a Korán verseiből származó fohászoknál érhető el; a többi fohásznál nincs gomb."
+          "A hangfelvételek az alkalmazással együtt érkeznek, nem az internetről töltődnek le. A Meghallgatás gomb csak azoknál a szúráknál és fohászoknál jelenik meg, amelyek felvétele bekerült az alkalmazásba.",
+          "A felvétel nélküli szúráknál és fohászoknál a gomb egyáltalán nem jelenik meg; az arab szöveg és az átírás mindig olvasható."
         ]
       }
     ],
     "iletisimBaslik": "Kapcsolat",
-    "iletisim": "Kérdések, javaslatok vagy hibajelentések esetén:",
-    "iletisimKonu": "Nur támogatás",
-    "iletisimNot": "Ha az üzenetedben megadod az iPhone típusát, az iOS verzióját és a kiválasztott várost, gyorsabban tudunk segíteni.",
-    "metaBaslik": "Nur támogatás",
-    "metaAciklama": "Gyakori kérdések és kapcsolat a Nur alkalmazáshoz."
+    "iletisim": "Kérdés, javaslat vagy hibabejelentés esetén:",
+    "iletisimKonu": "Muslimly támogatás",
+    "iletisimNot": "Ha megírod az iPhone típusát, az iOS verzióját és a kiválasztott várost, gyorsabban tudunk segíteni.",
+    "metaBaslik": "Muslimly támogatás",
+    "metaAciklama": "Gyakori kérdések és kapcsolat a Muslimly alkalmazáshoz."
   },
   "gizlilik": {
     "h1": "Adatvédelmi szabályzat",
-    "tarih": "Hatálybalépés dátuma: 2026. szeptember 27.",
-    "giris": "Ez a szabályzat elmagyarázza, milyen információkat és hogyan használ a Nur: Imaidők és Korán iOS-alkalmazás („Nur”). Röviden: a Nurnak nincs szervere, és nem gyűjt tőled személyes adatot. Egyes funkciók a működésükhöz kéréseket küldenek az alább egyenként felsorolt külső szolgáltatásoknak.",
+    "tarih": "Hatályba lépés: 2026. október 22.",
+    "giris": "Ez a szabályzat elmagyarázza, hogy az iOS-re készült Muslimly: Imaidők és Korán alkalmazás („Muslimly”) milyen adatokat és hogyan használ. Röviden: a Muslimly alkalmazásnak nincs szervere, és nem gyűjt rólad személyes adatokat. Egyes funkciók a működésükhöz kéréseket küldenek az alább egyenként felsorolt külső szolgáltatásoknak.",
     "bolumler": [
       {
         "h2": "Nincs fiók",
         "p": [
-          "A Nur használatához nem kell fiókot létrehoznod, bejelentkezned, sem olyan adatokat megadnod, mint az e-mail-cím vagy a telefonszám. Az alkalmazásnak nincs szervere."
+          "A Muslimly használatához nem kell fiókot nyitnod, bejelentkezned, sem e-mail-címet, telefonszámot vagy hasonló adatot megadnod. Az alkalmazásnak nincs szervere."
         ]
       },
       {
-        "h2": "Nincs reklám, analitika vagy követés",
+        "h2": "Nincs reklám; összeomlási jelentés és névtelen használatmérés",
         "p": [
-          "A Nur nem jelenít meg reklámot; nem tartalmaz analitikai, összeomlás-jelentő vagy követő eszközt. Nem követ téged más alkalmazásokon és webhelyeken keresztül, és nem fér hozzá a hirdetési azonosítóhoz."
+          "A Muslimly nem jelenít meg reklámot, nem követ téged alkalmazásokon és webhelyeken át, és nem fér hozzá a hirdetési azonosítóhoz.",
+          "Az 1.0.1-es verziótól kezdve az alkalmazás stabil működése érdekében összeomlási és teljesítményjelentéseket (Sentry), valamint névtelen használatmérést gyűjtünk arról, mely képernyőket használják (PostHog, EU-s szerverek). Ezek az adatok nincsenek a személyazonosságodhoz kapcsolva; nem kerül elküldésre fiókadat, helyzet, az imával és a Koránnal kapcsolatos haladásod, sem bármi, amit beírsz; csak az alkalmazás verziója, az eszköz típusa, az operációs rendszer verziója, a hibák részletei és a képernyők neve megy el. A fejlesztői buildekben ez az adatgyűjtés ki van kapcsolva.",
+          "Az App Store „Alkalmazás adatvédelme” részében ezek az adatok Összeomlási adatok, Teljesítményadatok és Termékinterakció néven, a „Nem önhöz kapcsolt adatok” cím alatt szerepelnek."
         ]
       },
       {
-        "h2": "Az adataid a készülékeden maradnak",
+        "h2": "Az adataid az eszközödön maradnak",
         "p": [
-          "A tetszés szerint megadott neved, a választott városod, a beállításaid, az imákban és feladatokban elért haladásod, a Korán-olvasásban elért haladásod és a könyvjelzőid csak a készülékeden tárolódnak. Ha be van kapcsolva, ezek az adatok az iPhone-od iCloud-biztonsági mentésébe is bekerülnek; ez a mentés az Apple-fiókodhoz tartozik, és a Nur nem tudja olvasni. A letöltött versek hangja szintén a készülékeden marad, de mivel újra letölthető, nem kerül a biztonsági mentésbe; az iOS helyfelszabadítás céljából törölheti, és szükség esetén újra letöltődik. Ha bekapcsolod a kezdőképernyő-widgetet, egy rövid összefoglaló (a következő ima, a mai feladatok) a készüléked megosztott területére íródik, hogy a widget meg tudja jeleníteni.",
-          "Az első indításkor választott profil (gyermek, felnőtt férfi vagy felnőtt nő; gyermek esetén lány vagy fiú) és a jogi iskolád (madhab) szintén csak a készülékeden tárolódik; az ima magyarázatához, a figurához és az Aszr idejének kiszámításához használatosak, és soha sehová nem kerülnek elküldésre.",
-          "Az alkalmazás törlésekor a készüléken lévő összes Nur-adat is törlődik."
+          "A tetszés szerint megadott neved, a kiválasztott város, a beállításaid, az imákkal és feladatokkal kapcsolatos haladásod, a Korán-olvasási haladásod és a könyvjelzőid csak az eszközödön tárolódnak. Ha be van kapcsolva, ezek az adatok az iPhone iCloud-biztonsági mentésébe is bekerülnek; ez a mentés az Apple-fiókodhoz tartozik, és a Muslimly nem tudja olvasni. Ha bekapcsolod a kezdőképernyő-widgetet, egy rövid összefoglaló (a következő ima, a nap feladatai) szintén az eszközödön lévő közös területre íródik, hogy a widget meg tudja jeleníteni.",
+          "Az első indításkor kiválasztott profil (gyermek, felnőtt férfi vagy felnőtt nő; gyermeknél lány vagy fiú) és a jogi iskola (madhab) szintén csak az eszközödön tárolódik; az ima bemutatásához, a figurához és az Aszr idejének számításához használjuk, és sehová sem küldjük el.",
+          "Ha törlöd az alkalmazást, a Muslimly összes adata is törlődik az eszközről."
+        ]
+      },
+      {
+        "h2": "Szinkronizálás iClouddal (választható)",
+        "p": [
+          "Ha a beállításokban bekapcsolod a „Szinkronizálás iClouddal” lehetőséget (alapértelmezés szerint ki van kapcsolva), a haladásod és a beállításaid az Apple iCloud kulcs-érték tárolóján keresztül a saját iCloud-fiókodba íródnak, és szinkronizálódnak az ugyanahhoz a fiókhoz tartozó többi eszközöddel. Ezek az adatok az Apple-fiókodban maradnak; mivel a Muslimly alkalmazásnak nincs szervere, hozzánk nem jutnak el, és nem látjuk őket. Erre a szolgáltatásra az Apple adatvédelmi szabályzata vonatkozik.",
+          "A különleges napok mód adatai, a vásárlási állapot, a widget-engedély és az alkalmazásikon választása nem íródik az iCloudba; csak az eszközödön marad. Ha kikapcsolod a lehetőséget, a szinkronizálás leáll."
         ]
       },
       {
         "h2": "Különleges napok mód",
         "p": [
-          "A nő és a lány profilban bekapcsolható különleges napok mód, valamint annak nyilvántartása, hogy mely napokon volt bekapcsolva, kizárólag az alkalmazás saját tárhelyén, a készülékeden tárolódik. Ez az információ soha nem kerül elküldésre egyetlen szerverre sem; nem íródik be a kezdőképernyő-widget által olvasott megosztott területre, nem jelenik meg az értesítések szövegében, és nem kerül rögzítésre (nem készül napló). A widget és az értesítések ugyanazok, akár be van kapcsolva a különleges napok mód, akár ki. Kikapcsolás után a korábbi napok legfeljebb 90 napig maradnak a készüléken, kizárólag a sorozat kiszámításához; az alkalmazás törlésekor ez az információ is törlődik. Ha be van kapcsolva, a többi alkalmazásadattal együtt bekerül az iPhone-od iCloud-biztonsági mentésébe."
+          "A női és lány profilban bekapcsolható különleges napok mód, valamint az az adat, hogy mely napokon volt bekapcsolva, csak az alkalmazás saját tárolójában, az eszközödön marad. Ez az adat semmilyen szerverre nem kerül elküldésre, nem íródik a kezdőképernyő-widget által olvasott közös területre, nem jelenik meg az értesítések szövegében, és nem kerül naplózásra (nincs naplózás). A widget és az értesítések ugyanolyanok, akár be van kapcsolva a mód, akár nincs. Kikapcsolás után a múltbeli napok legfeljebb 90 napig maradnak az eszközön, kizárólag a sorozat számításához; ha törlöd az alkalmazást, ez az adat is törlődik. Ha be van kapcsolva, az iPhone iCloud-biztonsági mentésébe az alkalmazás többi adatával együtt bekerül."
         ]
       },
       {
-        "h2": "Helyadatok",
+        "h2": "Helyzet",
         "p": [
-          "Ha megadod a helymeghatározási engedélyt, a helyadataidat a készülék az imaidők és a kibla irányának kiszámításához használja. Ha nem adod meg az engedélyt, a városodat kiválaszthatod a listából.",
-          "Amikor megnyitod a „Közeli mecsetek” képernyőt, a helyadataid nagyjából 1 km-re kerekítve (két tizedesjegyre) az OpenStreetMap Overpass szolgáltatásnak kerülnek elküldésre, hogy megtalálja a közeli mecseteket. Mint minden internetes kérésnél, az IP-címed is eljut ehhez a szolgáltatáshoz; más, téged azonosító információ nem kerül elküldésre. A helyadataid alapján megtalált város ugyanilyen pontossággal, nagyjából 1 km-re kerekítve tárolódik a készüléken. A mecsetek adatai © az OpenStreetMap közreműködői (ODbL). Ha az Overpass szolgáltatás nem érhető el, a keresés az eszközöd Apple Térképek alkalmazásával történik; ilyenkor a helyzeted ugyanígy két tizedesjegyre (kb. 1 km) kerekítve jut el az Apple-hez, és az Apple adatvédelmi irányelvei vonatkoznak rá. A Muslimly nem tárolja ezt a helyzetet; a talált mecsetek listája csak az eszközöd memóriájában marad legfeljebb 30 percig."
+          "Ha engedélyezed a helyzethozzáférést, a helyzetedet az eszközöd az imaidők és a kibla irányának kiszámításához használja. Ha nem engedélyezed, a városodat kiválaszthatod a listából.",
+          "Amikor megnyitod a „Közeli mecsetek” képernyőt, a közeli mecsetek megkereséséhez a helyzeted nagyjából 1 km-re kerekítve (két tizedesjegy) elküldésre kerül az OpenStreetMap Overpass szolgáltatásnak. Mint minden internetes kérésnél, az IP-címed is eljut ehhez a szolgáltatáshoz; ezen kívül semmilyen téged azonosító adat nem kerül elküldésre. A helyzet alapján megtalált város az eszközön is ugyanilyen pontossággal, nagyjából 1 km-re kerekítve tárolódik. A mecsetadatok © OpenStreetMap közreműködők (ODbL). Ha az Overpass szolgáltatás nem érhető el, a keresés az eszközödön lévő Apple Térképpel történik; ilyenkor a helyzeted ugyanúgy két tizedesjegyre (nagyjából 1 km-re) kerekítve jut el az Apple-höz, és az Apple adatvédelmi szabályzata vonatkozik rá. A Muslimly ezt a helyzetet nem tárolja; a megtalált mecsetlistát csak az eszköz memóriája őrzi legfeljebb 30 percig."
         ]
       },
       {
-        "h2": "Térkép és útvonalterv (Apple Térképek)",
+        "h2": "Térkép és útvonalterv (Apple Térkép)",
         "p": [
-          "A „Közeli mecsetek” és a „Kába” képernyő térképei az Apple Térképekkel jelennek meg. A térképképek a képernyőn látható területre az Apple-től töltődnek be; ha megadtad a helymeghatározási engedélyt, a helyzeted is megjelenik a térképen. Erre a szolgáltatásra az Apple adatvédelmi szabályzata vonatkozik.",
-          "Amikor megérinted egy mecset „Útvonalterv” gombját, az Apple Térképek megnyílik a mecset nevével és koordinátáival; az útvonalat az Apple Térképek számítja ki. Ez csak akkor történik meg, ha megérinted a gombot."
+          "A „Közeli mecsetek” és a „Kába” képernyő térképei az Apple Térképpel jelennek meg. A térképképek a képernyőn látható területre az Apple-től töltődnek be; ha engedélyezted a helyzethozzáférést, a térképen a helyzeted is látszik. Erre a szolgáltatásra az Apple adatvédelmi szabályzata vonatkozik.",
+          "Ha egy mecsetnél megérinted az „Útvonalterv” gombot, megnyílik az Apple Térkép a mecset nevével és koordinátáival; az útvonalat az Apple Térkép számítja ki. Ez csak akkor történik meg, ha te megérinted a gombot."
         ]
       },
       {
-        "h2": "A Korán hangja",
+        "h2": "Kamera",
         "p": [
-          "A versek hangja az Islamic Network szolgáltatásból (cdn.islamic.network) szól, vagy onnan töltődik le a készülékedre. Minden kérésnél ez a szolgáltatás a következőket kapja meg: az IP-címedet, a kért fájl címét (melyik recitáló melyik szúráját és versét hallgatják) és az alkalmazás és az iOS verzióját tartalmazó szabványos böngészőazonosítót (User-Agent). Más információ nem kerül elküldésre. A készülékre letöltött hang hálózat nélkül is lejátszható. A felvételek szerzői joga a recitálóké; a forrás és a felhasználási feltételek az alkalmazásban, a Névjegy › Források és licencek menüpontban találhatók."
+          "Ha megnyitod a „Kibla kamerával” képernyőt, a kamera képe csak a képernyőn, a kiblanyíl mögött jelenik meg. A kép nem kerül mentésre, nem kerül feldolgozásra, és nem hagyja el az eszközt. Ha nem engedélyezed a kamerahozzáférést, a kiblát az iránytűvel és a térképpel így is megtalálhatod."
+        ]
+      },
+      {
+        "h2": "Korán- és fohászhangok",
+        "p": [
+          "A hangfelvételek az alkalmazással együtt érkeznek; a lejátszásukhoz semmilyen szolgáltatásnak nem megy kérés. A korábbi verziók által az internetről az eszközre letöltött versfelvételek az alkalmazás frissítése utáni első indításkor törlődnek az eszközről."
+        ]
+      },
+      {
+        "h2": "Felolvasás",
+        "p": [
+          "A török szövegek felolvasása és a beállításokban bekapcsolható arab felolvasás (gépi hang; nem recitálás, alapértelmezés szerint ki van kapcsolva) az iPhone saját beszédhangjaival, az eszközön történik. A felolvasott szöveg semmilyen szolgáltatásnak nem kerül elküldésre."
         ]
       },
       {
         "h2": "Megosztás",
         "p": [
-          "Amikor megérinted a „Haladásom megosztása” gombot, a haladásod összefoglalója (sorozat, cél, ima- és dzikrszámok) megnyílik az iOS megosztási lapján. A szöveg csak az általad választott alkalmazáshoz vagy személyhez jut el; a Nur magától soha semmit nem oszt meg."
+          "Ha megérinted a „Haladásom megosztása” gombot, a haladásod összefoglalója (sorozat, cél, az imák és dzikrek száma) az iOS megosztási menüjében nyílik meg. A szöveg csak az általad választott alkalmazáshoz vagy személyhez jut el; a Muslimly magától semmit nem oszt meg."
+        ]
+      },
+      {
+        "h2": "Vásárlások",
+        "p": [
+          "A Muslimly jelen verziójában nincs vásárlás; az alább leírt szolgáltatás nem aktív, és semmilyen kérést nem küld.",
+          "Ha a jövőben választható Premium-előfizetés válik elérhetővé: a vásárlást és a fizetést az Apple kezeli; a Muslimly nem látja a fizetési adatokat. Az előfizetésed érvényességének ellenőrzéséhez a RevenueCat (RevenueCat, Inc.) szolgáltatást használjuk. Ehhez a szolgáltatáshoz egy véletlenszerűen generált, a neveddel és az Apple ID-ddel nem összekapcsolt felhasználói szám, a vásárlási előzmények (termék, dátum, ár, pénznem, ország), valamint az alkalmazás és az iOS verziója jut el. Ezeket az adatokat nem használjuk reklámra vagy követésre, és erre a célra nem osztjuk meg harmadik felekkel. A RevenueCat adatvédelmi szabályzata: revenuecat.com/privacy.",
+          "Az előfizetésedet az App Store fiókbeállításaiban kezelheted vagy mondhatod le; a visszatérítési kérelmeket az Apple-en keresztül lehet benyújtani."
         ]
       },
       {
         "h2": "Értesítések",
         "p": [
-          "Az imaidő-értesítéseket és az emlékeztetőket a készüléked helyben ütemezi. Távoli (push) értesítések nincsenek használatban; az értesítésekhez semmilyen szerveren nem történik regisztráció."
+          "Az imaidő-értesítések és az emlékeztetők helyben, az eszközödön kerülnek ütemezésre. Távoli (push) értesítést nem használunk; az értesítésekhez semmilyen szerveren nem történik regisztráció."
+        ]
+      },
+      {
+        "h2": "Widget, Élő tevékenység, Siri és Fókusz",
+        "p": [
+          "A kezdőképernyő és a zárolási képernyő widgetjei, a zárolási képernyőn látható visszaszámlálás az imáig (Élő tevékenység), a Siri-parancsok és a Fókusz-szűrő az eszközödön működnek; az imaidő-adatokat az alkalmazás eszközön lévő közös területéről olvassák. Ezekhez semmilyen szervernek nem megy kérés."
         ]
       },
       {
         "h2": "Gyermekek",
         "p": [
-          "A Nurnak van gyermek módja. Mivel az alkalmazás egyetlen felhasználótól, így a gyermekektől sem gyűjt személyes adatot, gyermekekre vonatkozó külön adatkezelés sincs."
+          "A Muslimly alkalmazásnak van gyermek módja. Mivel az alkalmazás egyetlen felhasználótól, így a gyermekektől sem gyűjt személyes adatokat, gyermekekre vonatkozó külön adatkezelés sincs."
         ]
       },
       {
         "h2": "Változások",
         "p": [
-          "Ha ez a szabályzat megváltozik, az aktuális változat ezen az oldalon kerül közzétételre, új hatálybalépési dátummal."
+          "Ha ez a szabályzat megváltozik, a frissített változat ezen az oldalon, új hatálybalépési dátummal jelenik meg."
         ]
       }
     ],
     "iletisimBaslik": "Kapcsolat",
     "iletisim": "Kérdések esetén:",
-    "iletisimKonu": "Nur adatvédelem",
-    "metaBaslik": "Nur adatvédelmi szabályzat",
-    "metaAciklama": "A Nur alkalmazás adatvédelmi szabályzata: nincs fiók, nincs reklám vagy követés, az adatok a készüléken maradnak."
+    "iletisimKonu": "Muslimly adatvédelem",
+    "metaBaslik": "Muslimly adatvédelmi szabályzat",
+    "metaAciklama": "A Muslimly alkalmazás adatvédelmi szabályzata: nincs fiók, nincs reklám és követés, az adatok az eszközön maradnak."
   }
 }

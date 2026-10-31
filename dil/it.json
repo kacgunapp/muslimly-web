@@ -2,17 +2,17 @@
   "kod": "it",
   "ad": "Italiano",
   "yon": "ltr",
-  "baslik": "Nur: Orari preghiera e Corano",
-  "metaAciklama": "Orari di preghiera, lezioni di preghiera in 3D, lettura e ascolto del Corano, Qibla, contatore di dhikr. Nessun account, nessuna pubblicità, nessuna raccolta di dati.",
+  "baslik": "Muslimly: Orari di preghiera",
+  "metaAciklama": "Orari di preghiera, lezioni di preghiera in 3D, lettura del Corano, Qibla, contatore di dhikr. Nessun account, nessuna pubblicità, nessuna raccolta di dati personali.",
   "nav": {
-    "tanitim": "Panoramica",
-    "destek": "Supporto",
+    "tanitim": "Presentazione",
+    "destek": "Assistenza",
     "gizlilik": "Privacy",
     "dil": "Lingua"
   },
   "kahraman": {
-    "simgeAlt": "Icona dell'app Nur: un libro aperto dorato con una luce sopra",
-    "giris": "Un compagno semplice che ti aiuta a mantenere con regolarità i tuoi atti di adorazione. Ha una modalità bambini e una modalità adulti; non chiede account, non mostra pubblicità e non raccoglie dati.",
+    "simgeAlt": "Icona dell'app Muslimly: un libro aperto dorato con luce sopra",
+    "giris": "Un compagno semplice che ti aiuta a mantenere regolari i tuoi atti di adorazione. Ha una modalità bambini e una modalità adulti; non richiede un account, non mostra pubblicità e non raccoglie dati personali.",
     "rozet": "Per iOS · presto sull'App Store"
   },
   "nelerVar": "Cosa contiene?",
@@ -20,183 +20,216 @@
     {
       "ikon": "🕰️",
       "h3": "Orari di preghiera",
-      "p": "12 metodi di calcolo, tra cui Diyanet, regole per alte latitudini, notifiche degli orari di preghiera e un calendario mensile."
+      "p": "12 metodi di calcolo, incluso Diyanet, regole per le alte latitudini, notifiche degli orari e calendario mensile degli orari."
     },
     {
       "ikon": "🧎",
-      "h3": "Preghiera e abluzione (wudu) in 3D",
-      "p": "Movimenti passo dopo passo con una figura di uomo, donna o bambino; puoi ruotarla da ogni angolazione, con le invocazioni in arabo accanto."
+      "h3": "Preghiera e abluzione in 3D",
+      "p": "Movimenti passo dopo passo con una figura di uomo, donna e bambino; ruotabile da ogni angolazione, insieme alle invocazioni."
     },
     {
       "ikon": "📖",
       "h3": "Corano",
-      "p": "114 sure, lettura del testo arabo pagina per pagina, ascolto versetto per versetto con cinque recitatori, segnalibri e piano di khatm."
+      "p": "114 sure, lettura pagina per pagina, traslitterazione, segnalibri, note sui versetti e piano di khatm."
     },
     {
       "ikon": "🕋",
       "h3": "Qibla",
-      "p": "Bussola e mappa insieme: la direzione della Kaaba, la distanza in linea d'aria e le moschee vicine."
+      "p": "Bussola e mappa insieme: direzione della Kaaba, distanza in linea d'aria e moschee vicine."
     },
     {
       "ikon": "📿",
       "h3": "Contatore di dhikr",
-      "p": "Un contatore con i grani del tasbih; diversi materiali di tasbih e una leggera vibrazione a ogni tocco."
+      "p": "Un contatore con grani di tasbih; diversi materiali per i grani e una leggera vibrazione a ogni tocco."
     },
     {
       "ikon": "🧰",
       "h3": "Strumenti",
-      "p": "Calcolo della zakat e della fitra, calendario dell'Egira e giorni benedetti, promemoria per il suhur, il tahajjud e la Jumu'a."
+      "p": "Calcolo di zakat e fitra, calendario dell'Egira e giorni benedetti, promemoria per suhur, tahajjud e venerdì."
     },
     {
       "ikon": "📱",
       "h3": "Widget",
-      "p": "La prossima preghiera e i compiti di oggi sulla schermata Home; toccalo per aprire la sezione giusta."
+      "p": "Il prossimo orario di preghiera e i compiti del giorno nella schermata Home; con un tocco si apre la sezione giusta."
     }
   ],
   "gizlilikOzet": {
     "h2": "La tua privacy resta con te",
     "maddeler": [
-      "Nessun account, accesso o server.",
-      "Nessuna pubblicità, analisi o tracciamento.",
-      "I tuoi progressi e le tue impostazioni restano solo sul tuo dispositivo.",
-      "La tua posizione è usata sul dispositivo per gli orari di preghiera e la Qibla; per la ricerca delle moschee vicine viene inviata solo una versione arrotondata a circa 1 km."
+      "Nessun account, nessun accesso, nessun server.",
+      "Nessuna pubblicità e nessun tracciamento; solo misurazione anonima dell'utilizzo (PostHog, server nell'UE) e rapporti sugli arresti anomali.",
+      "I tuoi progressi e le tue impostazioni restano sul tuo dispositivo; se vuoi, si sincronizzano con il tuo account iCloud (non arrivano a noi).",
+      "La tua posizione viene usata sul dispositivo per gli orari e la Qibla; nella ricerca delle moschee vicine viene inviata solo una versione arrotondata a circa 1 km."
     ],
-    "tamMetin": "Leggi l'informativa sulla privacy completa"
+    "tamMetin": "Informativa sulla privacy completa"
   },
-  "telif": "© 2026 Nur",
+  "telif": "© 2026 Doğaç Turan",
   "ceviriNotu": "Questa traduzione è fornita solo a scopo informativo; in caso di discrepanze, prevale il testo in turco.",
   "destek": {
-    "h1": "Supporto",
+    "h1": "Assistenza",
     "giris": "Qui sotto trovi le situazioni più comuni e le relative soluzioni. Se non trovi la risposta, scrivici.",
     "sssBaslik": "Domande frequenti",
     "sss": [
       {
         "soru": "Gli orari di preghiera sembrano sbagliati",
-        "giris": "Gli orari sono calcolati in base alla posizione e al metodo di calcolo selezionati. Controlla nell'ordine:",
+        "giris": "Gli orari vengono calcolati in base alla posizione e al metodo di calcolo selezionati. Controlla nell'ordine:",
         "adimlar": [
-          "<strong>Posizione:</strong> scheda Io › Posizione. Tocca \"Trova automaticamente la mia posizione\" oppure scegli la tua città dall'elenco. Se è selezionata un'altra città, gli orari saranno quelli di quella città.",
-          "<strong>Metodo di calcolo:</strong> scheda Io › Metodo di calcolo. Per la Turchia scegli Presidenza degli Affari Religiosi (Diyanet); \"Automatico in base alla città\" sceglie il metodo del paese in cui ti trovi.",
-          "<strong>Orario dell'Asr:</strong> nella stessa schermata, controlla la scelta tra Asr anticipato e Asr posticipato; tra i due può esserci una differenza di quasi un'ora.",
-          "<strong>Data dell'Egira:</strong> se il calendario dell'Egira è sfasato di un giorno, puoi impostare una correzione di ±2 giorni in Strumenti › Calendario dell'Egira."
+          "<strong>Posizione:</strong> scheda Io › Posizione. Tocca “Trova automaticamente la mia posizione” oppure scegli la tua città dall'elenco. Se è selezionata un'altra città, gli orari seguono quella città.",
+          "<strong>Metodo di calcolo:</strong> scheda Io › Metodo di calcolo. Per la Turchia scegli Presidenza degli Affari Religiosi (Diyanet); “Automatico in base alla città” sceglie il metodo del paese in cui ti trovi.",
+          "<strong>Orario dell'Asr:</strong> nella stessa schermata controlla se è selezionato Asr anticipato o Asr posticipato; tra i due può esserci quasi un'ora di differenza.",
+          "<strong>Data dell'Egira:</strong> se il calendario dell'Egira è sfasato di un giorno, puoi applicare una correzione di ±2 giorni in Strumenti › Calendario dell'Egira."
         ],
         "son": "Una differenza di pochi minuti rispetto al calendario ufficiale può dipendere da un margine di sicurezza ed è normale."
       },
       {
         "soru": "Le notifiche non arrivano",
         "adimlar": [
-          "Su iPhone apri <strong>Impostazioni › Notifiche › Nur</strong>; \"Consenti notifiche\" deve essere attivo.",
-          "Se è attiva una modalità Full immersion (Non disturbare, Riposo), aggiungi Nur alle app consentite.",
-          "Nell'app, <strong>scheda Io › Notifica dell'adhan</strong> deve essere attiva. Per i promemoria del suhur, del tahajjud e della Jumu'a, vedi <strong>Strumenti › Promemoria</strong>.",
-          "Quando cambi posizione, le notifiche vengono riprogrammate automaticamente per i nuovi orari.",
-          "iOS limita il numero di notifiche che un'app può programmare in anticipo; Nur programma gli orari di preghiera di circa una settimana. Se apri l'app almeno una volta alla settimana, le notifiche continuano senza interruzioni."
+          "Sull'iPhone apri <strong>Impostazioni › Notifiche › Muslimly</strong>; “Consenti notifiche” deve essere attivo.",
+          "Se è attiva una modalità Full immersion (Non disturbare, Riposo), aggiungi Muslimly alle app consentite.",
+          "Nell'app deve essere attivo <strong>scheda Io › Notifica dell'adhan</strong>. Per i promemoria di suhur, tahajjud e venerdì: <strong>Strumenti › Promemoria</strong>.",
+          "Quando cambi posizione, le notifiche vengono riprogrammate automaticamente secondo i nuovi orari.",
+          "iOS limita il numero di notifiche che un'app può programmare in anticipo; Muslimly programma circa una settimana di orari. Se apri l'app almeno una volta alla settimana, le notifiche continuano senza interruzioni."
         ]
       },
       {
-        "soru": "La direzione della Qibla si sposta",
+        "soru": "La direzione della Qibla devia",
         "adimlar": [
-          "Calibra la bussola muovendo il telefono in aria disegnando un 8 alcune volte.",
-          "Allontanati da custodie magnetiche, altoparlanti, tavoli di metallo o dispositivi elettronici; disturbano la bussola.",
-          "Assicurati che <strong>Impostazioni › Privacy e sicurezza › Localizzazione › Servizi di sistema › Calibrazione bussola</strong> sia attivo.",
-          "Assicurati che la tua posizione sia corretta: l'angolo della Qibla è calcolato in base alla posizione selezionata."
+          "Calibra la bussola muovendo il telefono in aria alcune volte disegnando un “8”.",
+          "Allontanati da custodie magnetiche, altoparlanti, tavoli di metallo o dispositivi elettronici; deviano la bussola.",
+          "<strong>Impostazioni › Privacy e sicurezza › Localizzazione › Servizi di sistema › Calibrazione bussola</strong> deve essere attivo.",
+          "Assicurati che la posizione sia corretta: l'angolo della Qibla viene calcolato in base alla posizione selezionata."
         ]
       },
       {
-        "soru": "L'audio del Corano non si avvia o non si scarica",
+        "soru": "Il pulsante audio del Corano o delle invocazioni non compare",
         "adimlar": [
-          "L'audio dei versetti arriva da internet. Controlla la connessione Wi-Fi o cellulare; in Impostazioni › Cellulare, l'accesso ai dati cellulari per Nur deve essere attivo.",
-          "Se un download si è interrotto a metà, riprova: i file scaricati parzialmente vengono eliminati e il download viene completato dall'inizio.",
-          "Le sure scaricate si ascoltano senza rete. Puoi vedere ed eliminare i download in Leggi il Corano › Impostazioni di lettura.",
-          "Il pulsante di ascolto è disponibile solo per le invocazioni tratte da versetti del Corano; le altre invocazioni non hanno il pulsante."
+          "Gli audio sono inclusi nell'app e non vengono scaricati da internet. Il pulsante Ascolta compare solo per le sure e le invocazioni la cui registrazione è stata aggiunta all'app.",
+          "Per le sure e le invocazioni senza registrazione il pulsante non viene mostrato affatto; il testo arabo e la traslitterazione sono sempre leggibili."
         ]
       }
     ],
     "iletisimBaslik": "Contatti",
     "iletisim": "Per domande, suggerimenti o segnalazioni di errori:",
-    "iletisimKonu": "Supporto Nur",
-    "iletisimNot": "Se nel messaggio indichi il modello del tuo iPhone, la versione di iOS e la città selezionata, potremo aiutarti più rapidamente.",
-    "metaBaslik": "Supporto Nur",
-    "metaAciklama": "Domande frequenti e contatti per l'app Nur."
+    "iletisimKonu": "Assistenza Muslimly",
+    "iletisimNot": "Se nel messaggio indichi il modello del tuo iPhone, la versione di iOS e la città selezionata, potremo aiutarti più velocemente.",
+    "metaBaslik": "Assistenza Muslimly",
+    "metaAciklama": "Domande frequenti e contatti per l'app Muslimly."
   },
   "gizlilik": {
     "h1": "Informativa sulla privacy",
-    "tarih": "Data di entrata in vigore: 27 settembre 2026",
-    "giris": "Questa informativa spiega quali informazioni utilizza l'app Nur: Orari preghiera e Corano per iOS (\"Nur\") e in che modo. In breve: Nur non ha un server e non raccoglie alcun dato personale su di te. Per funzionare, alcune funzioni inviano richieste ai servizi di terze parti elencati uno per uno qui sotto.",
+    "tarih": "Data di entrata in vigore: 22 ottobre 2026",
+    "giris": "Questa informativa spiega quali informazioni usa l'app per iOS Muslimly: Orari di preghiera (“Muslimly”) e come. In breve: Muslimly non ha un server e non raccoglie dati personali che ti riguardano. Per funzionare, alcune funzioni inviano richieste ai servizi di terze parti elencati uno per uno qui sotto.",
     "bolumler": [
       {
         "h2": "Nessun account",
         "p": [
-          "Per usare Nur non devi creare un account, accedere né fornire dati come un indirizzo email o un numero di telefono. L'app non ha un server."
+          "Per usare Muslimly non devi creare un account, accedere né fornire dati come indirizzo email o numero di telefono. L'app non ha un server."
         ]
       },
       {
-        "h2": "Nessuna pubblicità, analisi o tracciamento",
+        "h2": "Nessuna pubblicità; rapporti sugli arresti anomali e misurazione anonima dell'utilizzo",
         "p": [
-          "Nur non mostra pubblicità; non contiene strumenti di analisi, di segnalazione degli arresti anomali o di tracciamento. Non ti traccia tra app e siti web e non accede all'identificativo pubblicitario."
+          "Muslimly non mostra pubblicità, non ti traccia tra app e siti web e non accede all'identificatore pubblicitario.",
+          "A partire dalla versione 1.0.1, per garantire un funzionamento stabile dell'app, vengono raccolti rapporti sugli arresti anomali e sulle prestazioni (Sentry) e una misurazione anonima dell'utilizzo relativa a quali schermate vengono usate (PostHog, server nell'UE). Questi dati non vengono collegati alla tua identità; non vengono inviati dati dell'account, posizione, progressi di preghiera o del Corano né alcun contenuto che hai scritto; vengono inviati solo la versione dell'app, il modello del dispositivo, la versione del sistema operativo, i dettagli degli errori e i nomi delle schermate. Nelle build di sviluppo questa raccolta è disattivata.",
+          "Nella sezione “Privacy dell'app” dell'App Store questi dati sono dichiarati come Dati sugli arresti anomali, Dati sulle prestazioni e Interazione con il prodotto, sotto la voce “Dati non collegati a te”."
         ]
       },
       {
         "h2": "I tuoi dati restano sul tuo dispositivo",
         "p": [
-          "Il nome che inserisci facoltativamente, la città che scegli, le tue impostazioni, i tuoi progressi nelle preghiere e nei compiti, i tuoi progressi di lettura del Corano e i tuoi segnalibri sono memorizzati solo sul tuo dispositivo. Se è attivo, questi dati sono inclusi anche nel backup iCloud del tuo iPhone; quel backup appartiene al tuo account Apple e Nur non può leggerlo. Anche l'audio dei versetti che scarichi resta sul tuo dispositivo, ma poiché può essere scaricato di nuovo non viene incluso nel backup; iOS può eliminarlo per liberare spazio e, quando serve, viene scaricato di nuovo. Se attivi il widget della schermata Home, un breve riepilogo (la prossima preghiera, i compiti di oggi) viene scritto nell'area condivisa del tuo dispositivo, così che il widget possa mostrarlo.",
-          "Anche il profilo che scegli al primo avvio (bambino, uomo adulto o donna adulta; per un bambino, bambina o bambino) e la tua scuola giuridica sono memorizzati solo sul tuo dispositivo; sono usati per la spiegazione della preghiera, per la figura e per il calcolo dell'orario dell'Asr, e non vengono mai inviati da nessuna parte.",
-          "Quando elimini l'app, tutti i dati di Nur sul dispositivo vengono eliminati con essa."
+          "Il nome che inserisci facoltativamente, la città che scegli, le tue impostazioni, i tuoi progressi nelle preghiere e nei compiti, i progressi di lettura del Corano e i tuoi segnalibri sono salvati solo sul tuo dispositivo. Se attivo, il backup iCloud del tuo iPhone include anche questi dati; tale backup appartiene al tuo account Apple e Muslimly non può leggerlo. Se attivi il widget della schermata Home, un breve riepilogo (prossimo orario, compiti del giorno) viene scritto anche in un'area condivisa del dispositivo, così che il widget possa mostrarlo.",
+          "Anche il profilo scelto al primo avvio (bambino, uomo adulto o donna adulta; per un bambino, femmina o maschio) e la scuola giuridica sono salvati solo sul tuo dispositivo; vengono usati per le spiegazioni della preghiera, la figura e il calcolo dell'orario dell'Asr e non vengono inviati da nessuna parte.",
+          "Quando elimini l'app, vengono eliminati anche tutti i dati di Muslimly presenti sul dispositivo."
+        ]
+      },
+      {
+        "h2": "Sincronizzazione con iCloud (facoltativa)",
+        "p": [
+          "Se attivi l'opzione “Sincronizza con iCloud” nelle Impostazioni (disattivata per impostazione predefinita), i tuoi progressi e le tue impostazioni vengono scritti nel tuo account iCloud tramite l'archivio chiave-valore iCloud di Apple e sincronizzati con gli altri tuoi dispositivi con lo stesso account. Questi dati restano nel tuo account Apple; poiché Muslimly non ha un server, non arrivano a noi e non possiamo vederli. Questo servizio è soggetto all'informativa sulla privacy di Apple.",
+          "Le informazioni sulla modalità giorni particolari, lo stato degli acquisti, l'autorizzazione del widget e la scelta dell'icona dell'app non vengono scritti su iCloud; restano solo sul tuo dispositivo. Quando disattivi l'opzione, la sincronizzazione si interrompe."
         ]
       },
       {
         "h2": "Modalità giorni particolari",
         "p": [
-          "La modalità giorni particolari, attivabile nei profili donna e bambina, e l'informazione sui giorni in cui è stata attiva sono conservate solo nella memoria propria dell'app, sul tuo dispositivo. Questa informazione non viene mai inviata ad alcun server; non viene scritta nell'area condivisa letta dal widget della schermata Home, non compare nel testo delle notifiche e non viene registrata (non si conservano log). Il widget e le notifiche sono identici sia che la modalità giorni particolari sia attiva sia che non lo sia. Quando la disattivi, i giorni passati restano sul dispositivo per un massimo di 90 giorni, solo per il calcolo della serie; quando elimini l'app, anche questa informazione viene eliminata. Se è attivo, è inclusa nel backup iCloud del tuo iPhone insieme agli altri dati dell'app."
+          "La modalità giorni particolari, attivabile nei profili donna e bambina, e l'informazione sui giorni in cui era attiva sono conservate solo nell'archivio proprio dell'app, sul tuo dispositivo. Questa informazione non viene inviata a nessun server; non viene scritta nell'area condivisa letta dal widget della schermata Home, non compare nei testi delle notifiche e non viene registrata (non vengono tenuti log). Widget e notifiche sono uguali sia con la modalità attiva sia con la modalità disattivata. Quando la disattivi, i giorni passati restano sul dispositivo per al massimo 90 giorni, solo per il calcolo della serie; quando elimini l'app, anche questa informazione viene eliminata. Se attivo, il backup iCloud del tuo iPhone la include insieme agli altri dati dell'app."
         ]
       },
       {
         "h2": "Posizione",
         "p": [
-          "Se concedi il permesso di accesso alla posizione, la tua posizione viene usata sul tuo dispositivo per calcolare gli orari di preghiera e la direzione della Qibla. Se non concedi il permesso di accesso alla posizione, puoi scegliere la tua città dall'elenco.",
-          "Quando apri la schermata \"Moschee vicine\", la tua posizione viene arrotondata a circa 1 km (due cifre decimali) e inviata al servizio Overpass di OpenStreetMap per trovare le moschee vicine. Come per ogni richiesta via internet, anche il tuo indirizzo IP raggiunge questo servizio; non viene inviata nessun'altra informazione che ti identifichi. La città individuata dalla tua posizione viene memorizzata sul dispositivo con la stessa precisione, arrotondata a circa 1 km. Dati delle moschee © contributori di OpenStreetMap (ODbL). Se il servizio Overpass non è raggiungibile, la ricerca viene fatta con Apple Mappe sul tuo dispositivo; in quel caso la tua posizione, arrotondata allo stesso modo a due decimali (circa 1 km), va ad Apple ed è soggetta all'informativa sulla privacy di Apple. Muslimly non salva questa posizione; l'elenco delle moschee trovate resta solo nella memoria del tuo dispositivo per al massimo 30 minuti."
+          "Se concedi l'autorizzazione alla posizione, la tua posizione viene usata sul dispositivo per calcolare gli orari di preghiera e la direzione della Qibla. Se non la concedi, puoi scegliere la tua città dall'elenco.",
+          "Quando apri la schermata “Moschee vicine”, la tua posizione, arrotondata a circa 1 km (due cifre decimali), viene inviata al servizio OpenStreetMap Overpass per trovare le moschee vicine. Come per ogni richiesta internet, anche il tuo indirizzo IP arriva a questo servizio; a parte questo, non viene inviata alcuna informazione che ti identifichi. La città trovata tramite la posizione viene salvata sul dispositivo con la stessa precisione, arrotondata a circa 1 km. Dati delle moschee © collaboratori di OpenStreetMap (ODbL). Se il servizio Overpass non è raggiungibile, la ricerca viene effettuata con Mappe di Apple sul tuo dispositivo; in tal caso la tua posizione, arrotondata allo stesso modo a due cifre decimali (circa 1 km), viene inviata ad Apple ed è soggetta all'informativa sulla privacy di Apple. Muslimly non salva questa posizione; l'elenco delle moschee trovate viene conservato solo nella memoria del dispositivo per al massimo 30 minuti."
         ]
       },
       {
-        "h2": "Mappa e indicazioni (Apple Mappe)",
+        "h2": "Mappa e indicazioni stradali (Mappe di Apple)",
         "p": [
-          "Le mappe delle schermate \"Moschee vicine\" e \"Kaaba\" sono mostrate con Apple Mappe. Le immagini della mappa vengono caricate da Apple per l'area mostrata sullo schermo; se hai concesso il permesso di accesso alla posizione, sulla mappa viene mostrata anche la tua posizione. Questo servizio è soggetto all'informativa sulla privacy di Apple.",
-          "Quando tocchi il pulsante \"Indicazioni stradali\" di una moschea, Apple Mappe si apre con il nome e le coordinate della moschea; il percorso viene calcolato in Apple Mappe. Questo avviene solo quando tocchi il pulsante."
+          "Le mappe delle schermate “Moschee vicine” e “Kaaba” sono mostrate con Mappe di Apple. Le immagini della mappa per l'area visualizzata vengono caricate da Apple; se hai concesso l'autorizzazione alla posizione, anche la tua posizione viene mostrata sulla mappa. Questo servizio è soggetto all'informativa sulla privacy di Apple.",
+          "Quando tocchi il pulsante “Indicazioni stradali” di una moschea, si apre Mappe con il nome e le coordinate della moschea; il percorso viene calcolato in Mappe. Questo avviene solo quando tocchi tu."
         ]
       },
       {
-        "h2": "Audio del Corano",
+        "h2": "Fotocamera",
         "p": [
-          "L'audio dei versetti viene riprodotto dal servizio Islamic Network (cdn.islamic.network) oppure scaricato da esso sul tuo dispositivo. A ogni richiesta, questo servizio riceve: il tuo indirizzo IP, l'indirizzo del file richiesto (quale sura e quale versetto di quale recitatore si sta ascoltando) e l'identificativo standard del browser (User-Agent), che contiene le versioni dell'app e di iOS. Non viene inviata nessun'altra informazione. L'audio scaricato sul dispositivo si ascolta senza rete. I diritti d'autore delle registrazioni appartengono ai recitatori; la fonte e le condizioni d'uso si trovano nell'app, in Informazioni › Fonti e licenze."
+          "Se apri la schermata “Fotocamera della Qibla”, l'immagine della fotocamera viene mostrata solo sullo schermo, dietro la freccia della Qibla. L'immagine non viene salvata né elaborata e non lascia il tuo dispositivo. Se non concedi l'autorizzazione alla fotocamera, puoi comunque trovare la Qibla con la bussola e la mappa."
+        ]
+      },
+      {
+        "h2": "Audio del Corano e delle invocazioni",
+        "p": [
+          "Gli audio sono inclusi nell'app; per riprodurli non viene inviata alcuna richiesta a nessun servizio. Gli audio dei versetti che le versioni precedenti scaricavano da internet sul dispositivo vengono eliminati dal dispositivo al primo avvio dopo l'aggiornamento dell'app."
+        ]
+      },
+      {
+        "h2": "Lettura ad alta voce",
+        "p": [
+          "La lettura ad alta voce dei testi in turco e la lettura in arabo ad alta voce attivabile nelle Impostazioni (voce sintetica; non è una recitazione; disattivata per impostazione predefinita) avvengono sul tuo dispositivo con le voci di sintesi del tuo iPhone. Il testo letto non viene inviato a nessun servizio."
         ]
       },
       {
         "h2": "Condivisione",
         "p": [
-          "Quando tocchi il pulsante \"Condividi i miei progressi\", il riepilogo dei tuoi progressi (serie, obiettivo, numero di preghiere e di dhikr) si apre nel foglio di condivisione di iOS. Il testo arriva solo all'app o alla persona che scegli; Nur non condivide mai nulla di sua iniziativa."
+          "Quando tocchi il pulsante “Condividi i miei progressi”, il riepilogo dei tuoi progressi (serie, obiettivo, numero di preghiere e di dhikr) si apre nel menu di condivisione di iOS. Il testo va solo all'app o alla persona che scegli; Muslimly non condivide nulla di propria iniziativa."
+        ]
+      },
+      {
+        "h2": "Acquisti",
+        "p": [
+          "In questa versione di Muslimly non ci sono acquisti; il servizio indicato qui sotto non è attivo e non invia alcuna richiesta.",
+          "Se in futuro verrà offerto un abbonamento Premium facoltativo: acquisto e pagamento sono gestiti da Apple; Muslimly non vede i tuoi dati di pagamento. Per verificare se il tuo abbonamento è valido viene usato il servizio RevenueCat (RevenueCat, Inc.). A questo servizio vengono inviati un numero utente generato casualmente, non collegato al tuo nome né al tuo account Apple, la cronologia degli acquisti (prodotto, data, prezzo, valuta, paese) e le versioni dell'app e di iOS. Queste informazioni non vengono usate per pubblicità o tracciamento e non vengono condivise con terze parti a tale scopo. Informativa sulla privacy di RevenueCat: revenuecat.com/privacy.",
+          "Puoi gestire o annullare l'abbonamento dalle impostazioni del tuo account App Store; le richieste di rimborso si fanno tramite Apple."
         ]
       },
       {
         "h2": "Notifiche",
         "p": [
-          "Le notifiche degli orari di preghiera e i promemoria sono programmati localmente sul tuo dispositivo. Non vengono usate notifiche remote (push); per le notifiche non viene effettuata alcuna registrazione presso alcun server."
+          "Le notifiche degli orari di preghiera e i promemoria sono programmati localmente sul tuo dispositivo. Non vengono usate notifiche remote (push); per le notifiche non viene effettuata alcuna registrazione presso un server."
+        ]
+      },
+      {
+        "h2": "Widget, Attività in tempo reale, Siri e Full immersion",
+        "p": [
+          "I widget della schermata Home e della schermata di blocco, il conto alla rovescia dell'orario di preghiera nella schermata di blocco (Attività in tempo reale), le abbreviazioni di Siri e il filtro Full immersion funzionano sul tuo dispositivo; leggono le informazioni sugli orari dall'area condivisa dell'app sul dispositivo. Per questo non viene inviata alcuna richiesta a nessun server."
         ]
       },
       {
         "h2": "Bambini",
         "p": [
-          "Nur ha una modalità bambini. Poiché l'app non raccoglie dati personali da nessun utente, bambini compresi, non esiste nemmeno un trattamento di dati specifico per i bambini."
+          "Muslimly ha una modalità bambini. Poiché l'app non raccoglie dati personali da nessun utente, bambini compresi, non esiste nemmeno un trattamento di dati specifico per i bambini."
         ]
       },
       {
         "h2": "Modifiche",
         "p": [
-          "Se questa informativa cambia, la versione aggiornata sarà pubblicata su questa pagina con una nuova data di entrata in vigore."
+          "Se questa informativa cambia, la versione aggiornata viene pubblicata in questa pagina con una nuova data di entrata in vigore."
         ]
       }
     ],
     "iletisimBaslik": "Contatti",
     "iletisim": "Per domande:",
-    "iletisimKonu": "Privacy Nur",
-    "metaBaslik": "Informativa sulla privacy di Nur",
-    "metaAciklama": "Informativa sulla privacy dell'app Nur: nessun account, nessuna pubblicità né tracciamento, i dati restano sul tuo dispositivo."
+    "iletisimKonu": "Privacy Muslimly",
+    "metaBaslik": "Informativa sulla privacy di Muslimly",
+    "metaAciklama": "Informativa sulla privacy dell'app Muslimly: nessun account, niente pubblicità né tracciamento, i dati restano sul dispositivo."
   }
 }
