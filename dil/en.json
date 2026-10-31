@@ -57,7 +57,7 @@
     "h2": "Your privacy stays with you",
     "maddeler": [
       "No account, sign-in or server.",
-      "No ads, analytics or tracking.",
+      "No ads or tracking; only anonymous usage analytics (PostHog, EU servers) and crash reports.",
       "Your progress and settings stay only on your device.",
       "Your location is used on the device for prayer times and the Qibla; for the nearby mosque search only a version rounded to about 1 km is sent."
     ],
@@ -120,26 +120,28 @@
   "gizlilik": {
     "h1": "Privacy Policy",
     "tarih": "Effective date: 27 September 2026",
-    "giris": "This policy explains what information the Nur: Prayer Times & Qur'an app for iOS (“Nur”) uses and how. In short: Nur has no server and collects no personal data from you. Some features send requests to the third-party services listed one by one below in order to work.",
+    "giris": "This policy explains what information the Muslimly: Prayer Times & Qur'an app for iOS (“Muslimly”) uses and how. In short: Muslimly has no server and collects no personal data from you. Some features send requests to the third-party services listed one by one below in order to work.",
     "bolumler": [
       {
         "h2": "No account",
         "p": [
-          "To use Nur you don't need to create an account, sign in or provide details such as an email address or phone number. The app has no server."
+          "To use Muslimly you don't need to create an account, sign in or provide details such as an email address or phone number. The app has no server."
         ]
       },
       {
-        "h2": "No ads, analytics or tracking",
+        "h2": "No ads; crash reports and anonymous usage analytics",
         "p": [
-          "Nur shows no ads; it contains no analytics, crash reporting or tracking tools. It doesn't track you across apps and websites and doesn't access the advertising identifier."
+          "Muslimly shows no ads, doesn't track you across apps and websites and doesn't access the advertising identifier.",
+          "Since version 1.0.1, crash and performance reports (Sentry) and anonymous usage analytics about which screens are used (PostHog, EU servers) are collected to keep the app stable. This data is not linked to your identity: no account details, location, prayer/Qur'an progress or anything you type is sent; only the app version, device model, OS version, error details and anonymous events such as \"app opened\" and \"tab opened\" with a random anonymous ID. PostHog person profiles and IP-based location are turned off, and this collection is off in development builds. This data is not used for advertising or tracking.",
+          "In the App Store \"App Privacy\" section this data is declared as Crash Data, Performance Data and Product Interaction under \"Data Not Linked to You\"."
         ]
       },
       {
         "h2": "Your data stays on your device",
         "p": [
-          "The name you optionally enter, the city you choose, your settings, your prayer and task progress, your Qur'an reading progress and your bookmarks are stored only on your device. If it's on, this data is also included in your iPhone's iCloud backup; that backup belongs to your Apple account and cannot be read by Nur. Verse audio you download also stays on your device, but because it can be downloaded again it isn't backed up; iOS may delete it to free up space, and it's downloaded again when needed. If you turn on the home screen widget, a short summary (the next prayer, today's tasks) is written to the shared area on your device so the widget can show it.",
+          "The name you optionally enter, the city you choose, your settings, your prayer and task progress, your Qur'an reading progress and your bookmarks are stored only on your device. If it's on, this data is also included in your iPhone's iCloud backup; that backup belongs to your Apple account and cannot be read by Muslimly. Verse audio you download also stays on your device, but because it can be downloaded again it isn't backed up; iOS may delete it to free up space, and it's downloaded again when needed. If you turn on the home screen widget, a short summary (the next prayer, today's tasks) is written to the shared area on your device so the widget can show it.",
           "The profile you choose on first launch (child, adult man or adult woman; for a child, girl or boy) and your school are also stored only on your device; they're used for the prayer narration, the figure and the Asr time calculation, and are never sent anywhere.",
-          "When you delete the app, all Nur data on the device is deleted with it."
+          "When you delete the app, all Muslimly data on the device is deleted with it."
         ]
       },
       {
@@ -171,7 +173,7 @@
       {
         "h2": "Sharing",
         "p": [
-          "When you tap the “Share my progress” button, your progress summary (streak, goal, prayer and dhikr counts) opens in the iOS share sheet. The text goes only to the app or person you choose; Nur never shares anything on its own."
+          "When you tap the “Share my progress” button, your progress summary (streak, goal, prayer and dhikr counts) opens in the iOS share sheet. The text goes only to the app or person you choose; Muslimly never shares anything on its own."
         ]
       },
       {
@@ -183,7 +185,7 @@
       {
         "h2": "Children",
         "p": [
-          "Nur has a kids mode. Because the app collects no personal data from any user, including children, there is no data processing specific to children either."
+          "Muslimly has a kids mode. Because the app collects no personal data from any user, including children, there is no data processing specific to children either."
         ]
       },
       {
@@ -195,8 +197,8 @@
     ],
     "iletisimBaslik": "Contact",
     "iletisim": "For questions:",
-    "iletisimKonu": "Nur privacy",
-    "metaBaslik": "Nur Privacy Policy",
-    "metaAciklama": "Privacy policy of the Nur app: no account, no ads or tracking, data stays on your device."
+    "iletisimKonu": "Muslimly privacy",
+    "metaBaslik": "Muslimly Privacy Policy",
+    "metaAciklama": "Privacy policy of the Muslimly app: no account, no ads or tracking, data stays on your device."
   }
 }

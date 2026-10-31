@@ -57,7 +57,7 @@
     "h2": "Gizliliğin sende kalır",
     "maddeler": [
       "Hesap, giriş ya da sunucu yok.",
-      "Reklam, analitik ve izleme yok.",
+      "Reklam ve izleme yok; yalnız anonim kullanım ölçümü (PostHog, AB sunucuları) ve çökme raporu.",
       "İlerlemen ve ayarların cihazında durur; istersen kendi iCloud hesabınla eşitlenir (bize ulaşmaz).",
       "Konumun vakit ve kıble için cihazda kullanılır; yakın cami aramasında yalnız yaklaşık 1 km'ye yuvarlanmış hâli gönderilir."
     ],
