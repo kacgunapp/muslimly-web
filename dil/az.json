@@ -130,8 +130,8 @@
         "h2": "Reklam yoxdur; çökmə hesabatı və anonim istifadə ölçümü",
         "p": [
           "Muslimly reklam göstərmir, səni tətbiqlər və veb saytlar arasında izləmir, reklam identifikatoruna müraciət etmir.",
-          "1.0.1 versiyasından etibarən tətbiqin sabit işləməsi üçün çökmə və performans hesabatları (Sentry) və hansı ekranların istifadə edildiyinə dair anonim istifadə ölçümü (PostHog, AB serverləri) toplanır. Bu məlumatlar kimliyinlə əlaqələndirilmir; hesab məlumatı, məkan, namaz/Quran irəliləyişin və ya yazdığın heç bir məzmun göndərilmir; yalnız tətbiq versiyası, cihaz modeli, əməliyyat sistemi versiyası, xəta təfərrüatları və ekran adları gedir. İnkişaf yığımlarında bu toplama söndürülüb.",
-          "App Store-dakı “Tətbiq Məxfiliyi” bölməsində bu məlumatlar Çökmə Məlumatları, Performans Məlumatları və Məhsulla Qarşılıqlı Əlaqə kimi, “Səninlə Əlaqələndirilməyən Məlumatlar” başlığı altında bəyan edilir."
+          "1.0.1 versiyasından etibarən tətbiqin sabit işləməsi üçün çökmə və performans hesabatları (Sentry) və hansı ekranların istifadə edildiyinə dair anonim istifadə ölçümü (PostHog, AB serverləri) toplanır. Bu məlumatlar kimliyinlə əlaqələndirilmir; hesab məlumatı, məkan, namaz/Quran irəliləyişin və ya yazdığın heç bir məzmun göndərilmir; yalnız tətbiq versiyası, cihaz modeli, cihaz istehsalçısı, əməliyyat sistemi versiyası, cihaz dili, saat qurşağı, ekran ölçüsü, xəta təfərrüatları, ekran adları və cihazda təsadüfi yaradılan anonim quraşdırma nömrəsi (Apple-ın reklam identifikatoru IDFA və ya satıcı identifikatoru IDFV deyil) gedir. İnkişaf yığımlarında bu toplama söndürülüb.",
+          "App Store-dakı “Tətbiq Məxfiliyi” bölməsində bu məlumatlar Çökmə Məlumatları, Performans Məlumatları və Məhsulla Qarşılıqlı Əlaqə kimi; “Yaxın məscidlər” funksiyası üçün göndərilən, təxminən 1 km-ə yuvarlaqlaşdırılmış məkan da (OpenStreetMap Overpass xidmətinə, əlçatan olmadıqda Apple Xəritələrə) tətbiq funksionallığı məqsədilə Təxmini Məkan kimi bəyan edilir; hamısı “Səninlə Əlaqələndirilməyən Məlumatlar” başlığı altındadır."
         ]
       },
       {

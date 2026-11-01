@@ -130,8 +130,8 @@
         "h2": "Ingen reklam; kraschrapporter och anonym användningsmätning",
         "p": [
           "Muslimly visar ingen reklam, spårar dig inte mellan appar och webbplatser och har ingen åtkomst till reklam-id:t.",
-          "Från och med version 1.0.1 samlas, för att appen ska fungera stabilt, krasch- och prestandarapporter (Sentry) in samt anonym användningsmätning av vilka skärmar som används (PostHog, servrar i EU). Dessa data kopplas inte till din identitet; inga kontouppgifter, ingen plats, inga framsteg i bön eller Koranen och inget innehåll du har skrivit skickas; endast appversion, enhetsmodell, operativsystemversion, felinformation och skärmnamn skickas. I utvecklingsversioner är denna insamling avstängd.",
-          "I App Stores avsnitt ”Appintegritet” anges dessa data som Kraschdata, Prestandadata och Produktinteraktion under rubriken ”Data som inte är länkade till dig”."
+          "Från och med version 1.0.1 samlas, för att appen ska fungera stabilt, krasch- och prestandarapporter (Sentry) in samt anonym användningsmätning av vilka skärmar som används (PostHog, servrar i EU). Dessa data kopplas inte till din identitet; inga kontouppgifter, ingen plats, inga framsteg i bön eller Koranen och inget innehåll du har skrivit skickas; endast appversion, enhetsmodell, enhetstillverkare, operativsystemversion, enhetsspråk, tidszon, skärmstorlek, felinformation, skärmnamn och ett anonymt installationsnummer som genereras slumpmässigt på enheten (inte Apples annons-ID IDFA eller leverantörs-ID IDFV) skickas. I utvecklingsversioner är denna insamling avstängd.",
+          "I App Stores avsnitt ”Appintegritet” anges dessa data som Kraschdata, Prestandadata och Produktinteraktion; även platsen som skickas för funktionen ”Moskéer i närheten”, avrundad till cirka 1 km (till tjänsten OpenStreetMap Overpass eller, om den inte går att nå, till Apple Kartor), anges som Ungefärlig plats för appfunktionalitet; allt under rubriken ”Data som inte är länkade till dig”."
         ]
       },
       {

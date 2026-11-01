@@ -130,8 +130,8 @@
         "h2": "Reklam yok; çökme raporu ve anonim kullanım ölçümü",
         "p": [
           "Muslimly reklam göstermez, seni uygulamalar ve web siteleri arasında izlemez, reklam kimliğine erişmez.",
-          "1.0.1 sürümünden itibaren uygulamanın kararlı çalışması için çökme ve performans raporları (Sentry) ile hangi ekranların kullanıldığına dair anonim kullanım ölçümü (PostHog, AB sunucuları) toplanır. Bu veriler kimliğinle ilişkilendirilmez, hesap bilgisi, konum, namaz/Kur'an ilerlemen ya da yazdığın hiçbir içerik gönderilmez; yalnız uygulama sürümü, cihaz modeli, işletim sistemi sürümü, hata ayrıntıları ve ekran adları gider. Geliştirme derlemelerinde bu toplama kapalıdır.",
-          "App Store'daki \"Uygulama Gizliliği\" bölümünde bu veriler Çökme Verileri, Performans Verileri ve Ürün Etkileşimi olarak, \"Seninle İlişkilendirilmeyen Veriler\" başlığı altında beyan edilir."
+          "1.0.1 sürümünden itibaren uygulamanın kararlı çalışması için çökme ve performans raporları (Sentry) ile hangi ekranların kullanıldığına dair anonim kullanım ölçümü (PostHog, AB sunucuları) toplanır. Bu veriler kimliğinle ilişkilendirilmez, hesap bilgisi, konum, namaz/Kur'an ilerlemen ya da yazdığın hiçbir içerik gönderilmez; yalnız uygulama sürümü, cihaz modeli, cihaz üreticisi, işletim sistemi sürümü, cihaz dili, saat dilimi, ekran boyutu, hata ayrıntıları, ekran adları ve cihazda rastgele üretilen anonim bir kurulum numarası (Apple'ın reklam kimliği IDFA ya da satıcı kimliği IDFV değildir) gider. Geliştirme derlemelerinde bu toplama kapalıdır.",
+          "App Store'daki \"Uygulama Gizliliği\" bölümünde bu veriler Çökme Verileri, Performans Verileri ve Ürün Etkileşimi olarak; \"Yakın camiler\" özelliği için gönderilen, yaklaşık 1 km'ye yuvarlanmış konum da (OpenStreetMap Overpass hizmetine, ulaşılamazsa Apple Haritalar'a) uygulama işlevi amacıyla Yaklaşık Konum olarak beyan edilir; hepsi \"Seninle İlişkilendirilmeyen Veriler\" başlığı altındadır."
         ]
       },
       {

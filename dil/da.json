@@ -130,8 +130,8 @@
         "h2": "Ingen reklamer; nedbrudsrapporter og anonym brugsmåling",
         "p": [
           "Muslimly viser ingen reklamer, sporer dig ikke på tværs af apps og websteder og har ikke adgang til reklame-id'et.",
-          "Fra version 1.0.1 indsamles der, for at appen kan køre stabilt, nedbruds- og ydeevnerapporter (Sentry) samt anonym brugsmåling af, hvilke skærme der bruges (PostHog, servere i EU). Disse data knyttes ikke til din identitet; der sendes ingen kontooplysninger, ingen placering, ingen fremskridt i bøn eller Koranen og intet indhold, du har skrevet; der sendes kun appversion, enhedsmodel, styresystemversion, fejldetaljer og skærmnavne. I udviklingsbuilds er denne indsamling slået fra.",
-          "I App Stores afsnit “Anonymitet i app” er disse data angivet som Nedbrudsdata, Ydeevnedata og Produktinteraktion under overskriften “Data, der ikke er knyttet til dig”."
+          "Fra version 1.0.1 indsamles der, for at appen kan køre stabilt, nedbruds- og ydeevnerapporter (Sentry) samt anonym brugsmåling af, hvilke skærme der bruges (PostHog, servere i EU). Disse data knyttes ikke til din identitet; der sendes ingen kontooplysninger, ingen placering, ingen fremskridt i bøn eller Koranen og intet indhold, du har skrevet; der sendes kun appversion, enhedsmodel, enhedsproducent, styresystemversion, enhedssprog, tidszone, skærmstørrelse, fejldetaljer, skærmnavne og et anonymt installationsnummer, der genereres tilfældigt på enheden (ikke Apples reklame-id IDFA eller leverandør-id IDFV). I udviklingsbuilds er denne indsamling slået fra.",
+          "I App Stores afsnit “Anonymitet i app” er disse data angivet som Nedbrudsdata, Ydeevnedata og Produktinteraktion; også placeringen, der sendes til funktionen “Moskéer i nærheden”, afrundet til ca. 1 km (til tjenesten OpenStreetMap Overpass eller, hvis den ikke kan nås, til Apple Kort), er angivet som Omtrentlig placering med formålet appfunktionalitet; alt sammen under overskriften “Data, der ikke er knyttet til dig”."
         ]
       },
       {

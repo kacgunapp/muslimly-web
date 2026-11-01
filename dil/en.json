@@ -130,8 +130,8 @@
         "h2": "No ads; crash reports and anonymous usage measurement",
         "p": [
           "Muslimly shows no ads, does not track you across apps and websites, and does not access the advertising identifier.",
-          "Starting with version 1.0.1, to keep the app running reliably, crash and performance reports (Sentry) and anonymous usage measurement of which screens are used (PostHog, EU servers) are collected. This data is not linked to your identity; no account information, location, prayer or Qur'an progress, or anything you have written is sent; only the app version, device model, operating system version, error details and screen names are sent. This collection is turned off in development builds.",
-          "In the “App Privacy” section on the App Store, this data is declared as Crash Data, Performance Data and Product Interaction, under the heading “Data Not Linked to You”."
+          "Starting with version 1.0.1, to keep the app running reliably, crash and performance reports (Sentry) and anonymous usage measurement of which screens are used (PostHog, EU servers) are collected. This data is not linked to your identity; no account information, location, prayer or Qur'an progress, or anything you have written is sent; only the app version, device model, device manufacturer, operating system version, device language, time zone, screen size, error details, screen names and an anonymous installation number randomly generated on the device (not Apple's advertising identifier IDFA or the identifier for vendors IDFV) are sent. This collection is turned off in development builds.",
+          "In the “App Privacy” section on the App Store, this data is declared as Crash Data, Performance Data and Product Interaction; the location sent for the “Nearby mosques” feature, rounded to about 1 km (to the OpenStreetMap Overpass service, or to Apple Maps if it cannot be reached), is also declared as Coarse Location for the purpose of App Functionality; all of it under the heading “Data Not Linked to You”."
         ]
       },
       {
