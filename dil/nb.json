@@ -131,7 +131,7 @@
         "p": [
           "Muslimly viser ingen reklame, sporer deg ikke på tvers av apper og nettsteder og har ikke tilgang til reklame-ID-en.",
           "Fra og med versjon 1.0.1 samles det, for at appen skal kjøre stabilt, inn krasj- og ytelsesrapporter (Sentry) og anonym bruksmåling av hvilke skjermer som brukes (PostHog, servere i EU). Disse dataene knyttes ikke til identiteten din; ingen kontoopplysninger, ingen posisjon, ingen fremgang i bønn eller Koranen og ikke noe innhold du har skrevet, sendes; bare appversjon, enhetsmodell, enhetsprodusent, operativsystemversjon, enhetsspråk, tidssone, skjermstørrelse, feildetaljer, skjermnavn og et anonymt installasjonsnummer som genereres tilfeldig på enheten (ikke Apples reklame-ID IDFA eller leverandør-ID IDFV), sendes. I utviklingsversjoner er denne innsamlingen slått av.",
-          "I App Store-delen «Personvern i appen» er disse dataene oppgitt som Krasjdata, Ytelsesdata og Produktinteraksjon; også posisjonen som sendes for funksjonen «Moskeer i nærheten», avrundet til omtrent 1 km (til tjenesten OpenStreetMap Overpass eller, hvis den ikke kan nås, til Apple Kart), er oppgitt som Omtrentlig posisjon for appfunksjonalitet; alt under overskriften «Data som ikke er koblet til deg»."
+          "I App Store-delen «Personvern i appen» er disse dataene oppgitt som Krasjdata, Ytelsesdata og Produktinteraksjon; også posisjonen som sendes for funksjonen «Moskeer i nærheten», avrundet til omtrent 1 km (til tjenesten OpenStreetMap Overpass eller, hvis den ikke kan nås, til Apple Kart), er oppgitt som Omtrentlig plassering for appfunksjonalitet; alt under overskriften «Data som ikke knyttes til deg»."
         ]
       },
       {

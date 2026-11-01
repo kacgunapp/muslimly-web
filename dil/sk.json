@@ -131,7 +131,7 @@
         "p": [
           "Muslimly nezobrazuje reklamy, nesleduje ťa naprieč aplikáciami a webovými stránkami a nepristupuje k reklamnému identifikátoru.",
           "Od verzie 1.0.1 sa kvôli stabilnému chodu aplikácie zhromažďujú hlásenia o pádoch a výkone (Sentry) a anonymné meranie toho, ktoré obrazovky sa používajú (PostHog, servery v EÚ). Tieto údaje sa nespájajú s tvojou identitou; neodosielajú sa údaje o účte, poloha, tvoj pokrok v modlitbe a Koráne ani nič, čo napíšeš; odchádza len verzia aplikácie, model zariadenia, výrobca zariadenia, verzia operačného systému, jazyk zariadenia, časové pásmo, veľkosť obrazovky, podrobnosti o chybách, názvy obrazoviek a anonymné číslo inštalácie náhodne vygenerované v zariadení (nie je to reklamný identifikátor Apple IDFA ani identifikátor dodávateľa IDFV). Vo vývojových zostaveniach je tento zber vypnutý.",
-          "V sekcii „Súkromie v aplikácii“ v App Store sú tieto údaje uvedené ako Údaje o zlyhaniach, Údaje o výkone a Interakcia s produktom; poloha zaokrúhlená približne na 1 km, ktorá sa odosiela pre funkciu „Mešity v okolí“ (službe OpenStreetMap Overpass, a ak nie je dostupná, Mapám Apple), je na účel funkčnosti aplikácie uvedená ako Približná poloha; všetko v kategórii „Údaje, ktoré nie sú prepojené s vami“."
+          "V sekcii „Súkromie v aplikácii“ v App Store sú tieto údaje uvedené ako Údaje o chybách, Údaje o výkonnosti a Interakcia s produktom; poloha zaokrúhlená približne na 1 km, ktorá sa odosiela pre funkciu „Mešity v okolí“ (službe OpenStreetMap Overpass, a ak nie je dostupná, Mapám Apple), je na účel funkčnosti aplikácie uvedená ako Približná poloha; všetko v kategórii „Údaje, ktoré s vami nie sú prepojené“."
         ]
       },
       {
