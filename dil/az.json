@@ -131,7 +131,7 @@
         "p": [
           "Muslimly reklam göstərmir, səni tətbiqlər və veb saytlar arasında izləmir, reklam identifikatoruna müraciət etmir.",
           "1.0.1 versiyasından etibarən tətbiqin sabit işləməsi üçün çökmə və performans hesabatları (Sentry) və hansı ekranların istifadə edildiyinə dair anonim istifadə ölçümü (PostHog, AB serverləri) toplanır. Bu məlumatlar kimliyinlə əlaqələndirilmir; hesab məlumatı, məkan, namaz/Quran irəliləyişin və ya yazdığın heç bir məzmun göndərilmir; yalnız tətbiq versiyası, cihaz modeli, cihaz istehsalçısı, əməliyyat sistemi versiyası, cihaz dili, saat qurşağı, ekran ölçüsü, xəta təfərrüatları, ekran adları və cihazda təsadüfi yaradılan anonim quraşdırma nömrəsi (Apple-ın reklam identifikatoru IDFA və ya satıcı identifikatoru IDFV deyil) gedir. İnkişaf yığımlarında bu toplama söndürülüb.",
-          "App Store-dakı “Tətbiq Məxfiliyi” bölməsində bu məlumatlar Çökmə Məlumatları, Performans Məlumatları və Məhsulla Qarşılıqlı Əlaqə kimi; “Yaxın məscidlər” funksiyası üçün göndərilən, təxminən 1 km-ə yuvarlaqlaşdırılmış məkan da (OpenStreetMap Overpass xidmətinə, əlçatan olmadıqda Apple Xəritələrə) tətbiq funksionallığı məqsədilə Təxmini Məkan kimi bəyan edilir; hamısı “Səninlə Əlaqələndirilməyən Məlumatlar” başlığı altındadır."
+          "App Store-dakı “Tətbiq Məxfiliyi” bölməsində bu məlumatlar Çökmə Məlumatları, Performans Məlumatları və Məhsulla Qarşılıqlı Əlaqə kimi; “Yaxın məscidlər” funksiyası üçün göndərilən, təxminən 1 km-ə yuvarlaqlaşdırılmış məkan da (OpenStreetMap Overpass xidmətinə, əlçatan olmadıqda Apple Xəritələrə) tətbiq funksionallığı məqsədilə Təxmini Məkan kimi bəyan edilir; hamısı “Səninlə Əlaqələndirilməyən Məlumatlar” başlığı altındadır. Eyni başlıq altında yuxarıda qeyd olunan anonim quraşdırma nömrəsi də tətbiqin funksionallığı və analitika məqsədilə Cihaz ID-si kimi bəyan edilir."
         ]
       },
       {
@@ -146,7 +146,7 @@
         "h2": "iCloud ilə sinxronlaşdırma (istəyə bağlı)",
         "p": [
           "Ayarlarda “iCloud ilə sinxronlaşdır” seçimini açsan (standart olaraq bağlıdır), irəliləyişin və ayarların Apple-ın iCloud açar-dəyər anbarı vasitəsilə öz iCloud hesabına yazılır və eyni hesabdakı digər cihazlarınla sinxronlaşdırılır. Bu məlumat Apple hesabında qalır; Muslimly-nin serveri olmadığı üçün bizə çatmır və biz onu görə bilmirik. Bu xidmət Apple-ın məxfilik siyasətinə tabedir.",
-          "Xüsusi gün rejimi məlumatı, satın alma vəziyyəti, vidcet icazəsi və tətbiq nişanı seçimi iCloud-a yazılmır; yalnız cihazında qalır. Seçimi bağladıqda sinxronlaşdırma dayanır."
+          "Xüsusi gün rejimi məlumatı, satın alma vəziyyəti, vidcet icazəsi və tətbiq nişanı seçimi iCloud-a yazılmır; yalnız cihazında qalır. Seçimi bağladıqda sinxronlaşdırma dayanır. 1.0.2 versiyasından etibarən qeydləriniz iCloud-a yazılmır; əvvəlki versiyanın iCloud qeydində qalan qeydləri təsdiq etdikdən sonra tətbiqdəki “iCloud-dakı qeydləri sil” düyməsi ilə silə bilərsiniz. Sinxronizasiya açıqdırsa, əlfəcinləriniz yalnız öz iCloud hesabınızda qalır."
         ]
       },
       {

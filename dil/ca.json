@@ -131,7 +131,7 @@
         "p": [
           "Muslimly no mostra anuncis, no et segueix entre apps i llocs web i no accedeix a l'identificador publicitari.",
           "A partir de la versió 1.0.1, perquè l'app funcioni de manera estable, es recullen informes d'errors i de rendiment (Sentry) i una mesura anònima de l'ús sobre quines pantalles es fan servir (PostHog, servidors a la UE). Aquestes dades no es vinculen a la teva identitat; no s'envien dades del compte, la ubicació, el teu progrés en la pregària o l'Alcorà ni cap contingut que hagis escrit; només s'envien la versió de l'app, el model del dispositiu, el fabricant del dispositiu, la versió del sistema operatiu, l'idioma del dispositiu, la zona horària, la mida de la pantalla, els detalls dels errors, els noms de les pantalles i un número d'instal·lació anònim generat aleatòriament al dispositiu (no és l'identificador publicitari IDFA ni l'identificador per al proveïdor IDFV d'Apple). En les compilacions de desenvolupament aquesta recollida està desactivada.",
-          "A la secció «Privacitat de l'app» de l'App Store, aquestes dades es declaren com a Dades d’error, Dades de rendiment i Interacció amb el producte; la ubicació enviada per a la funció «Mesquites properes», arrodonida a 1 km aproximadament (al servei OpenStreetMap Overpass o, si no s'hi pot accedir, a Mapes d'Apple), també es declara com a Ubicació aproximada amb la finalitat de funcionalitat de l'app; tot plegat sota l'apartat «Dades no vinculades a tu»."
+          "A la secció «Privacitat de l'app» de l'App Store, aquestes dades es declaren com a Dades d’error, Dades de rendiment i Interacció amb el producte; la ubicació enviada per a la funció «Mesquites properes», arrodonida a 1 km aproximadament (al servei OpenStreetMap Overpass o, si no s'hi pot accedir, a Mapes d'Apple), també es declara com a Ubicació aproximada amb la finalitat de funcionalitat de l'app; tot plegat sota l'apartat «Dades no vinculades a tu». Sota el mateix títol, el número d'instal·lació anònim esmentat més amunt també es declara com a ID del dispositiu per a la funcionalitat de l'app i l'analítica."
         ]
       },
       {
@@ -146,7 +146,7 @@
         "h2": "Sincronització amb l'iCloud (opcional)",
         "p": [
           "Si actives a Configuració l'opció «Sincronitza amb l'iCloud» (desactivada per defecte), el teu progrés i la teva configuració s'escriuen al teu propi compte d'iCloud mitjançant l'emmagatzematge de clau-valor d'iCloud d'Apple i se sincronitzen amb els altres dispositius del mateix compte. Aquestes dades es queden al teu compte d'Apple; com que Muslimly no té servidor, no ens arriben i no les podem veure. Aquest servei està subjecte a la política de privacitat d'Apple.",
-          "La informació del mode de dies especials, l'estat de les compres, el permís del widget i la icona triada per a l'app no s'escriuen a l'iCloud; es queden només al teu dispositiu. Quan desactives l'opció, la sincronització s'atura."
+          "La informació del mode de dies especials, l'estat de les compres, el permís del widget i la icona triada per a l'app no s'escriuen a l'iCloud; es queden només al teu dispositiu. Quan desactives l'opció, la sincronització s'atura. Des de la versió 1.0.2 les teves notes no s'escriuen a iCloud; les notes que una versió anterior va deixar al teu registre d'iCloud es poden suprimir, després de confirmar, amb el botó «Elimina les notes de l'iCloud» de l'app. Si la sincronització està activada, els teus marcadors es queden només al teu compte d'iCloud."
         ]
       },
       {

@@ -131,7 +131,7 @@
         "p": [
           "Muslimly reklam göstermez, seni uygulamalar ve web siteleri arasında izlemez, reklam kimliğine erişmez.",
           "1.0.1 sürümünden itibaren uygulamanın kararlı çalışması için çökme ve performans raporları (Sentry) ile hangi ekranların kullanıldığına dair anonim kullanım ölçümü (PostHog, AB sunucuları) toplanır. Bu veriler kimliğinle ilişkilendirilmez, hesap bilgisi, konum, namaz/Kur'an ilerlemen ya da yazdığın hiçbir içerik gönderilmez; yalnız uygulama sürümü, cihaz modeli, cihaz üreticisi, işletim sistemi sürümü, cihaz dili, saat dilimi, ekran boyutu, hata ayrıntıları, ekran adları ve cihazda rastgele üretilen anonim bir kurulum numarası (Apple'ın reklam kimliği IDFA ya da satıcı kimliği IDFV değildir) gider. Geliştirme derlemelerinde bu toplama kapalıdır.",
-          "App Store'daki \"Uygulama Gizliliği\" bölümünde bu veriler Çökme Verileri, Performans Verileri ve Ürün Etkileşimi olarak; \"Yakın camiler\" özelliği için gönderilen, yaklaşık 1 km'ye yuvarlanmış konum da (OpenStreetMap Overpass hizmetine, ulaşılamazsa Apple Haritalar'a) uygulama işlevi amacıyla Yaklaşık Konum olarak beyan edilir; hepsi \"Seninle İlişkilendirilmeyen Veriler\" başlığı altındadır."
+          "App Store'daki \"Uygulama Gizliliği\" bölümünde bu veriler Çökme Verileri, Performans Verileri ve Ürün Etkileşimi olarak; \"Yakın camiler\" özelliği için gönderilen, yaklaşık 1 km'ye yuvarlanmış konum da (OpenStreetMap Overpass hizmetine, ulaşılamazsa Apple Haritalar'a) uygulama işlevi amacıyla Yaklaşık Konum olarak beyan edilir; hepsi \"Seninle İlişkilendirilmeyen Veriler\" başlığı altındadır. Aynı başlık altında, yukarıdaki anonim kurulum numarası da uygulama işlevi ve analiz amacıyla Aygıt Kimliği olarak beyan edilir."
         ]
       },
       {
@@ -146,7 +146,7 @@
         "h2": "iCloud ile eşitleme (isteğe bağlı)",
         "p": [
           "Ayarlar'da “iCloud ile eşitle” seçeneğini açarsan (varsayılan kapalıdır) ilerlemen ve ayarların, Apple'ın iCloud anahtar-değer deposu aracılığıyla kendi iCloud hesabına yazılır ve aynı hesaptaki diğer cihazlarınla eşitlenir. Bu veri Apple hesabında durur; Muslimly'nin sunucusu olmadığı için bize ulaşmaz ve biz göremeyiz. Bu hizmet Apple'ın gizlilik politikasına tabidir.",
-          "Özel gün modu bilgisi, satın alma durumu, widget izni ve uygulama ikonu seçimi iCloud'a yazılmaz; yalnız cihazında kalır. Seçeneği kapattığında eşitleme durur."
+          "Özel gün modu bilgisi, satın alma durumu, widget izni ve uygulama ikonu seçimi iCloud'a yazılmaz; yalnız cihazında kalır. Seçeneği kapattığında eşitleme durur. 1.0.2 sürümünden itibaren notların iCloud'a yazılmaz; önceki sürümün iCloud kaydında kalan notları uygulamadaki “iCloud'daki notları sil” düğmesiyle, onaylayarak silebilirsin. Yer imlerin, eşitleme açıksa yalnız kendi iCloud hesabında durur."
         ]
       },
       {

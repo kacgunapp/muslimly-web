@@ -131,7 +131,7 @@
         "p": [
           "Muslimly nu afișează reclame, nu te urmărește între aplicații și site-uri web și nu accesează identificatorul de publicitate.",
           "Începând cu versiunea 1.0.1, pentru funcționarea stabilă a aplicației se colectează rapoarte de blocare și de performanță (Sentry) și o măsurare anonimă a utilizării privind ecranele folosite (PostHog, servere în UE). Aceste date nu sunt asociate cu identitatea ta; nu se trimit informații de cont, locația, progresul tău la rugăciune sau Coran ori vreun conținut scris de tine; se trimit doar versiunea aplicației, modelul dispozitivului, producătorul dispozitivului, versiunea sistemului de operare, limba dispozitivului, fusul orar, dimensiunea ecranului, detaliile erorilor, numele ecranelor și un număr de instalare anonim generat aleatoriu pe dispozitiv (nu este identificatorul de publicitate IDFA sau identificatorul pentru furnizor IDFV al Apple). În versiunile de dezvoltare această colectare este dezactivată.",
-          "În secțiunea „Confidențialitatea aplicației” din App Store, aceste date sunt declarate ca Date despre disfuncționalități, Date de performanță și Interacțiuni cu produse; locația trimisă pentru funcția „Moschei din apropiere”, rotunjită la aproximativ 1 km (către serviciul OpenStreetMap Overpass sau, dacă acesta nu este accesibil, către Apple Maps), este declarată de asemenea ca Localizare aproximativă, în scopul funcționalității aplicației; toate sub titlul „Date care nu sunt asociate cu dvs.”."
+          "În secțiunea „Confidențialitatea aplicației” din App Store, aceste date sunt declarate ca Date despre disfuncționalități, Date de performanță și Interacțiuni cu produse; locația trimisă pentru funcția „Moschei din apropiere”, rotunjită la aproximativ 1 km (către serviciul OpenStreetMap Overpass sau, dacă acesta nu este accesibil, către Apple Maps), este declarată de asemenea ca Localizare aproximativă, în scopul funcționalității aplicației; toate sub titlul „Date care nu sunt asociate cu dvs.”. Sub același titlu, numărul de instalare anonim menționat mai sus este declarat și ca ID dispozitiv pentru funcționalitatea aplicației și analiză."
         ]
       },
       {
@@ -146,7 +146,7 @@
         "h2": "Sincronizare cu iCloud (opțională)",
         "p": [
           "Dacă activezi în Setări opțiunea „Sincronizează cu iCloud” (implicit dezactivată), progresul și setările tale sunt scrise în propriul tău cont iCloud prin depozitul cheie-valoare iCloud al Apple și sincronizate cu celelalte dispozitive din același cont. Aceste date rămân în contul tău Apple; deoarece Muslimly nu are server, ele nu ajung la noi și nu le putem vedea. Acest serviciu este supus politicii de confidențialitate a Apple.",
-          "Informațiile despre modul „Zile speciale”, starea achizițiilor, permisiunea widgetului și pictograma aleasă pentru aplicație nu sunt scrise în iCloud; rămân doar pe dispozitivul tău. Când dezactivezi opțiunea, sincronizarea se oprește."
+          "Informațiile despre modul „Zile speciale”, starea achizițiilor, permisiunea widgetului și pictograma aleasă pentru aplicație nu sunt scrise în iCloud; rămân doar pe dispozitivul tău. Când dezactivezi opțiunea, sincronizarea se oprește. Începând cu versiunea 1.0.2, notițele tale nu sunt scrise în iCloud; notițele lăsate de o versiune anterioară în înregistrarea ta iCloud pot fi șterse, după confirmare, cu butonul „Șterge notițele din iCloud” din aplicație. Dacă sincronizarea este activă, marcajele tale rămân doar în propriul tău cont iCloud."
         ]
       },
       {

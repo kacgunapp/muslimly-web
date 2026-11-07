@@ -131,7 +131,7 @@
         "p": [
           "O Muslimly não mostra anúncios, não te rastreia entre apps e sites e não acede ao identificador de publicidade.",
           "A partir da versão 1.0.1, para que a app funcione de forma estável, são recolhidos relatórios de falhas e de desempenho (Sentry) e uma medição de utilização anónima sobre os ecrãs utilizados (PostHog, servidores na UE). Estes dados não são associados à tua identidade; não são enviados dados de conta, localização, progresso de oração ou do Alcorão nem qualquer conteúdo que tenhas escrito; só são enviados a versão da app, o modelo do dispositivo, o fabricante do dispositivo, a versão do sistema operativo, o idioma do dispositivo, o fuso horário, o tamanho do ecrã, os detalhes dos erros, os nomes dos ecrãs e um número de instalação anónimo gerado aleatoriamente no dispositivo (não é o identificador de publicidade IDFA nem o identificador do fornecedor IDFV da Apple). Nas compilações de desenvolvimento esta recolha está desativada.",
-          "Na secção “Privacidade da app” da App Store, estes dados são declarados como Dados de falhas, Dados de desempenho e Interações com o produto; a localização enviada para a funcionalidade “Mesquitas próximas”, arredondada a cerca de 1 km (ao serviço OpenStreetMap Overpass ou, se este não estiver acessível, ao Mapas da Apple), também é declarada como Localização aproximada para fins de funcionalidade da app; tudo isto sob o título “Dados não associados a si”."
+          "Na secção “Privacidade da app” da App Store, estes dados são declarados como Dados de falhas, Dados de desempenho e Interações com o produto; a localização enviada para a funcionalidade “Mesquitas próximas”, arredondada a cerca de 1 km (ao serviço OpenStreetMap Overpass ou, se este não estiver acessível, ao Mapas da Apple), também é declarada como Localização aproximada para fins de funcionalidade da app; tudo isto sob o título “Dados não associados a si”. Sob o mesmo título, o número de instalação anónimo referido acima é também declarado como ID do dispositivo para Funcionalidade da app e Análise."
         ]
       },
       {
@@ -146,7 +146,7 @@
         "h2": "Sincronização com o iCloud (opcional)",
         "p": [
           "Se ativares a opção “Sincronizar com o iCloud” nas Definições (desativada por predefinição), o teu progresso e as tuas definições são escritos na tua própria conta iCloud através do armazenamento de chave-valor iCloud da Apple e sincronizados com os teus outros dispositivos na mesma conta. Estes dados ficam na tua Conta Apple; como o Muslimly não tem servidor, não chegam até nós e não os podemos ver. Este serviço está sujeito à política de privacidade da Apple.",
-          "As informações do modo dias especiais, o estado das compras, a permissão do widget e a escolha do ícone da app não são escritos no iCloud; ficam apenas no teu dispositivo. Quando desativas a opção, a sincronização para."
+          "As informações do modo dias especiais, o estado das compras, a permissão do widget e a escolha do ícone da app não são escritos no iCloud; ficam apenas no teu dispositivo. Quando desativas a opção, a sincronização para. A partir da versão 1.0.2, as tuas notas não são escritas no iCloud; as notas que uma versão anterior deixou no teu registo do iCloud podem ser apagadas, após confirmação, com o botão “Apagar as notas do iCloud” na app. Se a sincronização estiver ativa, os teus marcadores ficam apenas na tua própria conta iCloud."
         ]
       },
       {

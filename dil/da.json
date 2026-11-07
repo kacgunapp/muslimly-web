@@ -131,7 +131,7 @@
         "p": [
           "Muslimly viser ingen reklamer, sporer dig ikke på tværs af apps og websteder og har ikke adgang til reklame-id'et.",
           "Fra version 1.0.1 indsamles der, for at appen kan køre stabilt, nedbruds- og ydeevnerapporter (Sentry) samt anonym brugsmåling af, hvilke skærme der bruges (PostHog, servere i EU). Disse data knyttes ikke til din identitet; der sendes ingen kontooplysninger, ingen placering, ingen fremskridt i bøn eller Koranen og intet indhold, du har skrevet; der sendes kun appversion, enhedsmodel, enhedsproducent, styresystemversion, enhedssprog, tidszone, skærmstørrelse, fejldetaljer, skærmnavne og et anonymt installationsnummer, der genereres tilfældigt på enheden (ikke Apples reklame-id IDFA eller leverandør-id IDFV). I udviklingsbuilds er denne indsamling slået fra.",
-          "I App Stores afsnit “Anonymitet i app” er disse data angivet som Nedbrudsdata, Ydeevnedata og Interaktion med produkter; også placeringen, der sendes til funktionen “Moskéer i nærheden”, afrundet til ca. 1 km (til tjenesten OpenStreetMap Overpass eller, hvis den ikke kan nås, til Apple Kort), er angivet som Omtrentlig lokalitet med formålet appfunktionalitet; alt sammen under overskriften “Data, der ikke er tilknyttet dig”."
+          "I App Stores afsnit “Anonymitet i app” er disse data angivet som Nedbrudsdata, Ydeevnedata og Interaktion med produkter; også placeringen, der sendes til funktionen “Moskéer i nærheden”, afrundet til ca. 1 km (til tjenesten OpenStreetMap Overpass eller, hvis den ikke kan nås, til Apple Kort), er angivet som Omtrentlig lokalitet med formålet appfunktionalitet; alt sammen under overskriften “Data, der ikke er tilknyttet dig”. Under samme overskrift angives det ovennævnte anonyme installationsnummer også som enheds-id til appfunktionalitet og analyse."
         ]
       },
       {
@@ -146,7 +146,7 @@
         "h2": "Synkronisering med iCloud (valgfrit)",
         "p": [
           "Hvis du slår “Synkroniser med iCloud” til under Indstillinger (som standard slået fra), skrives dine fremskridt og indstillinger til din egen iCloud-konto via Apples iCloud-nøgleværdilager og synkroniseres med dine andre enheder på samme konto. Disse data ligger på din Apple-konto; da Muslimly ikke har nogen server, når de ikke frem til os, og vi kan ikke se dem. Denne tjeneste er underlagt Apples privatlivspolitik.",
-          "Oplysninger om tilstanden særlige dage, købsstatus, widgettilladelse og valg af appikon skrives ikke til iCloud; de bliver kun på din enhed. Når du slår indstillingen fra, stopper synkroniseringen."
+          "Oplysninger om tilstanden særlige dage, købsstatus, widgettilladelse og valg af appikon skrives ikke til iCloud; de bliver kun på din enhed. Når du slår indstillingen fra, stopper synkroniseringen. Fra version 1.0.2 skrives dine noter ikke til iCloud; noter, som en tidligere version har efterladt i din iCloud-post, kan du slette efter bekræftelse med knappen “Slet noter i iCloud” i appen. Er synkronisering slået til, bliver dine bogmærker kun på din egen iCloud-konto."
         ]
       },
       {

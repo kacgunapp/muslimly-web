@@ -131,7 +131,7 @@
         "p": [
           "Muslimly visar ingen reklam, spårar dig inte mellan appar och webbplatser och har ingen åtkomst till reklam-id:t.",
           "Från och med version 1.0.1 samlas, för att appen ska fungera stabilt, krasch- och prestandarapporter (Sentry) in samt anonym användningsmätning av vilka skärmar som används (PostHog, servrar i EU). Dessa data kopplas inte till din identitet; inga kontouppgifter, ingen plats, inga framsteg i bön eller Koranen och inget innehåll du har skrivit skickas; endast appversion, enhetsmodell, enhetstillverkare, operativsystemversion, enhetsspråk, tidszon, skärmstorlek, felinformation, skärmnamn och ett anonymt installationsnummer som genereras slumpmässigt på enheten (inte Apples annons-ID IDFA eller leverantörs-ID IDFV) skickas. I utvecklingsversioner är denna insamling avstängd.",
-          "I App Stores avsnitt ”Appintegritet” anges dessa data som Kraschdata, Prestandadata och Produktinteraktion; även platsen som skickas för funktionen ”Moskéer i närheten”, avrundad till cirka 1 km (till tjänsten OpenStreetMap Overpass eller, om den inte går att nå, till Apple Kartor), anges som Ungefärlig plats för appfunktionalitet; allt under rubriken ”Data som inte kopplas till dig”."
+          "I App Stores avsnitt ”Appintegritet” anges dessa data som Kraschdata, Prestandadata och Produktinteraktion; även platsen som skickas för funktionen ”Moskéer i närheten”, avrundad till cirka 1 km (till tjänsten OpenStreetMap Overpass eller, om den inte går att nå, till Apple Kartor), anges som Ungefärlig plats för appfunktionalitet; allt under rubriken ”Data som inte kopplas till dig”. Under samma rubrik anges även det anonyma installationsnumret ovan som enhets-ID för appfunktioner och analys."
         ]
       },
       {
@@ -146,7 +146,7 @@
         "h2": "Synkning med iCloud (valfritt)",
         "p": [
           "Om du slår på ”Synka med iCloud” under Inställningar (avstängt som standard) skrivs dina framsteg och inställningar till ditt eget iCloud-konto via Apples iCloud-lagring för nyckel och värde och synkas med dina andra enheter på samma konto. Dessa data finns på ditt Apple-konto; eftersom Muslimly inte har någon server når de inte oss och vi kan inte se dem. Tjänsten omfattas av Apples integritetspolicy.",
-          "Information om läget för särskilda dagar, köpstatus, widgetbehörighet och val av appsymbol skrivs inte till iCloud; den stannar endast på din enhet. När du stänger av alternativet upphör synkningen."
+          "Information om läget för särskilda dagar, köpstatus, widgetbehörighet och val av appsymbol skrivs inte till iCloud; den stannar endast på din enhet. När du stänger av alternativet upphör synkningen. Från version 1.0.2 skrivs dina anteckningar inte till iCloud; anteckningar som en tidigare version lämnat i din iCloud-post kan du radera, efter bekräftelse, med knappen ”Radera anteckningar i iCloud” i appen. Om synkronisering är på finns dina bokmärken bara kvar på ditt eget iCloud-konto."
         ]
       },
       {

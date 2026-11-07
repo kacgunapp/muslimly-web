@@ -131,7 +131,7 @@
         "p": [
           "A Muslimly nem jelenít meg reklámot, nem követ téged alkalmazásokon és webhelyeken át, és nem fér hozzá a hirdetési azonosítóhoz.",
           "Az 1.0.1-es verziótól kezdve az alkalmazás stabil működése érdekében összeomlási és teljesítményjelentéseket (Sentry), valamint névtelen használatmérést gyűjtünk arról, mely képernyőket használják (PostHog, EU-s szerverek). Ezek az adatok nincsenek a személyazonosságodhoz kapcsolva; nem kerül elküldésre fiókadat, helyzet, az imával és a Koránnal kapcsolatos haladásod, sem bármi, amit beírsz; csak az alkalmazás verziója, az eszköz típusa, az eszköz gyártója, az operációs rendszer verziója, az eszköz nyelve, az időzóna, a képernyőméret, a hibák részletei, a képernyők neve és egy, az eszközön véletlenszerűen létrehozott névtelen telepítési szám (ez nem az Apple IDFA hirdetési azonosítója, és nem is az IDFV fejlesztői azonosító) megy el. A fejlesztői buildekben ez az adatgyűjtés ki van kapcsolva.",
-          "Az App Store „Alkalmazás adatvédelme” részében ezek az adatok Összeomlási adatok, Teljesítményadatok és Termék-interakció néven szerepelnek; a „Közeli mecsetek” funkcióhoz elküldött, nagyjából 1 km-re kerekített helyzet (az OpenStreetMap Overpass szolgáltatásnak, ha az nem érhető el, az Apple Térképnek) pedig az alkalmazás funkcionalitása céljából Hozzávetőleges helyzet néven; mindegyik az „Önhöz nem társított adatok” cím alatt."
+          "Az App Store „Alkalmazás adatvédelme” részében ezek az adatok Összeomlási adatok, Teljesítményadatok és Termék-interakció néven szerepelnek; a „Közeli mecsetek” funkcióhoz elküldött, nagyjából 1 km-re kerekített helyzet (az OpenStreetMap Overpass szolgáltatásnak, ha az nem érhető el, az Apple Térképnek) pedig az alkalmazás funkcionalitása céljából Hozzávetőleges helyzet néven; mindegyik az „Önhöz nem társított adatok” cím alatt. Ugyanezen cím alatt a fent említett névtelen telepítési szám eszközazonosítóként is szerepel az alkalmazásfunkciók és az elemzés céljából."
         ]
       },
       {
@@ -146,7 +146,7 @@
         "h2": "Szinkronizálás iClouddal (választható)",
         "p": [
           "Ha a beállításokban bekapcsolod a „Szinkronizálás iClouddal” lehetőséget (alapértelmezés szerint ki van kapcsolva), a haladásod és a beállításaid az Apple iCloud kulcs-érték tárolóján keresztül a saját iCloud-fiókodba íródnak, és szinkronizálódnak az ugyanahhoz a fiókhoz tartozó többi eszközöddel. Ezek az adatok az Apple-fiókodban maradnak; mivel a Muslimly alkalmazásnak nincs szervere, hozzánk nem jutnak el, és nem látjuk őket. Erre a szolgáltatásra az Apple adatvédelmi szabályzata vonatkozik.",
-          "A különleges napok mód adatai, a vásárlási állapot, a widget-engedély és az alkalmazásikon választása nem íródik az iCloudba; csak az eszközödön marad. Ha kikapcsolod a lehetőséget, a szinkronizálás leáll."
+          "A különleges napok mód adatai, a vásárlási állapot, a widget-engedély és az alkalmazásikon választása nem íródik az iCloudba; csak az eszközödön marad. Ha kikapcsolod a lehetőséget, a szinkronizálás leáll. Az 1.0.2-es verziótól a jegyzeteid nem kerülnek az iCloudba; egy korábbi verzió által az iCloud-rekordodban hagyott jegyzeteket megerősítés után az alkalmazás „Jegyzetek törlése az iCloudból” gombjával törölheted. Ha a szinkronizálás be van kapcsolva, a könyvjelzőid csak a saját iCloud-fiókodban maradnak."
         ]
       },
       {

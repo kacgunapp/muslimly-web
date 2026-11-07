@@ -131,7 +131,7 @@
         "p": [
           "Muslimly tidak memaparkan iklan, tidak menjejak anda merentas aplikasi dan laman web, dan tidak mengakses pengecam pengiklanan.",
           "Mulai versi 1.0.1, supaya aplikasi berjalan dengan stabil, laporan ranap dan prestasi (Sentry) serta pengukuran penggunaan tanpa nama tentang skrin yang digunakan (PostHog, pelayan di EU) dikumpulkan. Data ini tidak dikaitkan dengan identiti anda; tiada maklumat akaun, lokasi, kemajuan solat/al-Quran atau sebarang kandungan yang anda tulis dihantar; yang dihantar hanyalah versi aplikasi, model peranti, pengeluar peranti, versi sistem pengendalian, bahasa peranti, zon waktu, saiz skrin, butiran ralat, nama skrin dan nombor pemasangan tanpa nama yang dijana secara rawak pada peranti (bukan pengecam pengiklanan Apple IDFA atau pengecam vendor IDFV). Dalam binaan pembangunan, pengumpulan ini dimatikan.",
-          "Dalam bahagian “Privasi App” di App Store, data ini diisytiharkan sebagai Data Ranap, Data Prestasi dan Interaksi Produk; lokasi yang dibundarkan kira-kira 1 km dan dihantar untuk ciri “Masjid berdekatan” (ke perkhidmatan OpenStreetMap Overpass, atau ke Apple Maps jika tidak dapat dicapai) juga diisytiharkan sebagai Lokasi Kasar bagi tujuan Kefungsian Aplikasi; semuanya di bawah tajuk “Data Tidak Dipautkan kepada Anda”."
+          "Dalam bahagian “Privasi App” di App Store, data ini diisytiharkan sebagai Data Ranap, Data Prestasi dan Interaksi Produk; lokasi yang dibundarkan kira-kira 1 km dan dihantar untuk ciri “Masjid berdekatan” (ke perkhidmatan OpenStreetMap Overpass, atau ke Apple Maps jika tidak dapat dicapai) juga diisytiharkan sebagai Lokasi Kasar bagi tujuan Kefungsian Aplikasi; semuanya di bawah tajuk “Data Tidak Dipautkan kepada Anda”. Di bawah tajuk yang sama, nombor pemasangan tanpa nama yang disebut di atas juga diisytiharkan sebagai ID Peranti untuk Kefungsian Aplikasi dan Analitis."
         ]
       },
       {
@@ -146,7 +146,7 @@
         "h2": "Penyelarasan dengan iCloud (pilihan)",
         "p": [
           "Jika anda menghidupkan pilihan “Selaraskan dengan iCloud” dalam Tetapan (dimatikan secara lalai), kemajuan dan tetapan anda ditulis ke akaun iCloud anda sendiri melalui stor nilai kunci iCloud milik Apple, dan diselaraskan dengan peranti anda yang lain dalam akaun yang sama. Data ini kekal dalam akaun Apple anda; kerana Muslimly tidak mempunyai pelayan, ia tidak sampai kepada kami dan kami tidak dapat melihatnya. Perkhidmatan ini tertakluk kepada dasar privasi Apple.",
-          "Maklumat mod hari uzur, status pembelian, kebenaran widget dan pilihan ikon aplikasi tidak ditulis ke iCloud; semuanya kekal dalam peranti anda sahaja. Apabila pilihan ini dimatikan, penyelarasan berhenti."
+          "Maklumat mod hari uzur, status pembelian, kebenaran widget dan pilihan ikon aplikasi tidak ditulis ke iCloud; semuanya kekal dalam peranti anda sahaja. Apabila pilihan ini dimatikan, penyelarasan berhenti. Mulai versi 1.0.2 nota anda tidak ditulis ke iCloud; nota yang ditinggalkan versi terdahulu dalam rekod iCloud anda boleh dipadam, selepas anda mengesahkan, dengan butang “Padam nota dalam iCloud” dalam aplikasi. Jika penyegerakan aktif, penanda buku anda hanya kekal dalam akaun iCloud anda sendiri."
         ]
       },
       {

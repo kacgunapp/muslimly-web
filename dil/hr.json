@@ -131,7 +131,7 @@
         "p": [
           "Muslimly ne prikazuje oglase, ne prati te kroz aplikacije i web-stranice i ne pristupa oglašivačkom identifikatoru.",
           "Od verzije 1.0.1 radi stabilnog rada aplikacije prikupljaju se izvješća o rušenju i performansama (Sentry) te anonimno mjerenje toga koji se zasloni koriste (PostHog, poslužitelji u EU-u). Ti se podaci ne povezuju s tvojim identitetom; ne šalju se podaci o računu, lokacija, tvoj napredak u namazu i Kur'anu ni bilo kakav sadržaj koji napišeš; šalju se samo verzija aplikacije, model uređaja, proizvođač uređaja, verzija operativnog sustava, jezik uređaja, vremenska zona, veličina zaslona, pojedinosti o pogreškama, nazivi zaslona i anonimni broj instalacije nasumično generiran na uređaju (to nije Appleov oglašivački identifikator IDFA ni identifikator dobavljača IDFV). U razvojnim verzijama to je prikupljanje isključeno.",
-          "U odjeljku „Privatnost aplikacije” u App Storeu ti su podaci navedeni kao Podaci o padovima sustava, Podaci o izvedbi i Interakcija s proizvodima; lokacija zaokružena na otprilike 1 km koja se šalje za značajku „Obližnje džamije” (usluzi OpenStreetMap Overpass, a ako ona nije dostupna, Apple Kartama) navedena je u svrhu funkcionalnosti aplikacije kao Neprecizna lokacija; sve to pod naslovom „Podaci koji se ne povezuju s vama”."
+          "U odjeljku „Privatnost aplikacije” u App Storeu ti su podaci navedeni kao Podaci o padovima sustava, Podaci o izvedbi i Interakcija s proizvodima; lokacija zaokružena na otprilike 1 km koja se šalje za značajku „Obližnje džamije” (usluzi OpenStreetMap Overpass, a ako ona nije dostupna, Apple Kartama) navedena je u svrhu funkcionalnosti aplikacije kao Neprecizna lokacija; sve to pod naslovom „Podaci koji se ne povezuju s vama”. Pod istim naslovom gore navedeni anonimni broj instalacije također se prijavljuje kao ID uređaja za funkcionalnost aplikacije i analitiku."
         ]
       },
       {
@@ -146,7 +146,7 @@
         "h2": "Sinkronizacija s iCloudom (neobavezna)",
         "p": [
           "Ako u postavkama uključiš opciju „Sinkroniziraj s iCloudom” (zadano isključeno), tvoj napredak i postavke zapisuju se u tvoj vlastiti račun iCloud putem Appleove pohrane ključ-vrijednost iCloud i sinkroniziraju s tvojim drugim uređajima na istom računu. Ti podaci ostaju na tvojem Apple računu; budući da Muslimly nema poslužitelj, ne dolaze do nas i ne možemo ih vidjeti. Na tu se uslugu primjenjuju Appleova pravila o privatnosti.",
-          "Podaci o načinu posebnih dana, stanje kupnji, dopuštenje za widget i odabir ikone aplikacije ne zapisuju se u iCloud; ostaju samo na uređaju. Kad isključiš opciju, sinkronizacija prestaje."
+          "Podaci o načinu posebnih dana, stanje kupnji, dopuštenje za widget i odabir ikone aplikacije ne zapisuju se u iCloud; ostaju samo na uređaju. Kad isključiš opciju, sinkronizacija prestaje. Od verzije 1.0.2 tvoje se bilješke ne zapisuju u iCloud; bilješke koje je ranija verzija ostavila u tvom iCloud zapisu možeš nakon potvrde izbrisati gumbom „Izbriši bilješke s iClouda” u aplikaciji. Ako je sinkronizacija uključena, tvoje oznake ostaju samo na tvom iCloud računu."
         ]
       },
       {

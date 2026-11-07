@@ -131,7 +131,7 @@
         "p": [
           "Muslimly nezobrazuje reklamy, nesleduje tě napříč aplikacemi a webovými stránkami a nepřistupuje k reklamnímu identifikátoru.",
           "Od verze 1.0.1 se kvůli stabilnímu chodu aplikace shromažďují hlášení pádů a výkonu (Sentry) a anonymní měření toho, které obrazovky se používají (PostHog, servery v EU). Tato data se nespojují s tvou identitou; neodesílají se údaje o účtu, poloha, tvůj pokrok v modlitbě a Koránu ani nic, co napíšeš; odchází jen verze aplikace, model zařízení, výrobce zařízení, verze operačního systému, jazyk zařízení, časové pásmo, velikost obrazovky, podrobnosti o chybách, názvy obrazovek a anonymní instalační číslo náhodně vygenerované v zařízení (nejde o reklamní identifikátor IDFA ani identifikátor dodavatele IDFV od Applu). Ve vývojových sestaveních je tento sběr vypnutý.",
-          "V sekci „Soukromí v aplikaci“ v App Storu jsou tato data uvedena jako Údaje o selhání, Údaje o výkonu a Interakce s produktem; také poloha odesílaná pro funkci „Mešity v okolí“, zaokrouhlená přibližně na 1 km (službě OpenStreetMap Overpass, a pokud není dostupná, Mapám Apple), je uvedena jako Přibližná poloha za účelem funkčnosti aplikace; vše v kategorii „Údaje nespojené s vámi“."
+          "V sekci „Soukromí v aplikaci“ v App Storu jsou tato data uvedena jako Údaje o selhání, Údaje o výkonu a Interakce s produktem; také poloha odesílaná pro funkci „Mešity v okolí“, zaokrouhlená přibližně na 1 km (službě OpenStreetMap Overpass, a pokud není dostupná, Mapám Apple), je uvedena jako Přibližná poloha za účelem funkčnosti aplikace; vše v kategorii „Údaje nespojené s vámi“. Pod stejným nadpisem je výše uvedené anonymní instalační číslo uvedeno také jako ID zařízení pro funkčnost aplikace a analýzu."
         ]
       },
       {
@@ -146,7 +146,7 @@
         "h2": "Synchronizace přes iCloud (volitelná)",
         "p": [
           "Pokud v nastavení zapneš volbu „Synchronizovat s iCloudem“ (ve výchozím stavu vypnutá), tvůj pokrok a nastavení se zapisují do tvého vlastního účtu iCloud prostřednictvím úložiště klíč-hodnota iCloud od Applu a synchronizují se s tvými dalšími zařízeními se stejným účtem. Tato data zůstávají v tvém účtu Apple; protože Muslimly nemá server, nedostanou se k nám a nevidíme je. Tato služba podléhá zásadám ochrany soukromí Applu.",
-          "Informace o režimu zvláštních dnů, stav nákupů, oprávnění widgetu a volba ikony aplikace se do iCloudu nezapisují; zůstávají jen v zařízení. Když volbu vypneš, synchronizace se zastaví."
+          "Informace o režimu zvláštních dnů, stav nákupů, oprávnění widgetu a volba ikony aplikace se do iCloudu nezapisují; zůstávají jen v zařízení. Když volbu vypneš, synchronizace se zastaví. Od verze 1.0.2 se tvé poznámky nezapisují do iCloudu; poznámky, které v tvém záznamu iCloud zanechala dřívější verze, můžeš po potvrzení smazat tlačítkem „Smazat poznámky v iCloudu“ v aplikaci. Je-li synchronizace zapnutá, tvé záložky zůstávají jen na tvém vlastním účtu iCloud."
         ]
       },
       {

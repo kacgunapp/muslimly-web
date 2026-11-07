@@ -131,7 +131,7 @@
         "p": [
           "Muslimly shows no ads, does not track you across apps and websites, and does not access the advertising identifier.",
           "Starting with version 1.0.1, to keep the app running reliably, crash and performance reports (Sentry) and anonymous usage measurement of which screens are used (PostHog, EU servers) are collected. This data is not linked to your identity; no account information, location, prayer or Qur'an progress, or anything you have written is sent; only the app version, device model, device manufacturer, operating system version, device language, time zone, screen size, error details, screen names and an anonymous installation number randomly generated on the device (not Apple's advertising identifier IDFA or the identifier for vendors IDFV) are sent. This collection is turned off in development builds.",
-          "In the “App Privacy” section on the App Store, this data is declared as Crash Data, Performance Data and Product Interaction; the location sent for the “Nearby mosques” feature, rounded to about 1 km (to the OpenStreetMap Overpass service, or to Apple Maps if it cannot be reached), is also declared as Coarse Location for the purpose of App Functionality; all of it under the heading “Data Not Linked to You”."
+          "In the “App Privacy” section on the App Store, this data is declared as Crash Data, Performance Data and Product Interaction; the location sent for the “Nearby mosques” feature, rounded to about 1 km (to the OpenStreetMap Overpass service, or to Apple Maps if it cannot be reached), is also declared as Coarse Location for the purpose of App Functionality; all of it under the heading “Data Not Linked to You”. Under the same heading, the anonymous install number mentioned above is also declared as Device ID for App Functionality and Analytics."
         ]
       },
       {
@@ -146,7 +146,7 @@
         "h2": "Sync with iCloud (optional)",
         "p": [
           "If you turn on the “Sync with iCloud” option in Settings (it is off by default), your progress and settings are written to your own iCloud account through Apple's iCloud key-value store and synced with your other devices on the same account. This data stays in your Apple account; since Muslimly has no server, it does not reach us and we cannot see it. This service is subject to Apple's privacy policy.",
-          "Special days mode information, purchase status, widget permission and the app icon choice are not written to iCloud; they stay only on your device. When you turn the option off, syncing stops."
+          "Special days mode information, purchase status, widget permission and the app icon choice are not written to iCloud; they stay only on your device. When you turn the option off, syncing stops. From version 1.0.2 your notes are not written to iCloud; notes an earlier version left in your iCloud record can be deleted, after you confirm, with the “Delete notes in iCloud” button in the app. If sync is on, your bookmarks stay only in your own iCloud account."
         ]
       },
       {
