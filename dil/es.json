@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Política de privacidad",
-    "tarih": "Fecha de entrada en vigor: 22 de octubre de 2026",
+    "tarih": "Fecha de entrada en vigor: 9 de noviembre de 2026",
     "giris": "Esta política explica qué información usa la app para iOS Muslimly: Oración y Corán (“Muslimly”) y cómo. En resumen: Muslimly no tiene servidor y no recopila datos personales tuyos. Para funcionar, algunas funciones envían solicitudes a los servicios de terceros que se indican uno por uno a continuación.",
     "bolumler": [
       {
@@ -197,7 +197,7 @@
         "h2": "Compras",
         "p": [
           "Muslimly ofrece una suscripción Premium opcional y una compra única de por vida.",
-          "La compra y el pago los procesa Apple; Muslimly no ve tus datos de pago. Para comprobar si tu suscripción es válida se usa el servicio RevenueCat (RevenueCat, Inc.). A este servicio se envían un número de usuario generado aleatoriamente, no vinculado a tu nombre ni a tu cuenta de Apple, el historial de compras (producto, fecha, precio, moneda, país) y las versiones de la app y de iOS. Esta información no se usa para publicidad ni rastreo y no se comparte con terceros con ese fin. Política de privacidad de RevenueCat: revenuecat.com/privacy.",
+          "La compra y el pago los procesa Apple; Muslimly no ve tus datos de pago. Para comprobar si tu suscripción es válida se usa el servicio RevenueCat (RevenueCat, Inc.). A este servicio se envían un número de usuario generado aleatoriamente, no vinculado a tu nombre ni a tu cuenta de Apple, el historial de compras (producto, fecha, precio, moneda, país) y las versiones de la app y de iOS. RevenueCat también recibe el identificador de proveedor (IDFV); no es un identificador publicitario y no se usa para rastreo. Esta información no se usa para publicidad ni rastreo y no se comparte con terceros con ese fin. Política de privacidad de RevenueCat: revenuecat.com/privacy.",
           "Puedes gestionar o cancelar tu suscripción en los ajustes de tu cuenta del App Store; las solicitudes de reembolso se hacen a través de Apple."
         ]
       },

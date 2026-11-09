@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Privatlivspolitik",
-    "tarih": "Ikrafttrædelsesdato: 22. oktober 2026",
+    "tarih": "Ikrafttrædelsesdato: 9. november 2026",
     "giris": "Denne politik forklarer, hvilke oplysninger appen Muslimly: Bønnetider & Koran til iOS (“Muslimly”) bruger, og hvordan. Kort sagt: Muslimly har ingen server og indsamler ingen personoplysninger om dig. Nogle funktioner sender for at virke forespørgsler til de tredjepartstjenester, der er nævnt én for én nedenfor.",
     "bolumler": [
       {
@@ -197,7 +197,7 @@
         "h2": "Køb",
         "p": [
           "Muslimly tilbyder et valgfrit Premium-abonnement og et engangskøb for livstid.",
-          "Køb og betaling håndteres af Apple; Muslimly ser ikke dine betalingsoplysninger. For at bekræfte, om dit abonnement er gyldigt, bruges tjenesten RevenueCat (RevenueCat, Inc.). Til denne tjeneste sendes et tilfældigt genereret brugernummer, som ikke er knyttet til dit navn eller dit Apple-id, købshistorik (produkt, dato, pris, valuta, land) samt versionen af appen og iOS. Disse oplysninger bruges ikke til reklamer eller sporing og deles ikke med tredjeparter til det formål. RevenueCats privatlivspolitik: revenuecat.com/privacy.",
+          "Køb og betaling håndteres af Apple; Muslimly ser ikke dine betalingsoplysninger. For at bekræfte, om dit abonnement er gyldigt, bruges tjenesten RevenueCat (RevenueCat, Inc.). Til denne tjeneste sendes et tilfældigt genereret brugernummer, som ikke er knyttet til dit navn eller dit Apple-id, købshistorik (produkt, dato, pris, valuta, land) samt versionen af appen og iOS. RevenueCat modtager også leverandør-id'et (IDFV); det er ikke et reklame-id og bruges ikke til sporing. Disse oplysninger bruges ikke til reklamer eller sporing og deles ikke med tredjeparter til det formål. RevenueCats privatlivspolitik: revenuecat.com/privacy.",
           "Du kan administrere eller opsige dit abonnement i kontoindstillingerne i App Store; anmodninger om refusion sker via Apple."
         ]
       },

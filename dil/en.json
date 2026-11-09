@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Privacy Policy",
-    "tarih": "Effective date: 22 October 2026",
+    "tarih": "Effective date: 9 November 2026",
     "giris": "This policy explains what information the Muslimly: Prayer Times & Quran app for iOS (“Muslimly”) uses and how. In short: Muslimly has no server and does not collect personal data from you. To work, some features send requests to the third-party services listed one by one below.",
     "bolumler": [
       {
@@ -197,7 +197,7 @@
         "h2": "Purchases",
         "p": [
           "Muslimly offers an optional Premium subscription and a one-time lifetime purchase.",
-          "Purchases and payment are processed by Apple; Muslimly does not see your payment information. The RevenueCat (RevenueCat, Inc.) service is used to verify whether your subscription is valid. This service receives a randomly generated user number that is not linked to your name or Apple Account, your purchase history (product, date, price, currency, country) and the versions of the app and of iOS. This information is not used for advertising or tracking and is not shared with third parties for that purpose. RevenueCat's privacy policy: revenuecat.com/privacy.",
+          "Purchases and payment are processed by Apple; Muslimly does not see your payment information. The RevenueCat (RevenueCat, Inc.) service is used to verify whether your subscription is valid. This service receives a randomly generated user number that is not linked to your name or Apple Account, your purchase history (product, date, price, currency, country) and the versions of the app and of iOS. RevenueCat also receives the identifier for vendors (IDFV); this is not an advertising identifier and is not used for tracking. This information is not used for advertising or tracking and is not shared with third parties for that purpose. RevenueCat's privacy policy: revenuecat.com/privacy.",
           "You can manage or cancel your subscription in your App Store account settings; refund requests are made through Apple."
         ]
       },

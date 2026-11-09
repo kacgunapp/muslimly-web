@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Integritetspolicy",
-    "tarih": "Gäller från: 22 oktober 2026",
+    "tarih": "Gäller från: 9 november 2026",
     "giris": "Den här policyn förklarar vilken information appen Muslimly: Bönetider & Koranen för iOS (”Muslimly”) använder och hur. Kort sagt: Muslimly har ingen server och samlar inte in personuppgifter om dig. Vissa funktioner skickar, för att fungera, förfrågningar till de tredjepartstjänster som räknas upp en och en nedan.",
     "bolumler": [
       {
@@ -197,7 +197,7 @@
         "h2": "Köp",
         "p": [
           "Muslimly erbjuder ett valfritt Premium-abonnemang och ett engångsköp för livstid.",
-          "Köp och betalning hanteras av Apple; Muslimly ser inte dina betalningsuppgifter. För att kontrollera om ditt abonnemang är giltigt används tjänsten RevenueCat (RevenueCat, Inc.). Till tjänsten skickas ett slumpmässigt genererat användarnummer, som inte kopplas till ditt namn eller ditt Apple-ID, köphistorik (produkt, datum, pris, valuta, land) samt versionen av appen och iOS. Denna information används inte för reklam eller spårning och delas inte med tredje part i det syftet. RevenueCats integritetspolicy: revenuecat.com/privacy.",
+          "Köp och betalning hanteras av Apple; Muslimly ser inte dina betalningsuppgifter. För att kontrollera om ditt abonnemang är giltigt används tjänsten RevenueCat (RevenueCat, Inc.). Till tjänsten skickas ett slumpmässigt genererat användarnummer, som inte kopplas till ditt namn eller ditt Apple-ID, köphistorik (produkt, datum, pris, valuta, land) samt versionen av appen och iOS. RevenueCat tar också emot leverantörs-ID:t (IDFV); det är inte ett annons-ID och används inte för spårning. Denna information används inte för reklam eller spårning och delas inte med tredje part i det syftet. RevenueCats integritetspolicy: revenuecat.com/privacy.",
           "Du kan hantera eller säga upp ditt abonnemang i kontoinställningarna i App Store; begäran om återbetalning görs via Apple."
         ]
       },

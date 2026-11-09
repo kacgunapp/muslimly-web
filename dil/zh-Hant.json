@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "隱私權政策",
-    "tarih": "生效日期：2026 年 10 月 22 日",
+    "tarih": "生效日期：2026 年 11 月 9 日",
     "giris": "本政策說明 iOS App Muslimly: 禮拜時間與古蘭經（「Muslimly」）使用哪些資訊以及如何使用。簡單來說：Muslimly 沒有伺服器，也不會向你收集個人資料。部分功能為了運作，會向下文逐一列出的第三方服務傳送請求。",
     "bolumler": [
       {
@@ -197,7 +197,7 @@
         "h2": "購買",
         "p": [
           "Muslimly 提供選用的 Premium 訂閱和一次性終身購買。",
-          "購買和付款由 Apple 處理；Muslimly 看不到付款資訊。為了確認你的訂閱是否有效，會使用 RevenueCat（RevenueCat, Inc.）服務。傳送給該服務的是一個隨機產生、不與你的姓名或 Apple 帳號連結的使用者編號、購買紀錄（產品、日期、價格、幣別、國家）以及 App 和 iOS 的版本。這些資訊不會用於廣告或追蹤，也不會為此目的與第三方分享。RevenueCat 隱私權政策：revenuecat.com/privacy。",
+          "購買和付款由 Apple 處理；Muslimly 看不到付款資訊。為了確認你的訂閱是否有效，會使用 RevenueCat（RevenueCat, Inc.）服務。傳送給該服務的是一個隨機產生、不與你的姓名或 Apple 帳號連結的使用者編號、購買紀錄（產品、日期、價格、幣別、國家）以及 App 和 iOS 的版本。RevenueCat 也會收到供應商識別碼（IDFV）；它不是廣告識別碼，也不會用於追蹤。這些資訊不會用於廣告或追蹤，也不會為此目的與第三方分享。RevenueCat 隱私權政策：revenuecat.com/privacy。",
           "你可以在 App Store 帳號設定中管理或取消訂閱；退款申請透過 Apple 提出。"
         ]
       },

@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Datenschutzerklärung",
-    "tarih": "Gültig ab: 22. Oktober 2026",
+    "tarih": "Gültig ab: 9. November 2026",
     "giris": "Diese Erklärung beschreibt, welche Informationen die iOS-App Muslimly: Gebetszeiten & Koran („Muslimly“) verwendet und wie. Kurz gesagt: Muslimly hat keinen Server und erhebt keine personenbezogenen Daten von dir. Einige Funktionen senden für ihren Betrieb Anfragen an die unten einzeln aufgeführten Dienste Dritter.",
     "bolumler": [
       {
@@ -197,7 +197,7 @@
         "h2": "Käufe",
         "p": [
           "Muslimly bietet ein optionales Premium-Abo und einen einmaligen lebenslangen Kauf an.",
-          "Kauf und Zahlung werden von Apple abgewickelt; Muslimly sieht deine Zahlungsdaten nicht. Um zu prüfen, ob dein Abo gültig ist, wird der Dienst RevenueCat (RevenueCat, Inc.) verwendet. An diesen Dienst gehen eine zufällig erzeugte Nutzernummer, die nicht mit deinem Namen oder deinem Apple Account verknüpft ist, der Kaufverlauf (Produkt, Datum, Preis, Währung, Land) sowie die Versionen der App und von iOS. Diese Informationen werden nicht für Werbung oder Tracking verwendet und nicht zu diesem Zweck an Dritte weitergegeben. Datenschutzrichtlinie von RevenueCat: revenuecat.com/privacy.",
+          "Kauf und Zahlung werden von Apple abgewickelt; Muslimly sieht deine Zahlungsdaten nicht. Um zu prüfen, ob dein Abo gültig ist, wird der Dienst RevenueCat (RevenueCat, Inc.) verwendet. An diesen Dienst gehen eine zufällig erzeugte Nutzernummer, die nicht mit deinem Namen oder deinem Apple Account verknüpft ist, der Kaufverlauf (Produkt, Datum, Preis, Währung, Land) sowie die Versionen der App und von iOS. RevenueCat erhält außerdem die Anbieter-ID (IDFV); sie ist keine Werbe-ID und wird nicht für Tracking verwendet. Diese Informationen werden nicht für Werbung oder Tracking verwendet und nicht zu diesem Zweck an Dritte weitergegeben. Datenschutzrichtlinie von RevenueCat: revenuecat.com/privacy.",
           "Du kannst dein Abo in den Einstellungen deines App-Store-Kontos verwalten oder kündigen; Erstattungsanträge laufen über Apple."
         ]
       },

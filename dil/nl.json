@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Privacybeleid",
-    "tarih": "Ingangsdatum: 22 oktober 2026",
+    "tarih": "Ingangsdatum: 9 november 2026",
     "giris": "Dit beleid legt uit welke informatie de iOS-app Muslimly: Gebedstijden & Koran („Muslimly”) gebruikt en hoe. Kort gezegd: Muslimly heeft geen server en verzamelt geen persoonsgegevens van je. Om te werken sturen sommige functies verzoeken naar de hieronder één voor één genoemde diensten van derden.",
     "bolumler": [
       {
@@ -197,7 +197,7 @@
         "h2": "Aankopen",
         "p": [
           "Muslimly biedt een optioneel Premium-abonnement en een eenmalige levenslange aankoop.",
-          "Aankoop en betaling worden door Apple verwerkt; Muslimly ziet je betaalgegevens niet. Om te controleren of je abonnement geldig is, wordt de dienst RevenueCat (RevenueCat, Inc.) gebruikt. Naar deze dienst gaan een willekeurig gegenereerd gebruikersnummer dat niet aan je naam of je Apple Account is gekoppeld, de aankoopgeschiedenis (product, datum, prijs, valuta, land) en de versies van de app en van iOS. Deze informatie wordt niet gebruikt voor advertenties of tracking en niet met dat doel met derden gedeeld. Privacybeleid van RevenueCat: revenuecat.com/privacy.",
+          "Aankoop en betaling worden door Apple verwerkt; Muslimly ziet je betaalgegevens niet. Om te controleren of je abonnement geldig is, wordt de dienst RevenueCat (RevenueCat, Inc.) gebruikt. Naar deze dienst gaan een willekeurig gegenereerd gebruikersnummer dat niet aan je naam of je Apple Account is gekoppeld, de aankoopgeschiedenis (product, datum, prijs, valuta, land) en de versies van de app en van iOS. RevenueCat ontvangt ook de leveranciers-ID (IDFV); dit is geen advertentie-ID en wordt niet gebruikt voor tracking. Deze informatie wordt niet gebruikt voor advertenties of tracking en niet met dat doel met derden gedeeld. Privacybeleid van RevenueCat: revenuecat.com/privacy.",
           "Je kunt je abonnement beheren of opzeggen in de instellingen van je App Store-account; terugbetalingsverzoeken lopen via Apple."
         ]
       },

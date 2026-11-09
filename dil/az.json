@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Məxfilik Siyasəti",
-    "tarih": "Qüvvəyə minmə tarixi: 22 oktyabr 2026",
+    "tarih": "Qüvvəyə minmə tarixi: 9 noyabr 2026",
     "giris": "Bu siyasət iOS üçün Muslimly: Namaz vaxtı, Quran tətbiqinin (“Muslimly”) hansı məlumatları necə istifadə etdiyini izah edir. Qısaca: Muslimly-nin serveri yoxdur və səndən şəxsi məlumat toplamır. Bəzi funksiyalar işləmək üçün aşağıda bir-bir yazılmış üçüncü tərəf xidmətlərinə sorğu göndərir.",
     "bolumler": [
       {
@@ -197,7 +197,7 @@
         "h2": "Satın almalar",
         "p": [
           "Muslimly isteğe bağlı Premium abunəlik və birdəfəlik ömürlük satın alma təklif edir.",
-          "Satın alma və ödəniş Apple tərəfindən emal edilir; Muslimly ödəniş məlumatlarını görmür. Abunəliyinin etibarlı olub-olmadığını yoxlamaq üçün RevenueCat (RevenueCat, Inc.) xidmətindən istifadə olunur. Bu xidmətə təsadüfi yaradılmış, adınla və ya Apple ID-nlə əlaqələndirilməyən istifadəçi nömrəsi, satın alma tarixçəsi (məhsul, tarix, qiymət, valyuta, ölkə) və tətbiqin və iOS-un versiyası gedir. Bu məlumatlar reklam və ya izləmə üçün istifadə olunmur və bu məqsədlə üçüncü tərəflərlə paylaşılmır. RevenueCat-in məxfilik siyasəti: revenuecat.com/privacy.",
+          "Satın alma və ödəniş Apple tərəfindən emal edilir; Muslimly ödəniş məlumatlarını görmür. Abunəliyinin etibarlı olub-olmadığını yoxlamaq üçün RevenueCat (RevenueCat, Inc.) xidmətindən istifadə olunur. Bu xidmətə təsadüfi yaradılmış, adınla və ya Apple ID-nlə əlaqələndirilməyən istifadəçi nömrəsi, satın alma tarixçəsi (məhsul, tarix, qiymət, valyuta, ölkə) və tətbiqin və iOS-un versiyası gedir. RevenueCat satıcı identifikatorunu (IDFV) da alır; bu, reklam identifikatoru deyil və izləmə üçün istifadə olunmur. Bu məlumatlar reklam və ya izləmə üçün istifadə olunmur və bu məqsədlə üçüncü tərəflərlə paylaşılmır. RevenueCat-in məxfilik siyasəti: revenuecat.com/privacy.",
           "Abunəliyini App Store hesab ayarlarından idarə edə və ya ləğv edə bilərsən; geri ödəniş tələbləri Apple vasitəsilə edilir."
         ]
       },

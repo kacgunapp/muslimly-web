@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Política de Privacidade",
-    "tarih": "Data de entrada em vigor: 22 de outubro de 2026",
+    "tarih": "Data de entrada em vigor: 9 de novembro de 2026",
     "giris": "Esta política explica que informações a app para iOS Muslimly: Horários de Oração (“Muslimly”) utiliza e de que forma. Em resumo: o Muslimly não tem servidor e não recolhe dados pessoais teus. Para funcionar, algumas funcionalidades enviam pedidos aos serviços de terceiros indicados um a um em baixo.",
     "bolumler": [
       {
@@ -197,7 +197,7 @@
         "h2": "Compras",
         "p": [
           "O Muslimly oferece uma subscrição Premium opcional e uma compra única vitalícia.",
-          "A compra e o pagamento são processados pela Apple; o Muslimly não vê os teus dados de pagamento. Para verificar se a tua subscrição é válida, é utilizado o serviço RevenueCat (RevenueCat, Inc.). Este serviço recebe um número de utilizador gerado aleatoriamente, não associado ao teu nome nem à tua Conta Apple, o histórico de compras (produto, data, preço, moeda, país) e as versões da app e do iOS. Estas informações não são usadas para publicidade nem rastreio e não são partilhadas com terceiros para esse fim. Política de privacidade da RevenueCat: revenuecat.com/privacy.",
+          "A compra e o pagamento são processados pela Apple; o Muslimly não vê os teus dados de pagamento. Para verificar se a tua subscrição é válida, é utilizado o serviço RevenueCat (RevenueCat, Inc.). Este serviço recebe um número de utilizador gerado aleatoriamente, não associado ao teu nome nem à tua Conta Apple, o histórico de compras (produto, data, preço, moeda, país) e as versões da app e do iOS. A RevenueCat também recebe o identificador do fornecedor (IDFV); não é um identificador de publicidade e não é usado para rastreio. Estas informações não são usadas para publicidade nem rastreio e não são partilhadas com terceiros para esse fim. Política de privacidade da RevenueCat: revenuecat.com/privacy.",
           "Podes gerir ou cancelar a tua subscrição nas definições da tua conta da App Store; os pedidos de reembolso são feitos através da Apple."
         ]
       },

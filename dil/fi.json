@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Tietosuojakäytäntö",
-    "tarih": "Voimaantulopäivä: 22. lokakuuta 2026",
+    "tarih": "Voimaantulopäivä: 9. marraskuuta 2026",
     "giris": "Tämä käytäntö kertoo, mitä tietoja iOS:n Muslimly: Rukousajat & Koraani -sovellus (”Muslimly”) käyttää ja miten. Lyhyesti: Muslimlylla ei ole palvelinta, eikä se kerää sinusta henkilötietoja. Jotkin toiminnot lähettävät toimiakseen pyyntöjä alla yksitellen luetelluille kolmannen osapuolen palveluille.",
     "bolumler": [
       {
@@ -197,7 +197,7 @@
         "h2": "Ostot",
         "p": [
           "Muslimly tarjoaa valinnaisen Premium-tilauksen ja kertaluontoisen elinikäisen oston.",
-          "Oston ja maksun käsittelee Apple; Muslimly ei näe maksutietojasi. Tilauksesi voimassaolon tarkistamiseen käytetään RevenueCat-palvelua (RevenueCat, Inc.). Palveluun lähetetään satunnaisesti luotu käyttäjänumero, jota ei yhdistetä nimeesi tai Apple ID:hesi, ostohistoria (tuote, päivämäärä, hinta, valuutta, maa) sekä sovelluksen ja iOS:n versio. Näitä tietoja ei käytetä mainontaan tai seurantaan eikä niitä jaeta kolmansille osapuolille tähän tarkoitukseen. RevenueCatin tietosuojakäytäntö: revenuecat.com/privacy.",
+          "Oston ja maksun käsittelee Apple; Muslimly ei näe maksutietojasi. Tilauksesi voimassaolon tarkistamiseen käytetään RevenueCat-palvelua (RevenueCat, Inc.). Palveluun lähetetään satunnaisesti luotu käyttäjänumero, jota ei yhdistetä nimeesi tai Apple ID:hesi, ostohistoria (tuote, päivämäärä, hinta, valuutta, maa) sekä sovelluksen ja iOS:n versio. RevenueCat saa myös toimittajatunnisteen (IDFV); se ei ole mainostunniste, eikä sitä käytetä seurantaan. Näitä tietoja ei käytetä mainontaan tai seurantaan eikä niitä jaeta kolmansille osapuolille tähän tarkoitukseen. RevenueCatin tietosuojakäytäntö: revenuecat.com/privacy.",
           "Voit hallita tai perua tilauksesi App Storen tiliasetuksista; hyvityspyynnöt tehdään Applen kautta."
         ]
       },

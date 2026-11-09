@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Adatvédelmi szabályzat",
-    "tarih": "Hatályba lépés: 2026. október 22.",
+    "tarih": "Hatályba lépés: 2026. november 9.",
     "giris": "Ez a szabályzat elmagyarázza, hogy az iOS-re készült Muslimly: Imaidők és Korán alkalmazás („Muslimly”) milyen adatokat és hogyan használ. Röviden: a Muslimly alkalmazásnak nincs szervere, és nem gyűjt rólad személyes adatokat. Egyes funkciók a működésükhöz kéréseket küldenek az alább egyenként felsorolt külső szolgáltatásoknak.",
     "bolumler": [
       {
@@ -197,7 +197,7 @@
         "h2": "Vásárlások",
         "p": [
           "A Muslimly választható Premium-előfizetést és egyszeri, élethosszig tartó vásárlást kínál.",
-          "A vásárlást és a fizetést az Apple kezeli; a Muslimly nem látja a fizetési adatokat. Az előfizetésed érvényességének ellenőrzéséhez a RevenueCat (RevenueCat, Inc.) szolgáltatást használjuk. Ehhez a szolgáltatáshoz egy véletlenszerűen generált, a neveddel és az Apple ID-ddel nem összekapcsolt felhasználói szám, a vásárlási előzmények (termék, dátum, ár, pénznem, ország), valamint az alkalmazás és az iOS verziója jut el. Ezeket az adatokat nem használjuk reklámra vagy követésre, és erre a célra nem osztjuk meg harmadik felekkel. A RevenueCat adatvédelmi szabályzata: revenuecat.com/privacy.",
+          "A vásárlást és a fizetést az Apple kezeli; a Muslimly nem látja a fizetési adatokat. Az előfizetésed érvényességének ellenőrzéséhez a RevenueCat (RevenueCat, Inc.) szolgáltatást használjuk. Ehhez a szolgáltatáshoz egy véletlenszerűen generált, a neveddel és az Apple ID-ddel nem összekapcsolt felhasználói szám, a vásárlási előzmények (termék, dátum, ár, pénznem, ország), valamint az alkalmazás és az iOS verziója jut el. A RevenueCat megkapja a fejlesztői azonosítót (IDFV) is; ez nem hirdetési azonosító, és nem szolgál követésre. Ezeket az adatokat nem használjuk reklámra vagy követésre, és erre a célra nem osztjuk meg harmadik felekkel. A RevenueCat adatvédelmi szabályzata: revenuecat.com/privacy.",
           "Az előfizetésedet az App Store fiókbeállításaiban kezelheted vagy mondhatod le; a visszatérítési kérelmeket az Apple-en keresztül lehet benyújtani."
         ]
       },

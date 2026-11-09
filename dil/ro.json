@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Politica de confidențialitate",
-    "tarih": "Data intrării în vigoare: 22 octombrie 2026",
+    "tarih": "Data intrării în vigoare: 9 noiembrie 2026",
     "giris": "Această politică explică ce informații folosește aplicația Muslimly: Ore de rugăciune pentru iOS („Muslimly”) și cum le folosește. Pe scurt: Muslimly nu are server și nu colectează date personale de la tine. Unele funcții trimit, pentru a funcționa, cereri către servicii terțe enumerate una câte una mai jos.",
     "bolumler": [
       {
@@ -197,7 +197,7 @@
         "h2": "Achiziții",
         "p": [
           "Muslimly oferă un abonament Premium opțional și o achiziție unică pe viață.",
-          "Achiziția și plata sunt procesate de Apple; Muslimly nu vede datele de plată. Pentru a verifica dacă abonamentul tău este valabil se folosește serviciul RevenueCat (RevenueCat, Inc.). Către acest serviciu se trimit un număr de utilizator generat aleatoriu, care nu este asociat cu numele tău sau cu ID-ul Apple, istoricul achizițiilor (produs, dată, preț, monedă, țară) și versiunea aplicației și a iOS. Aceste informații nu sunt folosite pentru publicitate sau urmărire și nu sunt partajate cu terți în acest scop. Politica de confidențialitate RevenueCat: revenuecat.com/privacy.",
+          "Achiziția și plata sunt procesate de Apple; Muslimly nu vede datele de plată. Pentru a verifica dacă abonamentul tău este valabil se folosește serviciul RevenueCat (RevenueCat, Inc.). Către acest serviciu se trimit un număr de utilizator generat aleatoriu, care nu este asociat cu numele tău sau cu ID-ul Apple, istoricul achizițiilor (produs, dată, preț, monedă, țară) și versiunea aplicației și a iOS. RevenueCat primește și identificatorul pentru furnizor (IDFV); acesta nu este un identificator de publicitate și nu este folosit pentru urmărire. Aceste informații nu sunt folosite pentru publicitate sau urmărire și nu sunt partajate cu terți în acest scop. Politica de confidențialitate RevenueCat: revenuecat.com/privacy.",
           "Îți poți gestiona sau anula abonamentul din setările contului App Store; cererile de rambursare se fac prin Apple."
         ]
       },

@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Politika privatnosti",
-    "tarih": "Datum stupanja na snagu: 22. oktobar 2026.",
+    "tarih": "Datum stupanja na snagu: 9. novembar 2026.",
     "giris": "Ova politika objašnjava koje informacije aplikacija Muslimly: Vaktija i Kur'an za iOS (“Muslimly”) koristi i na koji način. Ukratko: Muslimly nema server i od tebe ne prikuplja lične podatke. Neke funkcije, da bi radile, šalju zahtjeve uslugama trećih strana koje su pojedinačno navedene u nastavku.",
     "bolumler": [
       {
@@ -197,7 +197,7 @@
         "h2": "Kupovine",
         "p": [
           "Muslimly nudi neobaveznu Premium pretplatu i jednokratnu doživotnu kupovinu.",
-          "Kupovinu i plaćanje obrađuje Apple; Muslimly ne vidi podatke o plaćanju. Za provjeru važenja tvoje pretplate koristi se usluga RevenueCat (RevenueCat, Inc.). Toj usluzi šalju se nasumično generisan korisnički broj koji nije povezan s tvojim imenom ni Apple ID-jem, historija kupovina (proizvod, datum, cijena, valuta, zemlja) te verzija aplikacije i iOS-a. Ove informacije se ne koriste za reklame ni praćenje i ne dijele se s trećim stranama u tu svrhu. Politika privatnosti usluge RevenueCat: revenuecat.com/privacy.",
+          "Kupovinu i plaćanje obrađuje Apple; Muslimly ne vidi podatke o plaćanju. Za provjeru važenja tvoje pretplate koristi se usluga RevenueCat (RevenueCat, Inc.). Toj usluzi šalju se nasumično generisan korisnički broj koji nije povezan s tvojim imenom ni Apple ID-jem, historija kupovina (proizvod, datum, cijena, valuta, zemlja) te verzija aplikacije i iOS-a. RevenueCat prima i identifikator dobavljača (IDFV); to nije identifikator za oglašavanje i ne koristi se za praćenje. Ove informacije se ne koriste za reklame ni praćenje i ne dijele se s trećim stranama u tu svrhu. Politika privatnosti usluge RevenueCat: revenuecat.com/privacy.",
           "Pretplatom možeš upravljati ili je otkazati u postavkama App Store računa; zahtjevi za povrat novca podnose se putem Applea."
         ]
       },

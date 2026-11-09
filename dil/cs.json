@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Zásady ochrany soukromí",
-    "tarih": "Datum účinnosti: 22. října 2026",
+    "tarih": "Datum účinnosti: 9. listopadu 2026",
     "giris": "Tyto zásady vysvětlují, jaké informace a jakým způsobem používá aplikace Muslimly: Časy modliteb, Korán pro iOS („Muslimly“). Stručně: Muslimly nemá server a nesbírá od tebe osobní údaje. Některé funkce kvůli svému fungování odesílají požadavky na služby třetích stran, které jsou níže jednotlivě uvedeny.",
     "bolumler": [
       {
@@ -197,7 +197,7 @@
         "h2": "Nákupy",
         "p": [
           "Muslimly nabízí volitelné předplatné Premium a jednorázový doživotní nákup.",
-          "Nákup a platbu zpracovává Apple; Muslimly platební údaje nevidí. K ověření, zda je tvé předplatné platné, se používá služba RevenueCat (RevenueCat, Inc.). Této službě se předává náhodně vygenerované uživatelské číslo, které není spojeno s tvým jménem ani Apple ID, historie nákupů (produkt, datum, cena, měna, země) a verze aplikace a iOS. Tyto informace se nepoužívají pro reklamu ani sledování a za tímto účelem se nesdílejí s třetími stranami. Zásady ochrany soukromí RevenueCat: revenuecat.com/privacy.",
+          "Nákup a platbu zpracovává Apple; Muslimly platební údaje nevidí. K ověření, zda je tvé předplatné platné, se používá služba RevenueCat (RevenueCat, Inc.). Této službě se předává náhodně vygenerované uživatelské číslo, které není spojeno s tvým jménem ani Apple ID, historie nákupů (produkt, datum, cena, měna, země) a verze aplikace a iOS. RevenueCat dostává také identifikátor dodavatele (IDFV); nejde o reklamní identifikátor a nepoužívá se ke sledování. Tyto informace se nepoužívají pro reklamu ani sledování a za tímto účelem se nesdílejí s třetími stranami. Zásady ochrany soukromí RevenueCat: revenuecat.com/privacy.",
           "Předplatné můžeš spravovat nebo zrušit v nastavení účtu App Store; žádosti o vrácení peněz se podávají přes Apple."
         ]
       },
