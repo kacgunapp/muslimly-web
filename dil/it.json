@@ -196,8 +196,8 @@
       {
         "h2": "Acquisti",
         "p": [
-          "In questa versione di Muslimly non ci sono acquisti; il servizio indicato qui sotto non è attivo e non invia alcuna richiesta.",
-          "Se in futuro verrà offerto un abbonamento Premium facoltativo: acquisto e pagamento sono gestiti da Apple; Muslimly non vede i tuoi dati di pagamento. Per verificare se il tuo abbonamento è valido viene usato il servizio RevenueCat (RevenueCat, Inc.). A questo servizio vengono inviati un numero utente generato casualmente, non collegato al tuo nome né al tuo account Apple, la cronologia degli acquisti (prodotto, data, prezzo, valuta, paese) e le versioni dell'app e di iOS. Queste informazioni non vengono usate per pubblicità o tracciamento e non vengono condivise con terze parti a tale scopo. Informativa sulla privacy di RevenueCat: revenuecat.com/privacy.",
+          "Muslimly offre un abbonamento Premium facoltativo e un acquisto una tantum a vita.",
+          "Acquisto e pagamento sono gestiti da Apple; Muslimly non vede i tuoi dati di pagamento. Per verificare se il tuo abbonamento è valido viene usato il servizio RevenueCat (RevenueCat, Inc.). A questo servizio vengono inviati un numero utente generato casualmente, non collegato al tuo nome né al tuo account Apple, la cronologia degli acquisti (prodotto, data, prezzo, valuta, paese) e le versioni dell'app e di iOS. Queste informazioni non vengono usate per pubblicità o tracciamento e non vengono condivise con terze parti a tale scopo. Informativa sulla privacy di RevenueCat: revenuecat.com/privacy.",
           "Puoi gestire o annullare l'abbonamento dalle impostazioni del tuo account App Store; le richieste di rimborso si fanno tramite Apple."
         ]
       },

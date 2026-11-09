@@ -196,8 +196,8 @@
       {
         "h2": "Compras",
         "p": [
-          "Esta versión de Muslimly no tiene compras; el servicio que se indica a continuación no está activo y no envía ninguna solicitud.",
-          "Si en el futuro se ofrece una suscripción Premium opcional: la compra y el pago los procesa Apple; Muslimly no ve tus datos de pago. Para comprobar si tu suscripción es válida se usa el servicio RevenueCat (RevenueCat, Inc.). A este servicio se envían un número de usuario generado aleatoriamente, no vinculado a tu nombre ni a tu cuenta de Apple, el historial de compras (producto, fecha, precio, moneda, país) y las versiones de la app y de iOS. Esta información no se usa para publicidad ni rastreo y no se comparte con terceros con ese fin. Política de privacidad de RevenueCat: revenuecat.com/privacy.",
+          "Muslimly ofrece una suscripción Premium opcional y una compra única de por vida.",
+          "La compra y el pago los procesa Apple; Muslimly no ve tus datos de pago. Para comprobar si tu suscripción es válida se usa el servicio RevenueCat (RevenueCat, Inc.). A este servicio se envían un número de usuario generado aleatoriamente, no vinculado a tu nombre ni a tu cuenta de Apple, el historial de compras (producto, fecha, precio, moneda, país) y las versiones de la app y de iOS. Esta información no se usa para publicidad ni rastreo y no se comparte con terceros con ese fin. Política de privacidad de RevenueCat: revenuecat.com/privacy.",
           "Puedes gestionar o cancelar tu suscripción en los ajustes de tu cuenta del App Store; las solicitudes de reembolso se hacen a través de Apple."
         ]
       },

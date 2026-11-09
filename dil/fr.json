@@ -196,8 +196,8 @@
       {
         "h2": "Achats",
         "p": [
-          "Cette version de Muslimly ne comporte aucun achat ; le service ci-dessous n'est pas actif et n'envoie aucune requête.",
-          "Si un abonnement Premium facultatif est proposé à l'avenir : l'achat et le paiement sont traités par Apple ; Muslimly ne voit pas tes informations de paiement. Le service RevenueCat (RevenueCat, Inc.) est utilisé pour vérifier si ton abonnement est valide. Ce service reçoit un numéro d'utilisateur généré aléatoirement, non associé à ton nom ni à ton compte Apple, l'historique d'achat (produit, date, prix, devise, pays) ainsi que les versions de l'app et d'iOS. Ces informations ne sont pas utilisées pour la publicité ou le pistage et ne sont pas partagées avec des tiers à cette fin. Politique de confidentialité de RevenueCat : revenuecat.com/privacy.",
+          "Muslimly propose un abonnement Premium facultatif et un achat unique à vie.",
+          "L'achat et le paiement sont traités par Apple ; Muslimly ne voit pas tes informations de paiement. Le service RevenueCat (RevenueCat, Inc.) est utilisé pour vérifier si ton abonnement est valide. Ce service reçoit un numéro d'utilisateur généré aléatoirement, non associé à ton nom ni à ton compte Apple, l'historique d'achat (produit, date, prix, devise, pays) ainsi que les versions de l'app et d'iOS. Ces informations ne sont pas utilisées pour la publicité ou le pistage et ne sont pas partagées avec des tiers à cette fin. Politique de confidentialité de RevenueCat : revenuecat.com/privacy.",
           "Tu peux gérer ou résilier ton abonnement dans les réglages de ton compte App Store ; les demandes de remboursement se font auprès d'Apple."
         ]
       },

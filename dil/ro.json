@@ -196,8 +196,8 @@
       {
         "h2": "Achiziții",
         "p": [
-          "În această versiune a Muslimly nu există achiziții; serviciul de mai jos nu este activ și nu trimite nicio cerere.",
-          "Dacă în viitor va fi oferit un abonament Premium opțional: achiziția și plata sunt procesate de Apple; Muslimly nu vede datele de plată. Pentru a verifica dacă abonamentul tău este valabil se folosește serviciul RevenueCat (RevenueCat, Inc.). Către acest serviciu se trimit un număr de utilizator generat aleatoriu, care nu este asociat cu numele tău sau cu ID-ul Apple, istoricul achizițiilor (produs, dată, preț, monedă, țară) și versiunea aplicației și a iOS. Aceste informații nu sunt folosite pentru publicitate sau urmărire și nu sunt partajate cu terți în acest scop. Politica de confidențialitate RevenueCat: revenuecat.com/privacy.",
+          "Muslimly oferă un abonament Premium opțional și o achiziție unică pe viață.",
+          "Achiziția și plata sunt procesate de Apple; Muslimly nu vede datele de plată. Pentru a verifica dacă abonamentul tău este valabil se folosește serviciul RevenueCat (RevenueCat, Inc.). Către acest serviciu se trimit un număr de utilizator generat aleatoriu, care nu este asociat cu numele tău sau cu ID-ul Apple, istoricul achizițiilor (produs, dată, preț, monedă, țară) și versiunea aplicației și a iOS. Aceste informații nu sunt folosite pentru publicitate sau urmărire și nu sunt partajate cu terți în acest scop. Politica de confidențialitate RevenueCat: revenuecat.com/privacy.",
           "Îți poți gestiona sau anula abonamentul din setările contului App Store; cererile de rambursare se fac prin Apple."
         ]
       },

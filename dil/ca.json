@@ -196,8 +196,8 @@
       {
         "h2": "Compres",
         "p": [
-          "En aquesta versió de Muslimly no hi ha compres; el servei següent no està actiu i no envia cap sol·licitud.",
-          "Si en el futur s'ofereix una subscripció Premium opcional: Apple processa la compra i el pagament; Muslimly no veu les dades de pagament. Per verificar si la teva subscripció és vàlida s'utilitza el servei RevenueCat (RevenueCat, Inc.). A aquest servei s'envien un número d'usuari generat aleatòriament, que no es vincula al teu nom ni al teu ID d'Apple, l'historial de compres (producte, data, preu, moneda, país) i la versió de l'app i de l'iOS. Aquesta informació no s'utilitza per a publicitat ni seguiment i no es comparteix amb tercers amb aquesta finalitat. Política de privacitat de RevenueCat: revenuecat.com/privacy.",
+          "Muslimly ofereix una subscripció Premium opcional i una compra única de per vida.",
+          "Apple processa la compra i el pagament; Muslimly no veu les dades de pagament. Per verificar si la teva subscripció és vàlida s'utilitza el servei RevenueCat (RevenueCat, Inc.). A aquest servei s'envien un número d'usuari generat aleatòriament, que no es vincula al teu nom ni al teu ID d'Apple, l'historial de compres (producte, data, preu, moneda, país) i la versió de l'app i de l'iOS. Aquesta informació no s'utilitza per a publicitat ni seguiment i no es comparteix amb tercers amb aquesta finalitat. Política de privacitat de RevenueCat: revenuecat.com/privacy.",
           "Pots gestionar o cancel·lar la subscripció a la configuració del compte de l'App Store; les sol·licituds de reemborsament es fan a través d'Apple."
         ]
       },

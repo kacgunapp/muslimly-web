@@ -196,8 +196,8 @@
       {
         "h2": "Nákupy",
         "p": [
-          "V této verzi Muslimly nejsou žádné nákupy; níže popsaná služba není aktivní a neodesílá žádné požadavky.",
-          "Pokud bude v budoucnu nabízeno volitelné předplatné Premium: nákup a platbu zpracovává Apple; Muslimly platební údaje nevidí. K ověření, zda je tvé předplatné platné, se používá služba RevenueCat (RevenueCat, Inc.). Této službě se předává náhodně vygenerované uživatelské číslo, které není spojeno s tvým jménem ani Apple ID, historie nákupů (produkt, datum, cena, měna, země) a verze aplikace a iOS. Tyto informace se nepoužívají pro reklamu ani sledování a za tímto účelem se nesdílejí s třetími stranami. Zásady ochrany soukromí RevenueCat: revenuecat.com/privacy.",
+          "Muslimly nabízí volitelné předplatné Premium a jednorázový doživotní nákup.",
+          "Nákup a platbu zpracovává Apple; Muslimly platební údaje nevidí. K ověření, zda je tvé předplatné platné, se používá služba RevenueCat (RevenueCat, Inc.). Této službě se předává náhodně vygenerované uživatelské číslo, které není spojeno s tvým jménem ani Apple ID, historie nákupů (produkt, datum, cena, měna, země) a verze aplikace a iOS. Tyto informace se nepoužívají pro reklamu ani sledování a za tímto účelem se nesdílejí s třetími stranami. Zásady ochrany soukromí RevenueCat: revenuecat.com/privacy.",
           "Předplatné můžeš spravovat nebo zrušit v nastavení účtu App Store; žádosti o vrácení peněz se podávají přes Apple."
         ]
       },

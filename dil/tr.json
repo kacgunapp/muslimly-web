@@ -196,8 +196,8 @@
       {
         "h2": "Satın almalar",
         "p": [
-          "Muslimly'nin bu sürümünde satın alma yoktur; aşağıdaki hizmet etkin değildir ve hiçbir istek göndermez.",
-          "İleride isteğe bağlı Premium abonelik sunulursa: satın alma ve ödeme Apple tarafından işlenir; Muslimly ödeme bilgilerini görmez. Aboneliğinin geçerli olup olmadığını doğrulamak için RevenueCat (RevenueCat, Inc.) hizmeti kullanılır. Bu hizmete rastgele üretilmiş, adın ya da Apple Kimliğinle ilişkilendirilmeyen bir kullanıcı numarası, satın alma geçmişi (ürün, tarih, fiyat, para birimi, ülke) ve uygulamanın ve iOS'un sürümü gider. Bu bilgiler reklam ya da izleme için kullanılmaz ve üçüncü taraflarla bu amaçla paylaşılmaz. RevenueCat'in gizlilik politikası: revenuecat.com/privacy.",
+          "Muslimly'de isteğe bağlı Premium abonelik ve tek seferlik ömür boyu satın alma sunulur.",
+          "Satın alma ve ödeme Apple tarafından işlenir; Muslimly ödeme bilgilerini görmez. Aboneliğinin geçerli olup olmadığını doğrulamak için RevenueCat (RevenueCat, Inc.) hizmeti kullanılır. Bu hizmete rastgele üretilmiş, adın ya da Apple Kimliğinle ilişkilendirilmeyen bir kullanıcı numarası, satın alma geçmişi (ürün, tarih, fiyat, para birimi, ülke) ve uygulamanın ve iOS'un sürümü gider. Bu bilgiler reklam ya da izleme için kullanılmaz ve üçüncü taraflarla bu amaçla paylaşılmaz. RevenueCat'in gizlilik politikası: revenuecat.com/privacy.",
           "Aboneliğini App Store hesap ayarlarından yönetebilir ya da iptal edebilirsin; iade talepleri Apple üzerinden yapılır."
         ]
       },

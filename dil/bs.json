@@ -196,8 +196,8 @@
       {
         "h2": "Kupovine",
         "p": [
-          "U ovoj verziji aplikacije Muslimly nema kupovina; usluga opisana u nastavku nije aktivna i ne šalje nikakve zahtjeve.",
-          "Ako se ubuduće ponudi neobavezna Premium pretplata: kupovinu i plaćanje obrađuje Apple; Muslimly ne vidi podatke o plaćanju. Za provjeru važenja tvoje pretplate koristi se usluga RevenueCat (RevenueCat, Inc.). Toj usluzi šalju se nasumično generisan korisnički broj koji nije povezan s tvojim imenom ni Apple ID-jem, historija kupovina (proizvod, datum, cijena, valuta, zemlja) te verzija aplikacije i iOS-a. Ove informacije se ne koriste za reklame ni praćenje i ne dijele se s trećim stranama u tu svrhu. Politika privatnosti usluge RevenueCat: revenuecat.com/privacy.",
+          "Muslimly nudi neobaveznu Premium pretplatu i jednokratnu doživotnu kupovinu.",
+          "Kupovinu i plaćanje obrađuje Apple; Muslimly ne vidi podatke o plaćanju. Za provjeru važenja tvoje pretplate koristi se usluga RevenueCat (RevenueCat, Inc.). Toj usluzi šalju se nasumično generisan korisnički broj koji nije povezan s tvojim imenom ni Apple ID-jem, historija kupovina (proizvod, datum, cijena, valuta, zemlja) te verzija aplikacije i iOS-a. Ove informacije se ne koriste za reklame ni praćenje i ne dijele se s trećim stranama u tu svrhu. Politika privatnosti usluge RevenueCat: revenuecat.com/privacy.",
           "Pretplatom možeš upravljati ili je otkazati u postavkama App Store računa; zahtjevi za povrat novca podnose se putem Applea."
         ]
       },

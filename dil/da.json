@@ -196,8 +196,8 @@
       {
         "h2": "Køb",
         "p": [
-          "Der er ingen køb i denne version af Muslimly; tjenesten nedenfor er ikke aktiv og sender ingen forespørgsler.",
-          "Hvis der senere tilbydes et valgfrit Premium-abonnement: køb og betaling håndteres af Apple; Muslimly ser ikke dine betalingsoplysninger. For at bekræfte, om dit abonnement er gyldigt, bruges tjenesten RevenueCat (RevenueCat, Inc.). Til denne tjeneste sendes et tilfældigt genereret brugernummer, som ikke er knyttet til dit navn eller dit Apple-id, købshistorik (produkt, dato, pris, valuta, land) samt versionen af appen og iOS. Disse oplysninger bruges ikke til reklamer eller sporing og deles ikke med tredjeparter til det formål. RevenueCats privatlivspolitik: revenuecat.com/privacy.",
+          "Muslimly tilbyder et valgfrit Premium-abonnement og et engangskøb for livstid.",
+          "Køb og betaling håndteres af Apple; Muslimly ser ikke dine betalingsoplysninger. For at bekræfte, om dit abonnement er gyldigt, bruges tjenesten RevenueCat (RevenueCat, Inc.). Til denne tjeneste sendes et tilfældigt genereret brugernummer, som ikke er knyttet til dit navn eller dit Apple-id, købshistorik (produkt, dato, pris, valuta, land) samt versionen af appen og iOS. Disse oplysninger bruges ikke til reklamer eller sporing og deles ikke med tredjeparter til det formål. RevenueCats privatlivspolitik: revenuecat.com/privacy.",
           "Du kan administrere eller opsige dit abonnement i kontoindstillingerne i App Store; anmodninger om refusion sker via Apple."
         ]
       },

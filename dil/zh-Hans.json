@@ -196,8 +196,8 @@
       {
         "h2": "购买",
         "p": [
-          "此版本的 Muslimly 没有购买项目；下述服务未启用，也不会发送任何请求。",
-          "如果将来提供可选的高级版订阅：购买和付款由 Apple 处理；Muslimly 看不到付款信息。为了验证你的订阅是否有效，会使用 RevenueCat（RevenueCat, Inc.）服务。发送给该服务的是一个随机生成、不与你的姓名或 Apple 账户关联的用户编号、购买记录（产品、日期、价格、货币、国家）以及应用和 iOS 的版本。这些信息不会用于广告或跟踪，也不会为此目的与第三方共享。RevenueCat 隐私政策：revenuecat.com/privacy。",
+          "Muslimly 提供可选的 Premium 订阅和一次性终身购买。",
+          "购买和付款由 Apple 处理；Muslimly 看不到付款信息。为了验证你的订阅是否有效，会使用 RevenueCat（RevenueCat, Inc.）服务。发送给该服务的是一个随机生成、不与你的姓名或 Apple 账户关联的用户编号、购买记录（产品、日期、价格、货币、国家）以及应用和 iOS 的版本。这些信息不会用于广告或跟踪，也不会为此目的与第三方共享。RevenueCat 隐私政策：revenuecat.com/privacy。",
           "你可以在 App Store 账户设置中管理或取消订阅；退款申请通过 Apple 提出。"
         ]
       },
