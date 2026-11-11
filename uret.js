@@ -56,7 +56,8 @@ function bas(d, sayfa, baslik, aciklama) {
 <link rel="canonical" href="${sayfaUrl(d.kod, sayfa)}">
 ${alternatif}
 <link rel="alternate" hreflang="x-default" href="${sayfaUrl("tr", sayfa)}">
-<link rel="icon" href="${on(d.kod)}favicon.png" type="image/png">
+<link rel="icon" href="${on(d.kod)}favicon.ico" sizes="16x16 32x32 48x48">
+<link rel="icon" href="${on(d.kod)}favicon.png" type="image/png" sizes="96x96">
 <link rel="apple-touch-icon" href="${on(d.kod)}apple-touch-icon.png">
 <link rel="stylesheet" href="${on(d.kod)}style.css">
 </head>
