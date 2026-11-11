@@ -13,7 +13,7 @@
   "kahraman": {
     "simgeAlt": "Ícone da app Muslimly: um livro aberto dourado com luz por cima",
     "giris": "Um companheiro simples que te ajuda a manter a regularidade nos teus atos de adoração. Tem modo infantil e modo adulto; não pede conta, não mostra anúncios e não recolhe dados pessoais.",
-    "rozet": "Para iOS · brevemente na App Store"
+    "rozet": "Descarregar na App Store"
   },
   "nelerVar": "O que inclui?",
   "kartlar": [
@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Política de Privacidade",
-    "tarih": "Data de entrada em vigor: 9 de novembro de 2026",
+    "tarih": "Data de entrada em vigor: 11 de novembro de 2026",
     "giris": "Esta política explica que informações a app para iOS Muslimly: Horários de Oração (“Muslimly”) utiliza e de que forma. Em resumo: o Muslimly não tem servidor e não recolhe dados pessoais teus. Para funcionar, algumas funcionalidades enviam pedidos aos serviços de terceiros indicados um a um em baixo.",
     "bolumler": [
       {
@@ -197,8 +197,14 @@
         "h2": "Compras",
         "p": [
           "O Muslimly oferece uma subscrição Premium opcional e uma compra única vitalícia.",
-          "A compra e o pagamento são processados pela Apple; o Muslimly não vê os teus dados de pagamento. Para verificar se a tua subscrição é válida, é utilizado o serviço RevenueCat (RevenueCat, Inc.). Este serviço recebe um número de utilizador gerado aleatoriamente, não associado ao teu nome nem à tua Conta Apple, o histórico de compras (produto, data, preço, moeda, país) e as versões da app e do iOS. A RevenueCat também recebe o identificador do fornecedor (IDFV); não é um identificador de publicidade e não é usado para rastreio. Estas informações não são usadas para publicidade nem rastreio e não são partilhadas com terceiros para esse fim. Política de privacidade da RevenueCat: revenuecat.com/privacy.",
+          "A compra e o pagamento são processados pela Apple; o Muslimly não vê os teus dados de pagamento. Para verificar se a tua subscrição é válida, é utilizado o serviço RevenueCat (RevenueCat, Inc.). Este serviço recebe um número de utilizador gerado aleatoriamente, não associado ao teu nome nem à tua Conta Apple, o histórico de compras (produto, data, preço, moeda, país) e as versões da app e do iOS. A RevenueCat também recebe o identificador do fornecedor (IDFV); não é um identificador de publicidade e não é usado para rastreio. Estas informações não são usadas para publicidade nem rastreio e não são partilhadas com terceiros para esse fim. Se o endereço principal da RevenueCat não estiver acessível devido a um erro de rede, a app envia um pedido curto e sem conteúdo para apple.com, api.revenuecat.com e o endereço de reserva oficial da RevenueCat, api.rc-backup.com, para testar a ligação; se o endereço de reserva estiver acessível, a verificação da subscrição é feita através dele. Com estes pedidos não é enviada nenhuma informação além da indicada acima. Política de privacidade da RevenueCat: revenuecat.com/privacy.",
           "Podes gerir ou cancelar a tua subscrição nas definições da tua conta da App Store; os pedidos de reembolso são feitos através da Apple."
+        ]
+      },
+      {
+        "h2": "Atualizações da app",
+        "p": [
+          "Para receber correções de erros sem esperar por uma atualização da App Store, o Muslimly envia, sempre que é aberto, um pedido ao serviço de atualizações da Expo (u.expo.dev; Expo, 650 Industries, Inc.). Esse pedido leva a versão da app, o canal de atualização, a plataforma do dispositivo e um identificador aleatório gerado na instalação da app que não te identifica (EAS-Client-ID), além do teu endereço IP, como em qualquer pedido à internet. O teu nome, a tua localização e os teus dados na app não são enviados. Política de privacidade da Expo: expo.dev/privacy."
         ]
       },
       {

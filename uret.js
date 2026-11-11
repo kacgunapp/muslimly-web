@@ -13,6 +13,7 @@ const KOK = __dirname;
 const KOD = ["tr", "en", "ar", "de", "fr", "id", "ms", "ur", "fa", "ru", "bs", "az", "es", "it", "pt-BR", "pt-PT", "nl", "ca", "ro", "da", "sv", "nb", "fi", "pl", "cs", "sk", "sl", "hr", "hu", "el", "uk", "he", "vi", "th", "ja", "ko", "zh-Hans", "zh-Hant", "hi", "bn", "mr", "gu", "pa", "or", "ta", "te", "kn", "ml"];
 const RTL = ["ar", "ur", "fa", "he"];
 const SITE = "https://kacgunapp.github.io/muslimly-web/";      // GitHub Pages kökü
+const APPSTORE = "https://apps.apple.com/app/id6816156811";   // App Store sayfası (rozet bağlantısı, nur Görev 168)
 const EPOSTA = "dogac@teknikaotomasyon.com";
 
 const kacis = (s) => String(s).replace(/&(?!(amp|lt|gt|quot|#\d+);)/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
@@ -111,7 +112,7 @@ ${dilSecici(d, "index")}  <section class="kahraman">
     <img src="${on(d.kod)}icon.png" alt="${kacis(k.simgeAlt)}" width="116" height="116">
     <h1>${kacis(d.baslik)}</h1>
     <p class="giris">${kacis(k.giris)}</p>
-    <span class="rozet">${kacis(k.rozet)}</span>
+    <a class="rozet" href="${APPSTORE}">${kacis(k.rozet)}</a>
   </section>
 
   <h2>${kacis(d.nelerVar)}</h2>

@@ -13,7 +13,7 @@
   "kahraman": {
     "simgeAlt": "A Muslimly alkalmazás ikonja: aranyszínű nyitott könyv, fölötte fény",
     "giris": "Egyszerű segítő, amely megkönnyíti a rendszeres istenszolgálatot. Van gyermek és felnőtt mód; nem kér fiókot, nem jelenít meg reklámot, nem gyűjt személyes adatokat.",
-    "rozet": "iOS-re · hamarosan az App Store-ban"
+    "rozet": "Letöltés az App Store-ból"
   },
   "nelerVar": "Mit tartalmaz?",
   "kartlar": [
@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Adatvédelmi szabályzat",
-    "tarih": "Hatályba lépés: 2026. november 9.",
+    "tarih": "Hatályba lépés: 2026. november 11.",
     "giris": "Ez a szabályzat elmagyarázza, hogy az iOS-re készült Muslimly: Imaidők és Korán alkalmazás („Muslimly”) milyen adatokat és hogyan használ. Röviden: a Muslimly alkalmazásnak nincs szervere, és nem gyűjt rólad személyes adatokat. Egyes funkciók a működésükhöz kéréseket küldenek az alább egyenként felsorolt külső szolgáltatásoknak.",
     "bolumler": [
       {
@@ -197,8 +197,14 @@
         "h2": "Vásárlások",
         "p": [
           "A Muslimly választható Premium-előfizetést és egyszeri, élethosszig tartó vásárlást kínál.",
-          "A vásárlást és a fizetést az Apple kezeli; a Muslimly nem látja a fizetési adatokat. Az előfizetésed érvényességének ellenőrzéséhez a RevenueCat (RevenueCat, Inc.) szolgáltatást használjuk. Ehhez a szolgáltatáshoz egy véletlenszerűen generált, a neveddel és az Apple ID-ddel nem összekapcsolt felhasználói szám, a vásárlási előzmények (termék, dátum, ár, pénznem, ország), valamint az alkalmazás és az iOS verziója jut el. A RevenueCat megkapja a fejlesztői azonosítót (IDFV) is; ez nem hirdetési azonosító, és nem szolgál követésre. Ezeket az adatokat nem használjuk reklámra vagy követésre, és erre a célra nem osztjuk meg harmadik felekkel. A RevenueCat adatvédelmi szabályzata: revenuecat.com/privacy.",
+          "A vásárlást és a fizetést az Apple kezeli; a Muslimly nem látja a fizetési adatokat. Az előfizetésed érvényességének ellenőrzéséhez a RevenueCat (RevenueCat, Inc.) szolgáltatást használjuk. Ehhez a szolgáltatáshoz egy véletlenszerűen generált, a neveddel és az Apple ID-ddel nem összekapcsolt felhasználói szám, a vásárlási előzmények (termék, dátum, ár, pénznem, ország), valamint az alkalmazás és az iOS verziója jut el. A RevenueCat megkapja a fejlesztői azonosítót (IDFV) is; ez nem hirdetési azonosító, és nem szolgál követésre. Ezeket az adatokat nem használjuk reklámra vagy követésre, és erre a célra nem osztjuk meg harmadik felekkel. Ha a RevenueCat fő címe hálózati hiba miatt nem érhető el, az alkalmazás a kapcsolat ellenőrzésére rövid, tartalom nélküli kérést küld az apple.com, az api.revenuecat.com és a RevenueCat hivatalos tartalékcíme, az api.rc-backup.com felé; ha a tartalékcím elérhető, az előfizetés ellenőrzése ezen a címen keresztül történik. Ezekkel a kérésekkel a fentieken kívül semmilyen más adat nem megy el. A RevenueCat adatvédelmi szabályzata: revenuecat.com/privacy.",
           "Az előfizetésedet az App Store fiókbeállításaiban kezelheted vagy mondhatod le; a visszatérítési kérelmeket az Apple-en keresztül lehet benyújtani."
+        ]
+      },
+      {
+        "h2": "Alkalmazásfrissítések",
+        "p": [
+          "Hogy a hibajavításokat App Store-frissítésre várás nélkül is megkaphassa, a Muslimly minden megnyitáskor kérést küld az Expo frissítési szolgáltatásának (u.expo.dev; Expo, 650 Industries, Inc.). Ebben a kérésben az alkalmazás verziója, a frissítési csatorna, az eszköz platformja és egy, az alkalmazás telepítésekor létrehozott, téged nem azonosító véletlenszerű azonosító (EAS-Client-ID) megy el, és mint minden internetes kérésnél, az IP-címed is. A neved, a helyzeted vagy az alkalmazásban lévő adataid nem kerülnek elküldésre. Az Expo adatvédelmi szabályzata: expo.dev/privacy."
         ]
       },
       {

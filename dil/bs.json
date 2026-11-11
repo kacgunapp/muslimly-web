@@ -13,7 +13,7 @@
   "kahraman": {
     "simgeAlt": "Ikona aplikacije Muslimly: zlatna otvorena knjiga i svjetlost iznad nje",
     "giris": "Jednostavan pomoćnik koji olakšava redovno obavljanje ibadeta. Ima dječiji način i način za odrasle; ne traži račun, ne prikazuje reklame, ne prikuplja lične podatke.",
-    "rozet": "Za iOS · uskoro na App Storeu"
+    "rozet": "Preuzmi na App Storeu"
   },
   "nelerVar": "Šta nudi?",
   "kartlar": [
@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Politika privatnosti",
-    "tarih": "Datum stupanja na snagu: 9. novembar 2026.",
+    "tarih": "Datum stupanja na snagu: 11. novembar 2026.",
     "giris": "Ova politika objašnjava koje informacije aplikacija Muslimly: Vaktija i Kur'an za iOS (“Muslimly”) koristi i na koji način. Ukratko: Muslimly nema server i od tebe ne prikuplja lične podatke. Neke funkcije, da bi radile, šalju zahtjeve uslugama trećih strana koje su pojedinačno navedene u nastavku.",
     "bolumler": [
       {
@@ -197,8 +197,14 @@
         "h2": "Kupovine",
         "p": [
           "Muslimly nudi neobaveznu Premium pretplatu i jednokratnu doživotnu kupovinu.",
-          "Kupovinu i plaćanje obrađuje Apple; Muslimly ne vidi podatke o plaćanju. Za provjeru važenja tvoje pretplate koristi se usluga RevenueCat (RevenueCat, Inc.). Toj usluzi šalju se nasumično generisan korisnički broj koji nije povezan s tvojim imenom ni Apple ID-jem, historija kupovina (proizvod, datum, cijena, valuta, zemlja) te verzija aplikacije i iOS-a. RevenueCat prima i identifikator dobavljača (IDFV); to nije identifikator za oglašavanje i ne koristi se za praćenje. Ove informacije se ne koriste za reklame ni praćenje i ne dijele se s trećim stranama u tu svrhu. Politika privatnosti usluge RevenueCat: revenuecat.com/privacy.",
+          "Kupovinu i plaćanje obrađuje Apple; Muslimly ne vidi podatke o plaćanju. Za provjeru važenja tvoje pretplate koristi se usluga RevenueCat (RevenueCat, Inc.). Toj usluzi šalju se nasumično generisan korisnički broj koji nije povezan s tvojim imenom ni Apple ID-jem, historija kupovina (proizvod, datum, cijena, valuta, zemlja) te verzija aplikacije i iOS-a. RevenueCat prima i identifikator dobavljača (IDFV); to nije identifikator za oglašavanje i ne koristi se za praćenje. Ove informacije se ne koriste za reklame ni praćenje i ne dijele se s trećim stranama u tu svrhu. Ako glavna adresa usluge RevenueCat nije dostupna zbog greške na mreži, aplikacija radi provjere veze šalje kratak zahtjev bez sadržaja na apple.com, api.revenuecat.com i zvaničnu rezervnu adresu usluge RevenueCat, api.rc-backup.com; ako je rezervna adresa dostupna, provjera pretplate se obavlja preko nje. Uz ove zahtjeve ne šalje se nikakav podatak osim gore navedenih. Politika privatnosti usluge RevenueCat: revenuecat.com/privacy.",
           "Pretplatom možeš upravljati ili je otkazati u postavkama App Store računa; zahtjevi za povrat novca podnose se putem Applea."
+        ]
+      },
+      {
+        "h2": "Ažuriranja aplikacije",
+        "p": [
+          "Da bi primao ispravke grešaka bez čekanja na ažuriranje u App Storeu, Muslimly pri svakom otvaranju šalje zahtjev usluzi za ažuriranja Expo (u.expo.dev; Expo, 650 Industries, Inc.). U tom zahtjevu šalju se verzija aplikacije, kanal ažuriranja, platforma uređaja i nasumični identifikator napravljen pri instalaciji aplikacije koji te ne identifikuje (EAS-Client-ID), a kao i kod svakog internetskog zahtjeva i tvoja IP adresa. Tvoje ime, lokacija ni podaci u aplikaciji se ne šalju. Politika privatnosti usluge Expo: expo.dev/privacy."
         ]
       },
       {

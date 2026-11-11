@@ -5,6 +5,7 @@
      - p[1]: anonim kurulum numarası notu ("IDFA" ve "IDFV" adlarıyla)
      - p[2]: App Store beyanında Yaklaşık Konum (Overpass, Apple) ve Aygıt Kimliği
      - iCloud bölümü: 1.0.2'den itibaren notlar, K-d silme, yer imleri (nur docs/app-privacy-1.0.2.md, Görev 144)
+     - Expo güncelleme isteği (u.expo.dev, EAS-Client-ID) ve RevenueCat yedek adresi (api.rc-backup.com) (Görev 168)
    Kullanım: node gizlilik-denetim.js   (uret.js'ten sonra; çıkış 1 = hata)
    ============================================================ */
 const fs = require("fs");
@@ -29,6 +30,7 @@ for (const kod of ACIK) {
   const p3 = d.gizlilik.bolumler[3].p[1];
   if (!html.includes(kacis(p3)) && !html.includes(p3)) h.push("iCloud notu sayfada yok");
   if (!/1\.0\.2/.test(p3)) h.push("iCloud notu: 1.0.2 yok (notlar, K-d, yer imleri)");
+  for (const z of ["u.expo.dev", "EAS-Client-ID", "expo.dev/privacy", "api.rc-backup.com", "api.revenuecat.com"]) if (!html.includes(z)) h.push(`${z} yok (Expo güncelleme / RevenueCat yedek adres, nur Görev 168)`);
   if (h.length) { hata++; console.log(`  ✗ ${kod}: ${h.join("; ")}`); }
 }
 console.log(hata ? `  ✗ ${hata} / ${ACIK.length} gizlilik sayfasında hata` : `  ✓ ${ACIK.length} gizlilik sayfası: lang/dir doğru, Yaklaşık Konum ve anonim kurulum numarası notu var`);

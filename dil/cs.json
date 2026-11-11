@@ -13,7 +13,7 @@
   "kahraman": {
     "simgeAlt": "Ikona aplikace Muslimly: zlatá otevřená kniha a nad ní světlo",
     "giris": "Jednoduchý pomocník, který usnadňuje pravidelné uctívání. Má dětský režim i režim pro dospělé; nevyžaduje účet, nezobrazuje reklamy, nesbírá osobní údaje.",
-    "rozet": "Pro iOS · brzy v App Storu"
+    "rozet": "Stáhnout v App Storu"
   },
   "nelerVar": "Co obsahuje?",
   "kartlar": [
@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Zásady ochrany soukromí",
-    "tarih": "Datum účinnosti: 9. listopadu 2026",
+    "tarih": "Datum účinnosti: 11. listopadu 2026",
     "giris": "Tyto zásady vysvětlují, jaké informace a jakým způsobem používá aplikace Muslimly: Časy modliteb, Korán pro iOS („Muslimly“). Stručně: Muslimly nemá server a nesbírá od tebe osobní údaje. Některé funkce kvůli svému fungování odesílají požadavky na služby třetích stran, které jsou níže jednotlivě uvedeny.",
     "bolumler": [
       {
@@ -197,8 +197,14 @@
         "h2": "Nákupy",
         "p": [
           "Muslimly nabízí volitelné předplatné Premium a jednorázový doživotní nákup.",
-          "Nákup a platbu zpracovává Apple; Muslimly platební údaje nevidí. K ověření, zda je tvé předplatné platné, se používá služba RevenueCat (RevenueCat, Inc.). Této službě se předává náhodně vygenerované uživatelské číslo, které není spojeno s tvým jménem ani Apple ID, historie nákupů (produkt, datum, cena, měna, země) a verze aplikace a iOS. RevenueCat dostává také identifikátor dodavatele (IDFV); nejde o reklamní identifikátor a nepoužívá se ke sledování. Tyto informace se nepoužívají pro reklamu ani sledování a za tímto účelem se nesdílejí s třetími stranami. Zásady ochrany soukromí RevenueCat: revenuecat.com/privacy.",
+          "Nákup a platbu zpracovává Apple; Muslimly platební údaje nevidí. K ověření, zda je tvé předplatné platné, se používá služba RevenueCat (RevenueCat, Inc.). Této službě se předává náhodně vygenerované uživatelské číslo, které není spojeno s tvým jménem ani Apple ID, historie nákupů (produkt, datum, cena, měna, země) a verze aplikace a iOS. RevenueCat dostává také identifikátor dodavatele (IDFV); nejde o reklamní identifikátor a nepoužívá se ke sledování. Tyto informace se nepoužívají pro reklamu ani sledování a za tímto účelem se nesdílejí s třetími stranami. Pokud hlavní adresa RevenueCat kvůli chybě sítě není dostupná, aplikace pro ověření připojení pošle krátký požadavek bez obsahu na apple.com, api.revenuecat.com a oficiální záložní adresu RevenueCat api.rc-backup.com; pokud je záložní adresa dostupná, ověření předplatného proběhne přes ni. S těmito požadavky se neodesílají žádné jiné informace než výše uvedené. Zásady ochrany soukromí RevenueCat: revenuecat.com/privacy.",
           "Předplatné můžeš spravovat nebo zrušit v nastavení účtu App Store; žádosti o vrácení peněz se podávají přes Apple."
+        ]
+      },
+      {
+        "h2": "Aktualizace aplikace",
+        "p": [
+          "Aby mohl Muslimly dostávat opravy chyb bez čekání na aktualizaci z App Storu, posílá při každém otevření požadavek aktualizační službě Expo (u.expo.dev; Expo, 650 Industries, Inc.). V tomto požadavku se odesílá verze aplikace, aktualizační kanál, platforma zařízení a náhodný identifikátor vytvořený při instalaci aplikace, který tě neidentifikuje (EAS-Client-ID), a jako u každého internetového požadavku i tvá IP adresa. Tvé jméno, poloha ani data v aplikaci se neodesílají. Zásady ochrany soukromí Expo: expo.dev/privacy."
         ]
       },
       {

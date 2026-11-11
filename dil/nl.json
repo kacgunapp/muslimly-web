@@ -13,7 +13,7 @@
   "kahraman": {
     "simgeAlt": "App-pictogram van Muslimly: een gouden opengeslagen boek met licht erboven",
     "giris": "Een eenvoudige metgezel die het makkelijker maakt om je aanbidding regelmatig te houden. Met een kindermodus en een volwassenenmodus; zonder account, zonder advertenties en zonder verzameling van persoonsgegevens.",
-    "rozet": "Voor iOS · binnenkort in de App Store"
+    "rozet": "Download in de App Store"
   },
   "nelerVar": "Wat zit erin?",
   "kartlar": [
@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Privacybeleid",
-    "tarih": "Ingangsdatum: 9 november 2026",
+    "tarih": "Ingangsdatum: 11 november 2026",
     "giris": "Dit beleid legt uit welke informatie de iOS-app Muslimly: Gebedstijden & Koran („Muslimly”) gebruikt en hoe. Kort gezegd: Muslimly heeft geen server en verzamelt geen persoonsgegevens van je. Om te werken sturen sommige functies verzoeken naar de hieronder één voor één genoemde diensten van derden.",
     "bolumler": [
       {
@@ -197,8 +197,14 @@
         "h2": "Aankopen",
         "p": [
           "Muslimly biedt een optioneel Premium-abonnement en een eenmalige levenslange aankoop.",
-          "Aankoop en betaling worden door Apple verwerkt; Muslimly ziet je betaalgegevens niet. Om te controleren of je abonnement geldig is, wordt de dienst RevenueCat (RevenueCat, Inc.) gebruikt. Naar deze dienst gaan een willekeurig gegenereerd gebruikersnummer dat niet aan je naam of je Apple Account is gekoppeld, de aankoopgeschiedenis (product, datum, prijs, valuta, land) en de versies van de app en van iOS. RevenueCat ontvangt ook de leveranciers-ID (IDFV); dit is geen advertentie-ID en wordt niet gebruikt voor tracking. Deze informatie wordt niet gebruikt voor advertenties of tracking en niet met dat doel met derden gedeeld. Privacybeleid van RevenueCat: revenuecat.com/privacy.",
+          "Aankoop en betaling worden door Apple verwerkt; Muslimly ziet je betaalgegevens niet. Om te controleren of je abonnement geldig is, wordt de dienst RevenueCat (RevenueCat, Inc.) gebruikt. Naar deze dienst gaan een willekeurig gegenereerd gebruikersnummer dat niet aan je naam of je Apple Account is gekoppeld, de aankoopgeschiedenis (product, datum, prijs, valuta, land) en de versies van de app en van iOS. RevenueCat ontvangt ook de leveranciers-ID (IDFV); dit is geen advertentie-ID en wordt niet gebruikt voor tracking. Deze informatie wordt niet gebruikt voor advertenties of tracking en niet met dat doel met derden gedeeld. Als het hoofdadres van RevenueCat door een netwerkfout niet bereikbaar is, stuurt de app om de verbinding te testen een kort verzoek zonder inhoud naar apple.com, api.revenuecat.com en het officiële reserveadres van RevenueCat, api.rc-backup.com; als het reserveadres bereikbaar is, verloopt de controle van het abonnement via dat adres. Met deze verzoeken wordt geen andere informatie verstuurd dan hierboven vermeld. Privacybeleid van RevenueCat: revenuecat.com/privacy.",
           "Je kunt je abonnement beheren of opzeggen in de instellingen van je App Store-account; terugbetalingsverzoeken lopen via Apple."
+        ]
+      },
+      {
+        "h2": "App-updates",
+        "p": [
+          "Om foutoplossingen te kunnen ontvangen zonder op een App Store-update te wachten, stuurt Muslimly bij elke keer openen een verzoek naar de updatedienst van Expo (u.expo.dev; Expo, 650 Industries, Inc.). Dit verzoek bevat de versie van de app, het updatekanaal, het apparaatplatform en een willekeurige ID die bij de installatie van de app wordt aangemaakt en jou niet identificeert (EAS-Client-ID), en zoals bij elk internetverzoek ook je IP-adres. Je naam, je locatie en je gegevens in de app worden niet verstuurd. Privacybeleid van Expo: expo.dev/privacy."
         ]
       },
       {

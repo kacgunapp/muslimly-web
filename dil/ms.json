@@ -13,7 +13,7 @@
   "kahraman": {
     "simgeAlt": "Ikon aplikasi Muslimly: kitab terbuka berwarna emas dengan cahaya di atasnya",
     "giris": "Peneman ringkas yang memudahkan anda beribadah dengan teratur. Ada mod kanak-kanak dan dewasa; tidak meminta akaun, tidak memaparkan iklan, tidak mengumpul data peribadi.",
-    "rozet": "Untuk iOS · akan datang di App Store"
+    "rozet": "Muat turun di App Store"
   },
   "nelerVar": "Apa yang ada?",
   "kartlar": [
@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Dasar Privasi",
-    "tarih": "Tarikh berkuat kuasa: 9 November 2026",
+    "tarih": "Tarikh berkuat kuasa: 11 November 2026",
     "giris": "Dasar ini menerangkan maklumat yang digunakan oleh aplikasi Muslimly: Waktu Solat & Quran untuk iOS (“Muslimly”) dan bagaimana ia digunakan. Ringkasnya: Muslimly tidak mempunyai pelayan dan tidak mengumpul data peribadi daripada anda. Sesetengah ciri, untuk berfungsi, menghantar permintaan kepada perkhidmatan pihak ketiga yang disenaraikan satu per satu di bawah.",
     "bolumler": [
       {
@@ -197,8 +197,14 @@
         "h2": "Pembelian",
         "p": [
           "Muslimly menawarkan langganan Premium pilihan dan pembelian sekali bayar seumur hidup.",
-          "Pembelian dan pembayaran diproses oleh Apple; Muslimly tidak melihat maklumat pembayaran. Untuk mengesahkan sama ada langganan anda masih sah, perkhidmatan RevenueCat (RevenueCat, Inc.) digunakan. Perkhidmatan ini menerima nombor pengguna yang dijana secara rawak dan tidak dikaitkan dengan nama atau Apple ID anda, sejarah pembelian (produk, tarikh, harga, mata wang, negara) serta versi aplikasi dan iOS. RevenueCat juga menerima pengecam vendor (IDFV); ini bukan pengecam pengiklanan dan tidak digunakan untuk penjejakan. Maklumat ini tidak digunakan untuk iklan atau penjejakan dan tidak dikongsi dengan pihak ketiga bagi tujuan tersebut. Dasar privasi RevenueCat: revenuecat.com/privacy.",
+          "Pembelian dan pembayaran diproses oleh Apple; Muslimly tidak melihat maklumat pembayaran. Untuk mengesahkan sama ada langganan anda masih sah, perkhidmatan RevenueCat (RevenueCat, Inc.) digunakan. Perkhidmatan ini menerima nombor pengguna yang dijana secara rawak dan tidak dikaitkan dengan nama atau Apple ID anda, sejarah pembelian (produk, tarikh, harga, mata wang, negara) serta versi aplikasi dan iOS. RevenueCat juga menerima pengecam vendor (IDFV); ini bukan pengecam pengiklanan dan tidak digunakan untuk penjejakan. Maklumat ini tidak digunakan untuk iklan atau penjejakan dan tidak dikongsi dengan pihak ketiga bagi tujuan tersebut. Jika alamat utama RevenueCat tidak dapat dicapai kerana ralat rangkaian, aplikasi menghantar permintaan ringkas tanpa kandungan kepada apple.com, api.revenuecat.com dan alamat sandaran rasmi RevenueCat, api.rc-backup.com, untuk menguji sambungan; jika alamat sandaran dapat dicapai, pengesahan langganan dibuat melalui alamat itu. Tiada maklumat lain selain yang dinyatakan di atas dihantar bersama permintaan ini. Dasar privasi RevenueCat: revenuecat.com/privacy.",
           "Anda boleh mengurus atau membatalkan langganan anda dalam tetapan akaun App Store; permintaan bayaran balik dibuat melalui Apple."
+        ]
+      },
+      {
+        "h2": "Kemas kini aplikasi",
+        "p": [
+          "Untuk menerima pembetulan pepijat tanpa menunggu kemas kini App Store, Muslimly menghantar permintaan kepada perkhidmatan kemas kini Expo (u.expo.dev; Expo, 650 Industries, Inc.) setiap kali ia dibuka. Permintaan ini membawa versi aplikasi, saluran kemas kini, platform peranti dan ID rawak yang dijana semasa aplikasi dipasang yang tidak mengenal pasti anda (EAS-Client-ID), serta alamat IP anda seperti setiap permintaan internet. Nama, lokasi atau data anda dalam aplikasi tidak dihantar. Dasar privasi Expo: expo.dev/privacy."
         ]
       },
       {

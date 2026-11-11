@@ -13,7 +13,7 @@
   "kahraman": {
     "simgeAlt": "Muslimly-sovelluksen kuvake: kultainen avoin kirja ja sen yllä valo",
     "giris": "Yksinkertainen apuri, joka helpottaa säännöllistä palvontaa. Siinä on lasten ja aikuisten tila; se ei vaadi tiliä, ei näytä mainoksia eikä kerää henkilötietoja.",
-    "rozet": "iOS:lle · pian App Storessa"
+    "rozet": "Lataa App Storesta"
   },
   "nelerVar": "Mitä siinä on?",
   "kartlar": [
@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Tietosuojakäytäntö",
-    "tarih": "Voimaantulopäivä: 9. marraskuuta 2026",
+    "tarih": "Voimaantulopäivä: 11. marraskuuta 2026",
     "giris": "Tämä käytäntö kertoo, mitä tietoja iOS:n Muslimly: Rukousajat & Koraani -sovellus (”Muslimly”) käyttää ja miten. Lyhyesti: Muslimlylla ei ole palvelinta, eikä se kerää sinusta henkilötietoja. Jotkin toiminnot lähettävät toimiakseen pyyntöjä alla yksitellen luetelluille kolmannen osapuolen palveluille.",
     "bolumler": [
       {
@@ -197,8 +197,14 @@
         "h2": "Ostot",
         "p": [
           "Muslimly tarjoaa valinnaisen Premium-tilauksen ja kertaluontoisen elinikäisen oston.",
-          "Oston ja maksun käsittelee Apple; Muslimly ei näe maksutietojasi. Tilauksesi voimassaolon tarkistamiseen käytetään RevenueCat-palvelua (RevenueCat, Inc.). Palveluun lähetetään satunnaisesti luotu käyttäjänumero, jota ei yhdistetä nimeesi tai Apple ID:hesi, ostohistoria (tuote, päivämäärä, hinta, valuutta, maa) sekä sovelluksen ja iOS:n versio. RevenueCat saa myös toimittajatunnisteen (IDFV); se ei ole mainostunniste, eikä sitä käytetä seurantaan. Näitä tietoja ei käytetä mainontaan tai seurantaan eikä niitä jaeta kolmansille osapuolille tähän tarkoitukseen. RevenueCatin tietosuojakäytäntö: revenuecat.com/privacy.",
+          "Oston ja maksun käsittelee Apple; Muslimly ei näe maksutietojasi. Tilauksesi voimassaolon tarkistamiseen käytetään RevenueCat-palvelua (RevenueCat, Inc.). Palveluun lähetetään satunnaisesti luotu käyttäjänumero, jota ei yhdistetä nimeesi tai Apple ID:hesi, ostohistoria (tuote, päivämäärä, hinta, valuutta, maa) sekä sovelluksen ja iOS:n versio. RevenueCat saa myös toimittajatunnisteen (IDFV); se ei ole mainostunniste, eikä sitä käytetä seurantaan. Näitä tietoja ei käytetä mainontaan tai seurantaan eikä niitä jaeta kolmansille osapuolille tähän tarkoitukseen. Jos RevenueCatin pääosoitteeseen ei saada yhteyttä verkkovirheen vuoksi, sovellus lähettää yhteyden testaamiseksi lyhyen, sisällöttömän pyynnön osoitteisiin apple.com ja api.revenuecat.com sekä RevenueCatin viralliseen varaosoitteeseen api.rc-backup.com; jos varaosoite on tavoitettavissa, tilauksen tarkistus tehdään sen kautta. Näiden pyyntöjen mukana ei lähetetä muita kuin yllä mainittuja tietoja. RevenueCatin tietosuojakäytäntö: revenuecat.com/privacy.",
           "Voit hallita tai perua tilauksesi App Storen tiliasetuksista; hyvityspyynnöt tehdään Applen kautta."
+        ]
+      },
+      {
+        "h2": "Sovelluksen päivitykset",
+        "p": [
+          "Jotta Muslimly voi saada virhekorjauksia odottamatta App Store -päivitystä, se lähettää jokaisella avauskerralla pyynnön Expon päivityspalveluun (u.expo.dev; Expo, 650 Industries, Inc.). Pyynnössä välittyvät sovelluksen versio, päivityskanava, laitteen alusta ja sovelluksen asennuksen yhteydessä luotu satunnainen tunniste, joka ei tunnista sinua (EAS-Client-ID), sekä kuten jokaisessa internetpyynnössä IP-osoitteesi. Nimeäsi, sijaintiasi tai sovelluksessa olevia tietojasi ei lähetetä. Expon tietosuojakäytäntö: expo.dev/privacy."
         ]
       },
       {

@@ -13,7 +13,7 @@
   "kahraman": {
     "simgeAlt": "Muslimly-appens symbol: en gyllene uppslagen bok med ljus ovanför",
     "giris": "En enkel hjälpreda som gör det lättare att hålla tillbedjan regelbunden. Det finns ett barn- och ett vuxenläge; den kräver inget konto, visar ingen reklam och samlar inte in personuppgifter.",
-    "rozet": "För iOS · snart på App Store"
+    "rozet": "Hämta i App Store"
   },
   "nelerVar": "Vad finns det?",
   "kartlar": [
@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Integritetspolicy",
-    "tarih": "Gäller från: 9 november 2026",
+    "tarih": "Gäller från: 11 november 2026",
     "giris": "Den här policyn förklarar vilken information appen Muslimly: Bönetider & Koranen för iOS (”Muslimly”) använder och hur. Kort sagt: Muslimly har ingen server och samlar inte in personuppgifter om dig. Vissa funktioner skickar, för att fungera, förfrågningar till de tredjepartstjänster som räknas upp en och en nedan.",
     "bolumler": [
       {
@@ -197,8 +197,14 @@
         "h2": "Köp",
         "p": [
           "Muslimly erbjuder ett valfritt Premium-abonnemang och ett engångsköp för livstid.",
-          "Köp och betalning hanteras av Apple; Muslimly ser inte dina betalningsuppgifter. För att kontrollera om ditt abonnemang är giltigt används tjänsten RevenueCat (RevenueCat, Inc.). Till tjänsten skickas ett slumpmässigt genererat användarnummer, som inte kopplas till ditt namn eller ditt Apple-ID, köphistorik (produkt, datum, pris, valuta, land) samt versionen av appen och iOS. RevenueCat tar också emot leverantörs-ID:t (IDFV); det är inte ett annons-ID och används inte för spårning. Denna information används inte för reklam eller spårning och delas inte med tredje part i det syftet. RevenueCats integritetspolicy: revenuecat.com/privacy.",
+          "Köp och betalning hanteras av Apple; Muslimly ser inte dina betalningsuppgifter. För att kontrollera om ditt abonnemang är giltigt används tjänsten RevenueCat (RevenueCat, Inc.). Till tjänsten skickas ett slumpmässigt genererat användarnummer, som inte kopplas till ditt namn eller ditt Apple-ID, köphistorik (produkt, datum, pris, valuta, land) samt versionen av appen och iOS. RevenueCat tar också emot leverantörs-ID:t (IDFV); det är inte ett annons-ID och används inte för spårning. Denna information används inte för reklam eller spårning och delas inte med tredje part i det syftet. Om RevenueCats huvudadress inte kan nås på grund av ett nätverksfel skickar appen, för att testa anslutningen, en kort förfrågan utan innehåll till apple.com, api.revenuecat.com och RevenueCats officiella reservadress api.rc-backup.com; om reservadressen kan nås sker kontrollen av prenumerationen via den. Med dessa förfrågningar skickas ingen annan information än den ovan. RevenueCats integritetspolicy: revenuecat.com/privacy.",
           "Du kan hantera eller säga upp ditt abonnemang i kontoinställningarna i App Store; begäran om återbetalning görs via Apple."
+        ]
+      },
+      {
+        "h2": "Appuppdateringar",
+        "p": [
+          "För att kunna ta emot felrättningar utan att vänta på en App Store-uppdatering skickar Muslimly en förfrågan till Expos uppdateringstjänst (u.expo.dev; Expo, 650 Industries, Inc.) varje gång appen öppnas. Förfrågan innehåller appens version, uppdateringskanalen, enhetens plattform och ett slumpmässigt id som skapas när appen installeras och som inte identifierar dig (EAS-Client-ID), och som vid varje internetförfrågan även din IP-adress. Ditt namn, din plats och dina data i appen skickas inte. Expos integritetspolicy: expo.dev/privacy."
         ]
       },
       {

@@ -13,7 +13,7 @@
   "kahraman": {
     "simgeAlt": "Muslimly tətbiq nişanı: qızılı açıq kitab və üstündə nur",
     "giris": "İbadəti müntəzəm etməyi asanlaşdıran sadə köməkçi. Uşaq və böyük rejimi var; hesab istəmir, reklam göstərmir, şəxsi məlumat toplamır.",
-    "rozet": "iOS üçün · tezliklə App Store-da"
+    "rozet": "App Store-dan yüklə"
   },
   "nelerVar": "Nələr var?",
   "kartlar": [
@@ -117,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Məxfilik Siyasəti",
-    "tarih": "Qüvvəyə minmə tarixi: 9 noyabr 2026",
+    "tarih": "Qüvvəyə minmə tarixi: 11 noyabr 2026",
     "giris": "Bu siyasət iOS üçün Muslimly: Namaz vaxtı, Quran tətbiqinin (“Muslimly”) hansı məlumatları necə istifadə etdiyini izah edir. Qısaca: Muslimly-nin serveri yoxdur və səndən şəxsi məlumat toplamır. Bəzi funksiyalar işləmək üçün aşağıda bir-bir yazılmış üçüncü tərəf xidmətlərinə sorğu göndərir.",
     "bolumler": [
       {
@@ -197,8 +197,14 @@
         "h2": "Satın almalar",
         "p": [
           "Muslimly isteğe bağlı Premium abunəlik və birdəfəlik ömürlük satın alma təklif edir.",
-          "Satın alma və ödəniş Apple tərəfindən emal edilir; Muslimly ödəniş məlumatlarını görmür. Abunəliyinin etibarlı olub-olmadığını yoxlamaq üçün RevenueCat (RevenueCat, Inc.) xidmətindən istifadə olunur. Bu xidmətə təsadüfi yaradılmış, adınla və ya Apple ID-nlə əlaqələndirilməyən istifadəçi nömrəsi, satın alma tarixçəsi (məhsul, tarix, qiymət, valyuta, ölkə) və tətbiqin və iOS-un versiyası gedir. RevenueCat satıcı identifikatorunu (IDFV) da alır; bu, reklam identifikatoru deyil və izləmə üçün istifadə olunmur. Bu məlumatlar reklam və ya izləmə üçün istifadə olunmur və bu məqsədlə üçüncü tərəflərlə paylaşılmır. RevenueCat-in məxfilik siyasəti: revenuecat.com/privacy.",
+          "Satın alma və ödəniş Apple tərəfindən emal edilir; Muslimly ödəniş məlumatlarını görmür. Abunəliyinin etibarlı olub-olmadığını yoxlamaq üçün RevenueCat (RevenueCat, Inc.) xidmətindən istifadə olunur. Bu xidmətə təsadüfi yaradılmış, adınla və ya Apple ID-nlə əlaqələndirilməyən istifadəçi nömrəsi, satın alma tarixçəsi (məhsul, tarix, qiymət, valyuta, ölkə) və tətbiqin və iOS-un versiyası gedir. RevenueCat satıcı identifikatorunu (IDFV) da alır; bu, reklam identifikatoru deyil və izləmə üçün istifadə olunmur. Bu məlumatlar reklam və ya izləmə üçün istifadə olunmur və bu məqsədlə üçüncü tərəflərlə paylaşılmır. RevenueCat-in əsas ünvanına şəbəkə xətası səbəbindən çatmaq mümkün olmasa, tətbiq bağlantını yoxlamaq üçün apple.com, api.revenuecat.com və RevenueCat-in rəsmi ehtiyat ünvanı api.rc-backup.com-a məzmun daşımayan qısa sorğu göndərir; ehtiyat ünvan əlçatandırsa, abunəliyin yoxlanması bu ünvan vasitəsilə aparılır. Bu sorğularla yuxarıdakılardan başqa heç bir məlumat getmir. RevenueCat-in məxfilik siyasəti: revenuecat.com/privacy.",
           "Abunəliyini App Store hesab ayarlarından idarə edə və ya ləğv edə bilərsən; geri ödəniş tələbləri Apple vasitəsilə edilir."
+        ]
+      },
+      {
+        "h2": "Tətbiq yeniləmələri",
+        "p": [
+          "Xəta düzəlişlərini App Store yeniləməsini gözləmədən ala bilmək üçün Muslimly hər açılışda Expo-nun yeniləmə xidmətinə (u.expo.dev; Expo, 650 Industries, Inc.) sorğu göndərir. Bu sorğuda tətbiqin versiyası, yeniləmə kanalı, cihaz platforması və tətbiq quraşdırılarkən yaradılan, səni tanıtmayan təsadüfi identifikator (EAS-Client-ID), həmçinin hər internet sorğusunda olduğu kimi IP ünvanın gedir. Adın, məkanın və ya tətbiqdəki məlumatların göndərilmir. Expo-nun məxfilik siyasəti: expo.dev/privacy."
         ]
       },
       {
